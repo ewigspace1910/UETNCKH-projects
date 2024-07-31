@@ -1,0 +1,42 @@
+FROM python:3.9-slim-buster as base
+
+FROM base as builder
+FROM base
+RUN apt-get update && apt-get install \
+libglib2.0-0 \
+libgl1-mesa-glx -y && \
+apt-get autoremove && \
+rm -rf /var/lib/apt/lists/* && \
+rm -rf /var/cache/apt/archives
+
+
+RUN mkdir -p /app
+RUN mkdir -p /tmp
+WORKDIR /app 
+#setup folder
+COPY ./heyjen/db_integration        ./db_integration
+COPY ./heyjen/Modules        ./Modules
+COPY ./heyjen/Routers        ./Routers
+COPY ./heyjen/config.py .
+COPY ./heyjen/main.py .
+
+
+# initialize environment
+
+COPY ./heyjen/requirements.txt ./requirements.txt 
+RUN python3 -m pip install -r ./requirements.txt --no-cache
+RUN python3 -m pip install awslambdaric --no-cache
+
+RUN python3 -m nltk.downloader punkt 
+RUN [ "python3", "-c", "import nltk; nltk.download('inference')" ]
+RUN [ "python3", "-c", "import nltk; nltk.download('parse')" ]
+RUN [ "python3", "-c", "import nltk; nltk.download('chat')" ]
+RUN [ "python3", "-c", "import nltk; nltk.download('chunk')" ]
+RUN [ "python3", "-c", "import nltk; nltk.download('stopwords')" ]
+RUN [ "python3", "-c", "import nltk; nltk.download('punkt')" ]
+RUN [ "python3", "-c", "import nltk; nltk.download('averaged_perceptron_tagger')" ]
+RUN cp -r /root/nltk_data /usr/local/share/nltk_data 
+RUN rm -r /root/nltk_data
+
+ENTRYPOINT [ "python", "-m", "awslambdaric" ]
+CMD ["main.handler"]
