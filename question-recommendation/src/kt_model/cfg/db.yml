@@ -1,0 +1,27 @@
+indb:
+    # hostname: smartjen-prod-replica.c38kf9nuthng.ap-southeast-1.rds.amazonaws.com
+    hostname: rnd.c38kf9nuthng.ap-southeast-1.rds.amazonaws.com
+    user: admin #ducanh
+    password: qllESKF7SZu9rK7C499G #jasklfducanh44
+    schema_name: saas_main
+    port: 3306
+
+tables:
+    # sj_users : [id, username, status, last_login, last_login_date, branch_code, activation_status]
+    #4 KT model
+    # sj_performance_score: ["id", "user_id", "topic_id", "question_id", "score", "fullmark", "date", "created_at"]
+    pals_performance_score: ["pals_dbid", "id", "user_id", "topic_id", "question_id", "score", "fullmark", "created_at"]
+    # sj_performance_score: ["id", "user_id", "topic_id", "question_id", "subject_id", "strand_id","substrand_id", "score", "fullmark", "date", "created_at"]
+    # sj_quiz : [id, worksheetId, assignedTo, assignedDate, status, visibility_status, subject_type,  branch_tag, lesson_id, class_id]
+    # sj_worksheet_questions : ["*"]
+    # sj_quiz_attempt : ["*"]
+    # sj_quiz_attempt_answer : ["*"]
+    # sj_difficulty : ["*"]
+    #Knowledge Graph
+    # sj_questions: [question_id, question_text, level_id, topic_id, topic_id2, topic_id3, substrategy_id, substrategy_id2,substrategy_id3, strategy_id, strategy_id2, strategy_id3, difficulty_level, facility_index]
+    # sj_categories: ["id as topic_id", 'substrand_id', 'subject_type as subject_id']
+    pals_questions: [question_id, question_text, level_id, topic_id, topic_id2, topic_id3, substrategy_id, substrategy_id2,substrategy_id3, difficulty_level, facility_index]
+    pals_topics: ["id as topic_id", 'substrand_id', 'subject_type as subject_id']
+    # sj_topics: ["*"]
+    # sj_strands : ["*"]
+    # sj_substrands : ["*"]

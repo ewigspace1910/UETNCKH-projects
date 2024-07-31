@@ -1,0 +1,25 @@
+global:
+    name: recsys v2.1
+data:
+    raw_folder: ../data/raw
+    models_folder: ../data/models/kt-model
+    log_folder : ../data/logs
+    black_lists: 
+        user: /home/ubuntu/recsys/data/black_list_user.csv
+
+model:
+    max_seq_len : 120 #120
+    num_encoder : 8
+    hidden_size : 16 #128#512
+    num_head    : 8 #16 # it will be divided 2(default) in attention class, so actual head num is 8(default)
+    output_size : 1  # KT is binary classification
+    dropout_p   : .1
+    use_leakyrelu : True
+
+tuning:
+    num_calls: 10
+    seed: 100
+    cv: false
+    bottom_k: 5
+scoring:
+    weakest_k: 5

@@ -1,0 +1,11 @@
+#urllib3==1.25.11
+#requests==2.23.0
+#python-multipart
+#fastapi
+#mangum
+#uvicorn
+openpyxl
+networkx
+pyvis
+sklearn
+pymysql

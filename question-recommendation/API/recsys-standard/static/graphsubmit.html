@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Graph</title>       
+    <script>
+
+        function neighbourhoodHighlight(params) {
+        // console.log("in nieghbourhoodhighlight");
+        allNodes = nodes.get({ returnType: "Object" });
+        // originalNodes = JSON.parse(JSON.stringify(allNodes));
+        // if something is selected:
+        if (params.nodes.length > 0) {
+            highlightActive = true;
+            var i, j;
+            var selectedNode = params.nodes[0];
+            var degrees = 2;
+
+            // mark all nodes as hard to read.
+            for (let nodeId in allNodes) {
+            // nodeColors[nodeId] = allNodes[nodeId].color;
+            allNodes[nodeId].color = "rgba(200,200,200,0.5)";
+            if (allNodes[nodeId].hiddenLabel === undefined) {
+                allNodes[nodeId].hiddenLabel = allNodes[nodeId].label;
+                allNodes[nodeId].label = undefined;
+            }
+            }
+            var connectedNodes = network.getConnectedNodes(selectedNode);
+            var allConnectedNodes = [];
+
+            // get the second degree nodes
+            for (i = 1; i < degrees; i++) {
+            for (j = 0; j < connectedNodes.length; j++) {
+                allConnectedNodes = allConnectedNodes.concat(
+                network.getConnectedNodes(connectedNodes[j])
+                );
+            }
+            }
+
+            // all second degree nodes get a different color and their label back
+            for (i = 0; i < allConnectedNodes.length; i++) {
+            // allNodes[allConnectedNodes[i]].color = "pink";
+            allNodes[allConnectedNodes[i]].color = "rgba(150,150,150,0.75)";
+            if (allNodes[allConnectedNodes[i]].hiddenLabel !== undefined) {
+                allNodes[allConnectedNodes[i]].label =
+                allNodes[allConnectedNodes[i]].hiddenLabel;
+                allNodes[allConnectedNodes[i]].hiddenLabel = undefined;
+            }
+            }
+
+            // all first degree nodes get their own color and their label back
+            for (i = 0; i < connectedNodes.length; i++) {
+            // allNodes[connectedNodes[i]].color = undefined;
+            allNodes[connectedNodes[i]].color = nodeColors[connectedNodes[i]];
+            if (allNodes[connectedNodes[i]].hiddenLabel !== undefined) {
+                allNodes[connectedNodes[i]].label =
+                allNodes[connectedNodes[i]].hiddenLabel;
+                allNodes[connectedNodes[i]].hiddenLabel = undefined;
+            }
+            }
+
+            // the main node gets its own color and its label back.
+            // allNodes[selectedNode].color = undefined;
+            allNodes[selectedNode].color = nodeColors[selectedNode];
+            if (allNodes[selectedNode].hiddenLabel !== undefined) {
+            allNodes[selectedNode].label = allNodes[selectedNode].hiddenLabel;
+            allNodes[selectedNode].hiddenLabel = undefined;
+            }
+        } else if (highlightActive === true) {
+            // console.log("highlightActive was true");
+            // reset all nodes
+            for (let nodeId in allNodes) {
+            // allNodes[nodeId].color = "purple";
+            allNodes[nodeId].color = nodeColors[nodeId];
+            // delete allNodes[nodeId].color;
+            if (allNodes[nodeId].hiddenLabel !== undefined) {
+                allNodes[nodeId].label = allNodes[nodeId].hiddenLabel;
+                allNodes[nodeId].hiddenLabel = undefined;
+            }
+            }
+            highlightActive = false;
+        }
+
+        // transform the object into an array
+        var updateArray = [];
+        if (params.nodes.length > 0) {
+            for (let nodeId in allNodes) {
+            if (allNodes.hasOwnProperty(nodeId)) {
+                // console.log(allNodes[nodeId]);
+                updateArray.push(allNodes[nodeId]);
+            }
+            }
+            nodes.update(updateArray);
+        } else {
+            // console.log("Nothing was selected");
+            for (let nodeId in allNodes) {
+            if (allNodes.hasOwnProperty(nodeId)) {
+                // console.log(allNodes[nodeId]);
+                // allNodes[nodeId].color = {};
+                updateArray.push(allNodes[nodeId]);
+            }
+            }
+            nodes.update(updateArray);
+        }
+        }
+
+        function filterHighlight(params) {
+        allNodes = nodes.get({ returnType: "Object" });
+        // if something is selected:
+        if (params.nodes.length > 0) {
+            filterActive = true;
+            let selectedNodes = params.nodes;
+
+            // hiding all nodes and saving the label
+            for (let nodeId in allNodes) {
+            allNodes[nodeId].hidden = true;
+            if (allNodes[nodeId].savedLabel === undefined) {
+                allNodes[nodeId].savedLabel = allNodes[nodeId].label;
+                allNodes[nodeId].label = undefined;
+            }
+            }
+
+            for (let i=0; i < selectedNodes.length; i++) {
+            allNodes[selectedNodes[i]].hidden = false;
+            if (allNodes[selectedNodes[i]].savedLabel !== undefined) {
+                allNodes[selectedNodes[i]].label = allNodes[selectedNodes[i]].savedLabel;
+                allNodes[selectedNodes[i]].savedLabel = undefined;
+            }
+            }
+
+        } else if (filterActive === true) {
+            // reset all nodes
+            for (let nodeId in allNodes) {
+            allNodes[nodeId].hidden = false;
+            if (allNodes[nodeId].savedLabel !== undefined) {
+                allNodes[nodeId].label = allNodes[nodeId].savedLabel;
+                allNodes[nodeId].savedLabel = undefined;
+            }
+            }
+            filterActive = false;
+        }
+
+        // transform the object into an array
+        var updateArray = [];
+        if (params.nodes.length > 0) {
+            for (let nodeId in allNodes) {
+            if (allNodes.hasOwnProperty(nodeId)) {
+                updateArray.push(allNodes[nodeId]);
+            }
+            }
+            nodes.update(updateArray);
+        } else {
+            for (let nodeId in allNodes) {
+            if (allNodes.hasOwnProperty(nodeId)) {
+                updateArray.push(allNodes[nodeId]);
+            }
+            }
+            nodes.update(updateArray);
+        }
+        }
+
+        function selectNode(nodes) {
+        network.selectNodes(nodes);
+        neighbourhoodHighlight({ nodes: nodes });
+        return nodes;
+        }
+
+        function selectNodes(nodes) {
+        network.selectNodes(nodes);
+        filterHighlight({nodes: nodes});
+        return nodes;
+        }
+
+        function highlightFilter(filter) {
+        let selectedNodes = []
+        let selectedProp = filter['property']
+        if (filter['item'] === 'node') {
+            let allNodes = nodes.get({ returnType: "Object" });
+            for (let nodeId in allNodes) {
+            if (allNodes[nodeId][selectedProp] && filter['value'].includes((allNodes[nodeId][selectedProp]).toString())) {
+                selectedNodes.push(nodeId)
+            }
+            }
+        }
+        else if (filter['item'] === 'edge'){
+            let allEdges = edges.get({returnType: 'object'});
+            // check if the selected property exists for selected edge and select the nodes connected to the edge
+            for (let edge in allEdges) {
+            if (allEdges[edge][selectedProp] && filter['value'].includes((allEdges[edge][selectedProp]).toString())) {
+                selectedNodes.push(allEdges[edge]['from'])
+                selectedNodes.push(allEdges[edge]['to'])
+            }
+            }
+        }
+        selectNodes(selectedNodes)
+        }
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+        crossorigin="anonymous"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+    crossorigin="anonymous"></script>
+    <style type="text/css">
+        #mynetwork {
+            width: 100%;
+            height: 600px;
+            background-color: #333131;
+            border: 2px solid rgb(48, 57, 156);
+            position: relative;
+            float: left;
+        }
+        .center-div {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div  class="center-div">
+        <h1>Upload CSV/Excel and Generate Network Graph</h1>
+        <select id="subjectIDInput" required>|</select>
+
+        <input type="file" id="fileInput" accept=".csv,.xlsx" required>
+        <label for="showRequireRel">show "require" relationship</label>
+        <input type="checkbox" id="showRequireRel" name="includeCheckbox1" value="no" >
+        <label for="showRelevantRel">show "relevant" relationship</label>
+        <input type="checkbox" id="showRelevantRel" name="includeCheckbox2" value="no">
+        <button onclick="submitFile()">Upload and Process</button>
+        <label for="checkboxInput">For dev?</label>
+        <input type="checkbox" id="checkboxInput" name="includeCheckbox" value="no">
+    </div>
+    <hr>
+    <h3 id="responseMsg"></h3>
+    <button  style="visibility:hidden" id="btn-display">Display</button>
+    <div class="card" style="width: 100%">
+            <div id="mynetwork" class="card-body"></div>
+    </div>
+    <div  class="center-div">
+        <h3>Example of Excel/CSV input file</h3>
+        <img src="/static/examples-of-df.png" alt="Italian Trulli">
+    </div>
+  <script>
+    async function submitFile() {
+      const fileInput = document.getElementById('fileInput');
+      const selectedInput = document.getElementById('subjectIDInput').value;
+      const includeCheckbox = document.getElementById('checkboxInput').checked;
+      const includeCheckbox1 = document.getElementById('showRequireRel').checked;
+      const includeCheckbox2 = document.getElementById('showRelevantRel').checked;
+
+      const responseMsg = document.getElementById('responseMsg');
+      const responseContainer = document.getElementById('responseContainer');
+
+      if (!fileInput.files[0]) {
+        responseMsg.innerText = 'Please select a file.';
+        return;
+      }
+
+      responseMsg.innerText = 'Processing...';
+      const formData = new FormData();
+      formData.append('subject_id', selectedInput);
+      formData.append('docfile', fileInput.files[0]);
+      formData.append('is_test', includeCheckbox);
+      formData.append('show_requireRel', includeCheckbox1);
+      formData.append('show_relevantRel', includeCheckbox2);
+
+
+      try {
+        const response = await fetch('/submit/graph', {
+          method: 'POST',
+          body: formData
+        });
+
+        const data = await response.json();
+        if (data.complete) {
+            // Process graph data and plot the network graph
+            responseMsg.innerText = "Graph";
+            var container = document.getElementById('mynetwork');
+            // parsing and collecting nodes and edges from the python
+            nodes = new vis.DataSet(data.data.nodes)
+            edges = new vis.DataSet(data.data.edges)
+
+            nodeColors = {};
+            allNodes = nodes.get({ returnType: "Object" });
+            for (nodeId in allNodes) {
+                nodeColors[nodeId] = allNodes[nodeId].color;}
+            allEdges = edges.get({ returnType: "Object" });
+            // adding nodes and edges to the graph
+            var graph = {'nodes': nodes, 'edges': edges};
+            const options = {
+                "autoResize": true,
+                "height": '100%',
+                "width": '100%',
+                "configure": {
+                        "enabled": true,
+                        "filter": 'nodes,edges',
+                        "showButton": true
+                    },
+                "nodes": {
+                    "opacity": 0.3,
+                    "font": { "size": 5},
+                    "scaling": {"min": 38},
+                },
+                "edges": {
+                    "arrows": {
+                    "to": {
+                        "enabled": true,
+                        "scaleFactor": 0.5
+                    }
+                    },
+                    "color": {"inherit": true},
+                    "selfReference": {
+                    "angle": 0.7853981633974483
+                    },
+                    "smooth": false
+                },
+                "interaction": {
+                    "navigationButtons": true
+                },
+                "physics": {
+                    "enabled": true,
+                    "barnesHut": {
+                    "gravitationalConstant": -17500
+                    },
+                    "maxVelocity": 3,
+                    "minVelocity": 0.01
+                }
+                }
+
+            network = new vis.Network(container, graph, options);
+
+            // return network;
+        } else {
+          // Display error message
+          responseMsg.innerText = 'Error: ' + data.error;
+        }
+      } catch (error) {responseMsg.innerText = 'An error occurred: ' + error.message;}
+    }
+  </script>
+</body>
+</html>
+
+
+
+
