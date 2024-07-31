@@ -1,0 +1,28 @@
+FROM ubuntu:22.04
+
+#install pandoc
+COPY ./data/model/pandoc-nightly-linux/* /usr/local/bin
+RUN chmod +x /usr/local/bin/pandoc*
+
+RUN apt update 
+RUN apt install --no-install-recommends -y  git zip curl htop gcc libgl1-mesa-glx libglib2.0-0 libpython3-dev python3-pip
+RUN apt install ffmpeg libsm6 libxext6  -y
+
+
+#INSTALL PIPELINE
+RUN mkdir -p /app
+WORKDIR /app 
+
+COPY ./deploy        ./deploy
+COPY ./deploy/app.py .
+COPY ./data/model/rt-dert/* ./deploy 
+
+# initialize environment
+RUN pip install awslambdaric
+COPY ./deploy/requirements.txt ./requirements.txt 
+RUN pip install -r ./requirements.txt --no-cache
+
+
+ENTRYPOINT [ "python3", "-m", "awslambdaric" ]
+CMD ["app.handler"]
+

@@ -1,0 +1,19 @@
+FROM python:3.8
+
+RUN mkdir -p /app
+RUN mkdir -p /app/tmp
+WORKDIR /app 
+
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+
+#setup folder
+COPY ./deployonnx        ./deploy
+COPY ./deployonnx/app.py .
+COPY ./data/model/onnx-yolo8/yolov8x.onnx ./deploy/yolo.onnx
+# initialize environment
+RUN pip install awslambdaric
+COPY ./deployonnx/requirements.txt ./requirements.txt 
+RUN pip install -r ./requirements.txt --no-cache
+RUN pip install pillow -t python/ --upgrade
+ENTRYPOINT [ "python", "-m", "awslambdaric" ]
+CMD ["app.handler"]

@@ -1,0 +1,9 @@
+numpy==1.24.3
+fastapi
+mangum
+urllib3==1.26.15
+requests==2.29.0
+ultralytics
+python-multipart
+boto3      #for s3 buckage 
+onnxruntime==1.12.0

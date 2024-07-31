@@ -1,0 +1,20 @@
+FROM python:3.8
+
+RUN mkdir -p /app
+WORKDIR /app 
+
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+
+#setup folder
+COPY ./deploy        ./deploy
+COPY ./deploy/app.py .
+# copy models
+COPY ./data/model/rt-dert/* ./deploy 
+
+# initialize environment
+RUN pip install awslambdaric
+COPY ./deploy/requirements.txt ./requirements.txt 
+RUN pip install -r ./requirements.txt --no-cache
+
+ENTRYPOINT [ "python", "-m", "awslambdaric" ]
+CMD ["app.handler"]

@@ -1,0 +1,8 @@
+*.zip
+test_data_sources.py
+test.py
+intraday.csv
+stock_data.csv
+SSI/
+.idea/
+.venv/
