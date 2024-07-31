@@ -31,7 +31,7 @@ BC2GM, and JNLPBA.
 
 
 ## Requirements and Datasets
-- Same as [IRRA](https://github.com/nlpie-research/Compact-Biomedical-Transformers)
+- Same as [CompactBioedicalTransformer](https://github.com/nlpie-research/Compact-Biomedical-Transformers)
 
 
 ## Training and Evaluation
