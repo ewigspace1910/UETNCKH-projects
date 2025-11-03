@@ -1,0 +1,15 @@
+#env cuda
+#python 3.10, 
+#gcc==8.5 | conda install -c conda-forge gcc_linux-64==8.5.0
+#conda install nvidia/label/cuda-11.3.1::cuda-toolkit
+#conda install pytorch=1.11.0 torchvision cudatoolkit=11.3 -c pytorch
+#  pip install mmcv-full==1.5.3 -f https://download.openmmlab.com/mmcv/dist/cu113/torch1.11/index.html  | refer to https://github.com/open-mmlab/mmsegmentation/blob/v0.24.1/docs/en/get_started.md#installation
+
+# timm==1.0.11
+-r requirements/optional.txt
+-r requirements/runtime.txt
+-r requirements/tests.txt
+# After that
+# numpy==1.23.0 # it could make error
+prettytable
+IPython
