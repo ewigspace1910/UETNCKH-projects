@@ -1,0 +1,3006 @@
+{
+    "topics": [
+        "Technology and Society",
+        "Environmental Issues",
+        "Work and Career",
+        "Travel and Tourism",
+        "Health and Fitness",
+        "Education Systems",
+        "Culture and Traditions",
+        "Media and News",
+        "Urbanization and Housing",
+        "Art and Creativity",
+        "Transportation",
+        "Food and Diet",
+        "Sports and Recreation",
+        "Language Learning",
+        "Family and Relationships",
+        "Shopping and Consumerism",
+        "Education and Technology",
+        "Environment and Lifestyle",
+        "Books and Reading",
+        "Public Services",
+        "Social Media and Communication",
+        "Government and Politics",
+        "Science and Innovation",
+        "Languages and Cultural Identity",
+        "Music and Society",
+        "Economics and Poverty",
+        "Space Exploration",
+        "Festivals and Celebrations",
+        "Climate Change and Energy",
+        "Personal Development and Life Skills",
+        "Education and Learning Styles",
+        "Work-Life Balance",
+        "Cultural Diversity in the Workplace",
+        "Urban Green Spaces",
+        "Tourism Impact on Local Communities",
+        "Artificial Intelligence and Employment",
+        "Importance of Museums and Historical Monuments",
+        "Role of Sports in Society",
+        "Impact of Advertising on Consumer Behavior",
+        "Volunteering and Community Service",
+        "Fashion and Personal Style",
+        "Childhood Memories",
+        "Technology and Privacy",
+        "Public Transportation",
+        "Workplace Communication",
+        "Volunteering Benefits",
+        "Advertising and Consumer Choices",
+        "Space Tourism",
+        "Learning Foreign Languages",
+        "Urban Planning and Community Spaces",
+        "Hobbies and Leisure Activities",
+        "Gender Roles in Society",
+        "Urban Crime and Safety",
+        "Aging Population",
+        "Public Transportation Developments",
+        "Workplace Diversity",
+        "Food Waste and Solutions",
+        "Tourism and Cultural Exchange",
+        "Influence of Literature on Society",
+        "Role of Museums in Education",
+        "Animal Rights and Welfare",
+        "Space Exploration Ethics",
+        "Effects of Globalization",
+        "Youth and Social Responsibility",
+        "Role of Libraries in Modern Society",
+        "Urban Noise Pollution",
+        "Impact of Celebrity Culture",
+        "Traditional Festivals and Modern Life",
+        "Consumer Debt and Financial Literacy",
+        "Impact of Automation on Employment",
+        "Education and Motivation",
+        "Workplace Technology Adoption",
+        "Urban Green Initiatives",
+        "Public Health Policies",
+        "Cultural Exchange Programs",
+        "Digital Privacy and Security",
+        "Volunteerism and Social Impact",
+        "Global Trade and Economy",
+        "Mental Health Awareness",
+        "Urban Transportation Challenges",
+        "Child Development and Parenting",
+        "Human Rights and Equality",
+        "Workplace Ethics and Morality",
+        "Urban Agriculture and Food Security",
+        "Space and Astronomy Education",
+        "Public Safety and Disaster Preparedness",
+        "Philanthropy and Social Change",
+        "Cinema and Society",
+        "Renewable Energy Adoption",
+        "Mental Health Stigma",
+        "Education Policies",
+        "Cultural Identity",
+        "Environmental Conservation",
+        "Urban Infrastructure",
+        "Workplace Motivation",
+        "Global Health Issues",
+        "Digital Education",
+        "Urban Safety and Security",
+        "Tourism Economics",
+        "Civic Engagement",
+        "Social Changes",
+        "Urban Wildlife",
+        "Public Libraries",
+        "Crisis Management",
+        "Workplace Learning",
+        "Public Art",
+        "Rural Development",
+        "Climate Adaptation Strategies",
+        "Volunteering Abroad",
+        "Cultural Heritage Preservation",
+        "Space Technology and Society",
+        "Workplace Automation",
+        "Public Health Challenges",
+        "Cultural Influence of Cinema",
+        "Urban Wildlife Conservation",
+        "Rural Development and Migration",
+        "Climate Adaptation Strategies",
+        "Role of Libraries in the Digital Age",
+        "Philanthropy and Social Impact",
+        "Mental Health in the Workplace",
+        "Renewable Energy Technologies",
+        "Urban Poverty and Solutions",
+        "Influence of Social Movements",
+        "Impact of Globalization on Local Cultures",
+        "Role of Volunteer Organizations",
+        "Challenges in Higher Education Accessibility",
+        "Future of Public Libraries",
+        "Ethics in Advertising",
+        "Effects of Aging Populations on Society",
+        "Importance of Early Childhood Education",
+        "Space and Astronomy",
+        "Rural Development",
+        "Philanthropy and Social Change",
+        "Mental Health Stigma",
+        "Urban Agriculture and Food Security",
+        "Crisis Management",
+        "Cultural Heritage Preservation",
+        "Renewable Energy Adoption",
+        "Human Rights and Equality",
+        "Social Changes",
+        "Education and Childhood Development",
+        "Globalization and Culture",
+        "Workplace Stress and Mental Health",
+        "Urban vs Rural Living",
+        "Social Inequality and Education",
+        "Climate Change and Agriculture",
+        "Digital Entertainment and Social Interaction",
+        "Global Health Challenges",
+        "Transportation and Urban Development",
+        "Art Education and Society",
+        "Urban Waste Management",
+        "Impact of Migration on Society",
+        "Role of Libraries in Modern Communities",
+        "Urban Noise Pollution",
+        "Cultural Impact of Sports Events",
+        "Future of Work and Automation",
+        "Water Conservation in Urban Areas",
+        "Role of Museums in Education",
+        "Challenges of Aging Populations in Cities",
+        "Effects of Global Pop Culture on Local Traditions",
+        "Space Tourism and Its Impact",
+        "Entrepreneurship and Economic Growth",
+        "Urban Wildlife Conservation",
+        "Impact of Volunteering on Personal Growth",
+        "Public Art and Community Identity",
+        "Ethics of Genetic Engineering",
+        "Influence of Cinema on Social Attitudes",
+        "Challenges in Higher Education Accessibility",
+        "Role of Libraries in the Digital Age",
+        "Effects of Aging Populations on Society",
+        "Social Etiquette and Communication",
+        "Workplace Leadership and Management",
+        "Urban Transportation Challenges",
+        "Emerging Trends in Education",
+        "Globalization and Cultural Identity",
+        "Public Health and Community Well-being",
+        "Environmental Sustainability Practices",
+        "Cultural Significance of Traditional Music",
+        "Challenges of Aging Societies",
+        "Ethics in Scientific Research",
+        "Urban Agriculture and Community Gardening",
+        "The Role of Libraries in the Digital Age",
+        "Ethical Issues in Genetic Engineering",
+        "The Influence of Cinema on Social Attitudes",
+        "Entrepreneurship and Economic Growth",
+        "Water Conservation in Urban Areas",
+        "Social Etiquette and Communication",
+        "Challenges in Higher Education Accessibility",
+        "Philanthropy and Social Change",
+        "Workplace Leadership and Management",
+        "Space and Astronomy Discoveries",
+        "Rural Lifestyle Changes",
+        "Ethics in Genetic Engineering",
+        "Globalization and Cultural Identity",
+        "Philanthropy and Social Change",
+        "Public Health Policies During Pandemics",
+        "Challenges of Aging Societies",
+        "Impact of Migration on Society",
+        "Environmental Sustainability Practices in Business",
+        "The Future of Work and Automation",
+        "Urban Gardening and Community Health",
+        "Space Colonization Perspectives",
+        "Traditional Crafts vs Modern Manufacturing",
+        "Impact of Urban Noise on Mental Health",
+        "Food Security in Urban Areas",
+        "Volunteering and Skill Development",
+        "Impacts of Digital Detox Practices",
+        "Changing Trends in Family Structures",
+        "Role of Public Parks in Urban Areas",
+        "Ethical Consumerism and Global Impact",
+        "Fashion Industry and Society",
+        "Technology in Education Beyond Digital Learning",
+        "Urban Wildlife and Biodiversity",
+        "Changes in Family Dynamics",
+        "Rural Community Development",
+        "Ethics of Genetic Engineering",
+        "Public Art and Urban Identity",
+        "Food Security and Urban Agriculture",
+        "Volunteerism and Personal Development",
+        "Environmental Policies and Business Practices",
+        "Urban Agriculture and Food Security",
+        "Ethics of Genetic Engineering",
+        "Philanthropy and Social Change",
+        "Public Health Policies During Pandemics",
+        "Impact of Migration on Society",
+        "Environmental Sustainability Practices in Business",
+        "Role of Public Parks in Urban Areas",
+        "Changing Trends in Family Structures",
+        "Ethical Consumerism and Global Impact",
+        "Technology in Education Beyond Digital Learning",
+        "Space Tourism and Its Future",
+        "Traditional Crafts and Modern Manufacturing",
+        "Food Security in Urban Areas",
+        "Changing Trends in Family Structures",
+        "Ethical Consumerism and Global Impact",
+        "Philanthropy and Social Change",
+        "Impact of Migration on Society",
+        "Environmental Sustainability Practices in Business",
+        "Technology in Education Beyond Digital Learning",
+        "Urban Gardening and Community Health",
+        "Space Exploration and Its Challenges",
+        "Rural Areas and Their Development",
+        "Traditional Crafts and Modern Manufacturing",
+        "Public Parks and Urban Green Spaces",
+        "Ethical Consumerism and Environmental Impact",
+        "Changing Family Structures and Social Impact",
+        "Food Security and Urban Agriculture",
+        "Volunteerism and Personal Growth",
+        "Impacts of Digital Detox Practices",
+        "Traditional Festivals and Modern Society",
+        "Space Exploration and Its Challenges",
+        "Rural Areas and Their Development",
+        "Traditional Crafts and Modern Manufacturing",
+        "Public Parks and Urban Green Spaces",
+        "Ethical Consumerism and Environmental Impact",
+        "Changing Family Structures and Social Impact",
+        "Food Security and Urban Agriculture",
+        "Volunteerism and Personal Growth",
+        "Impacts of Digital Detox Practices",
+        "Traditional Festivals and Modern Society",
+        "Space Exploration Benefits and Challenges",
+        "Rural Development and Community Life",
+        "Traditional Crafts and Modern Industry",
+        "Public Parks and Urban Green Spaces",
+        "Ethical Consumerism and Environmental Impact",
+        "Changing Family Structures and Social Implications",
+        "Food Security and Urban Agriculture",
+        "Volunteerism and Personal Growth",
+        "Impacts of Digital Detox Practices",
+        "Traditional Festivals and Modern Society",
+        "Cultural Festivals",
+        "Space Exploration Benefits and Challenges",
+        "Rural Development and Community Life",
+        "Traditional Crafts and Modern Industry",
+        "Public Parks and Urban Green Spaces",
+        "Ethical Consumerism and Environmental Impact",
+        "Changing Family Structures and Social Impact",
+        "Food Security and Urban Agriculture",
+        "Volunteerism and Personal Growth",
+        "Impacts of Digital Detox Practices",
+        "Globalization and Local Communities",
+        "Workplace Communication and Remote Work",
+        "Urban Transportation and Environmental Impact",
+        "Digital Entertainment and Social Interaction",
+        "Traditional Education vs. Online Learning",
+        "Rural Development and Migration",
+        "Cultural Heritage Preservation and Modernization",
+        "Food Security and Sustainable Agriculture",
+        "Public Health and Epidemic Preparedness",
+        "Ethics in Scientific Research and Innovation",
+        "Space Tourism",
+        "Modern Architecture and Urban Design",
+        "Volunteerism and Social Impact",
+        "Digital Detox and Mental Health",
+        "Traditional Crafts and Modern Industry",
+        "Environmental Policies and Business Practices",
+        "Public Parks and Urban Well-being",
+        "Changing Family Structures and Social Implications",
+        "Ethical Consumerism and Global Impact",
+        "Rural Development and Migration Patterns"
+    ],
+    "questions": [
+        {
+            "Topic": "Technology and Society",
+            "Questions": [
+                "How has technology changed the way people communicate?",
+                "What are the advantages and disadvantages of relying on technology in daily life?",
+                "Do you think technology has made people more isolated or more connected?",
+                "How can technology be used to improve education?"
+            ]
+        },
+        {
+            "Topic": "Environmental Issues",
+            "Questions": [
+                "What are the main causes of pollution in cities?",
+                "How can individuals contribute to environmental protection?",
+                "What role should governments play in addressing climate change?",
+                "Do you think economic development should be prioritized over environmental protection?"
+            ]
+        },
+        {
+            "Topic": "Work and Career",
+            "Questions": [
+                "How do you think the nature of work is changing in modern society?",
+                "What qualities are important for success in the workplace?",
+                "How can employers improve job satisfaction among employees?",
+                "Do you think it's better to have a stable job or to take risks with a new career?"
+            ]
+        },
+        {
+            "Topic": "Travel and Tourism",
+            "Questions": [
+                "What are the benefits of traveling to other countries?",
+                "How can tourism affect the culture of a destination?",
+                "Should governments invest more in promoting tourism?",
+                "What are some popular types of tourism in your country?"
+            ]
+        },
+        {
+            "Topic": "Health and Fitness",
+            "Questions": [
+                "Why is it important to maintain a healthy lifestyle?",
+                "What challenges do people face when trying to stay fit?",
+                "How can schools encourage students to be more active?",
+                "Do you think modern lifestyles are more harmful to health than in the past?"
+            ]
+        },
+        {
+            "Topic": "Education Systems",
+            "Questions": [
+                "What are the advantages of traditional classroom learning compared to online learning?",
+                "How can education be made more accessible to everyone?",
+                "In what ways can schools help students develop critical thinking skills?",
+                "Should education focus more on theory or practical skills?"
+            ]
+        },
+        {
+            "Topic": "Culture and Traditions",
+            "Questions": [
+                "How do cultural traditions influence people's behavior?",
+                "Are traditional festivals still important in today's society?",
+                "How can cultural exchange benefit individuals and communities?",
+                "Do you think younger generations should preserve cultural heritage?"
+            ]
+        },
+        {
+            "Topic": "Media and News",
+            "Questions": [
+                "What impact does social media have on public opinion?",
+                "How can people identify trustworthy news sources?",
+                "Do you think the media should be regulated to prevent spreading false information?",
+                "How has the role of newspapers changed with the rise of digital media?"
+            ]
+        },
+        {
+            "Topic": "Urbanization and Housing",
+            "Questions": [
+                "What problems are associated with rapid urbanization?",
+                "How can cities become more livable for their residents?",
+                "What are the advantages and disadvantages of living in high-rise apartments?",
+                "Should governments prioritize affordable housing projects?"
+            ]
+        },
+        {
+            "Topic": "Art and Creativity",
+            "Questions": [
+                "Why is art important in society?",
+                "How can schools encourage creativity among students?",
+                "Do public places benefit from having artworks or sculptures?",
+                "How has digital technology influenced the way people create art?"
+            ]
+        },
+        {
+            "Topic": "Transportation",
+            "Questions": [
+                "How do you think transportation systems can be improved in big cities?",
+                "What are the advantages and disadvantages of public transport?",
+                "How has transportation changed people's lifestyles?",
+                "Do you think electric cars will become popular in the future?"
+            ]
+        },
+        {
+            "Topic": "Food and Diet",
+            "Questions": [
+                "How do people's food preferences change as they grow older?",
+                "What are the effects of fast food on society?",
+                "How important is it to maintain a balanced diet?",
+                "Do you believe traditional food should be preserved or modernized?"
+            ]
+        },
+        {
+            "Topic": "Sports and Recreation",
+            "Questions": [
+                "Why do some people dislike participating in sports?",
+                "How do sports influence social relationships?",
+                "What role does government play in promoting sports?",
+                "Do you think professional sports players should earn high salaries?"
+            ]
+        },
+        {
+            "Topic": "Language Learning",
+            "Questions": [
+                "What are the benefits of learning a foreign language?",
+                "How has technology changed language learning?",
+                "Should children start learning foreign languages at an early age?",
+                "What difficulties do adults face when learning new languages?"
+            ]
+        },
+        {
+            "Topic": "Family and Relationships",
+            "Questions": [
+                "How have family roles changed in recent decades?",
+                "What are the challenges of maintaining close family relationships?",
+                "How important is the role of grandparents in a family?",
+                "Do you think traditional family gatherings are still popular?"
+            ]
+        },
+        {
+            "Topic": "Shopping and Consumerism",
+            "Questions": [
+                "How has online shopping affected traditional shops?",
+                "What factors influence people's buying decisions?",
+                "Do you think advertising affects consumer behavior?",
+                "Is it important to teach children about consumerism?"
+            ]
+        },
+        {
+            "Topic": "Education and Technology",
+            "Questions": [
+                "How can technology enhance the learning experience?",
+                "Are there any drawbacks to using technology in education?",
+                "Do you think online education will replace traditional classrooms?",
+                "How can teachers adapt to new technological tools?"
+            ]
+        },
+        {
+            "Topic": "Environment and Lifestyle",
+            "Questions": [
+                "How do lifestyle choices impact the environment?",
+                "What can individuals do to live more sustainably?",
+                "Is environmental awareness increasing among young people?",
+                "How does urban living affect people's connection with nature?"
+            ]
+        },
+        {
+            "Topic": "Books and Reading",
+            "Questions": [
+                "How has reading habits changed over the years?",
+                "What are the advantages of reading books compared to watching TV?",
+                "Why do some people prefer e-books over printed books?",
+                "Do you think reading fiction is important for children?"
+            ]
+        },
+        {
+            "Topic": "Public Services",
+            "Questions": [
+                "What kind of public services are important in your country?",
+                "How can public transportation systems be made more efficient?",
+                "What challenges do public hospitals face today?",
+                "Should governments spend more on improving public services or infrastructure?"
+            ]
+        },
+        {
+            "Topic": "Social Media and Communication",
+            "Questions": [
+                "How has social media changed the way people communicate?",
+                "What are the advantages and disadvantages of social media for young people?",
+                "Do you think social media has a positive impact on relationships? Why or why not?",
+                "How can people protect their privacy on social media platforms?"
+            ]
+        },
+        {
+            "Topic": "Government and Politics",
+            "Questions": [
+                "What role do governments play in improving the quality of life?",
+                "How important is it for young people to participate in politics?",
+                "What are some challenges governments face in modern societies?",
+                "How can citizens influence government policies effectively?"
+            ]
+        },
+        {
+            "Topic": "Science and Innovation",
+            "Questions": [
+                "How does scientific research benefit society?",
+                "What are some ethical concerns related to scientific innovation?",
+                "How should governments support scientific development?",
+                "Do you think new technologies always improve people's lives? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Languages and Cultural Identity",
+            "Questions": [
+                "How does language influence cultural identity?",
+                "Should education systems promote learning multiple languages?",
+                "What challenges do people face when learning a new language later in life?",
+                "How can preserving indigenous languages benefit society?"
+            ]
+        },
+        {
+            "Topic": "Music and Society",
+            "Questions": [
+                "What role does music play in different cultures?",
+                "How can music influence people's emotions and behavior?",
+                "Should schools place more emphasis on music education? Why or why not?",
+                "In what ways has technology changed how people access and experience music?"
+            ]
+        },
+        {
+            "Topic": "Economics and Poverty",
+            "Questions": [
+                "What are the main causes of poverty in modern societies?",
+                "How can governments reduce income inequality?",
+                "Is economic growth always beneficial for all members of society? Explain your answer.",
+                "What role do education and training play in economic development?"
+            ]
+        },
+        {
+            "Topic": "Space Exploration",
+            "Questions": [
+                "What are the benefits of exploring outer space?",
+                "Should governments invest more in space exploration or solving problems on Earth? Why?",
+                "How can international cooperation improve space missions?",
+                "Do you think private companies should be allowed to conduct space exploration?"
+            ]
+        },
+        {
+            "Topic": "Festivals and Celebrations",
+            "Questions": [
+                "Why are festivals important for communities?",
+                "How do traditional festivals help preserve cultural heritage?",
+                "Have festivals changed as societies become more modern? Explain with examples.",
+                "Can festivals promote tourism and economic growth? How?"
+            ]
+        },
+        {
+            "Topic": "Climate Change and Energy",
+            "Questions": [
+                "What actions can individuals take to reduce their carbon footprint?",
+                "How important is renewable energy for the future of the planet?",
+                "What challenges do countries face when implementing climate policies?",
+                "Do you think international agreements are effective in combating climate change?"
+            ]
+        },
+        {
+            "Topic": "Personal Development and Life Skills",
+            "Questions": [
+                "Why is it important to learn life skills apart from academic knowledge?",
+                "How can schools help students develop personal and social skills?",
+                "What role does self-reflection play in personal growth?",
+                "Can failure be beneficial for personal development? Explain your answer."
+            ]
+        },
+        {
+            "Topic": "Education and Learning Styles",
+            "Questions": [
+                "How do different learning styles affect students' performance?",
+                "What role should technology play in modern education?",
+                "How can teachers accommodate diverse learning needs in a classroom?",
+                "What are the advantages and disadvantages of online education?"
+            ]
+        },
+        {
+            "Topic": "Work-Life Balance",
+            "Questions": [
+                "Why is work-life balance important for employees?",
+                "What strategies can individuals use to achieve a better work-life balance?",
+                "How can employers help their staff maintain a healthy work-life balance?",
+                "Has the concept of work-life balance changed over the past decades?"
+            ]
+        },
+        {
+            "Topic": "Cultural Diversity in the Workplace",
+            "Questions": [
+                "What are the benefits of having a culturally diverse workforce?",
+                "What challenges can arise from cultural diversity at work?",
+                "How can organizations promote inclusivity among employees from different backgrounds?",
+                "In what ways does cultural diversity impact teamwork and communication?"
+            ]
+        },
+        {
+            "Topic": "Urban Green Spaces",
+            "Questions": [
+                "Why are green spaces important in urban areas?",
+                "How do urban parks contribute to residents' well-being?",
+                "What challenges do cities face in maintaining green spaces?",
+                "Can green spaces influence social interactions among city dwellers?"
+            ]
+        },
+        {
+            "Topic": "Tourism Impact on Local Communities",
+            "Questions": [
+                "What are some positive effects of tourism on local communities?",
+                "How can tourism negatively affect the culture of a place?",
+                "What measures can be taken to promote sustainable tourism?",
+                "Should local residents have a say in tourism development projects?"
+            ]
+        },
+        {
+            "Topic": "Artificial Intelligence and Employment",
+            "Questions": [
+                "How might artificial intelligence change the job market in the future?",
+                "What types of jobs are most at risk due to automation?",
+                "Can artificial intelligence create new job opportunities?",
+                "What skills will be important for workers to adapt to AI advancements?"
+            ]
+        },
+        {
+            "Topic": "Importance of Museums and Historical Monuments",
+            "Questions": [
+                "What role do museums play in preserving history?",
+                "How can historical monuments contribute to national identity?",
+                "Should governments invest more in maintaining cultural heritage sites?",
+                "How do museums attract younger generations to learn about history?"
+            ]
+        },
+        {
+            "Topic": "Role of Sports in Society",
+            "Questions": [
+                "How can sports promote social cohesion and community spirit?",
+                "Why is physical education important in schools?",
+                "What impact do major sporting events have on a country’s image?",
+                "Should governments invest more in supporting amateur sports?"
+            ]
+        },
+        {
+            "Topic": "Impact of Advertising on Consumer Behavior",
+            "Questions": [
+                "How does advertising influence people's purchasing decisions?",
+                "Are advertisements always truthful, and should there be regulations on them?",
+                "What is the effect of targeted advertising on different age groups?",
+                "Can advertising shape cultural values and lifestyle choices?"
+            ]
+        },
+        {
+            "Topic": "Volunteering and Community Service",
+            "Questions": [
+                "Why do people choose to volunteer in their communities?",
+                "What are the benefits of community service for young people?",
+                "How can governments encourage more citizens to participate in volunteering?",
+                "What challenges do volunteer organizations face in maintaining support?"
+            ]
+        },
+        {
+            "Topic": "Fashion and Personal Style",
+            "Questions": [
+                "How do you think fashion impacts a person's identity?",
+                "What are the advantages and disadvantages of following fashion trends?",
+                "How has fashion changed in your country over the past few decades?",
+                "Do you believe the media influences people's clothing choices?"
+            ]
+        },
+        {
+            "Topic": "Childhood Memories",
+            "Questions": [
+                "Why are childhood memories important for adults?",
+                "How can negative childhood experiences affect someone later in life?",
+                "Do you think children today have more or less freedom than in the past?",
+                "What role do family traditions play in shaping childhood memories?"
+            ]
+        },
+        {
+            "Topic": "Technology and Privacy",
+            "Questions": [
+                "What are the challenges of maintaining privacy in the digital age?",
+                "How do governments balance security and individual privacy?",
+                "Do you think people are aware of how their data is used online?",
+                "What steps can individuals take to protect their personal information?"
+            ]
+        },
+        {
+            "Topic": "Public Transportation",
+            "Questions": [
+                "What are the benefits of using public transportation in cities?",
+                "How can public transit systems be improved to encourage more users?",
+                "What impact does public transportation have on the environment?",
+                "Do you think private vehicles will eventually be replaced by public transit?"
+            ]
+        },
+        {
+            "Topic": "Workplace Communication",
+            "Questions": [
+                "How important is communication in a professional environment?",
+                "What are some common barriers to effective workplace communication?",
+                "How has technology changed the way people communicate at work?",
+                "What skills can employees develop to improve their communication?"
+            ]
+        },
+        {
+            "Topic": "Volunteering Benefits",
+            "Questions": [
+                "What motivates people to volunteer their time?",
+                "How does volunteering benefit both individuals and communities?",
+                "Are there challenges associated with volunteering?",
+                "Should volunteering be encouraged more in schools and universities?"
+            ]
+        },
+        {
+            "Topic": "Advertising and Consumer Choices",
+            "Questions": [
+                "How does advertising influence people's purchasing decisions?",
+                "Are there ethical concerns related to advertising tactics?",
+                "Can advertising ever be misleading or harmful?",
+                "Should governments regulate advertising more strictly?"
+            ]
+        },
+        {
+            "Topic": "Space Tourism",
+            "Questions": [
+                "What are the potential benefits of space tourism?",
+                "What challenges might the space tourism industry face in the future?",
+                "Do you think space tourism should be accessible to everyone or only the wealthy?",
+                "How could space tourism change our perspective on Earth and its environment?"
+            ]
+        },
+        {
+            "Topic": "Learning Foreign Languages",
+            "Questions": [
+                "What are the main benefits of learning a foreign language?",
+                "How does learning a new language affect cultural understanding?",
+                "What methods are most effective for language acquisition?",
+                "Should schools focus more on teaching foreign languages from an early age?"
+            ]
+        },
+        {
+            "Topic": "Urban Planning and Community Spaces",
+            "Questions": [
+                "Why is urban planning important for modern cities?",
+                "How can community spaces improve residents' quality of life?",
+                "What challenges do urban planners face when designing public areas?",
+                "Should residents be involved in the planning process of their neighborhoods?"
+            ]
+        },
+        {
+            "Topic": "Hobbies and Leisure Activities",
+            "Questions": [
+                "How do hobbies contribute to a person's overall well-being?",
+                "In what ways can leisure activities influence social relationships?",
+                "Do you think modern lifestyles have changed the types of hobbies people choose? Why?",
+                "How important is it for children to have hobbies outside of school?"
+            ]
+        },
+        {
+            "Topic": "Gender Roles in Society",
+            "Questions": [
+                "How have gender roles evolved in recent decades?",
+                "What impact do traditional gender roles have on career choices?",
+                "Do you think media affects perceptions of gender roles? How?",
+                "How can societies promote equality between genders effectively?"
+            ]
+        },
+        {
+            "Topic": "Urban Crime and Safety",
+            "Questions": [
+                "What are the main causes of urban crime in big cities?",
+                "How can community involvement reduce crime rates?",
+                "Do you believe technology helps in combating crime? Why or why not?",
+                "What role should the government play in ensuring public safety?"
+            ]
+        },
+        {
+            "Topic": "Aging Population",
+            "Questions": [
+                "What challenges does an aging population present to healthcare systems?",
+                "How can society benefit from the elderly population?",
+                "In what ways can governments support older adults to stay active?",
+                "Do you think retirement age should be adjusted due to increasing life expectancy?"
+            ]
+        },
+        {
+            "Topic": "Public Transportation Developments",
+            "Questions": [
+                "How does public transportation affect urban development?",
+                "What are the advantages of investing in eco-friendly public transport?",
+                "What challenges do cities face when expanding public transit networks?",
+                "How can governments encourage people to use public transportation more often?"
+            ]
+        },
+        {
+            "Topic": "Workplace Diversity",
+            "Questions": [
+                "Why is workplace diversity important in modern businesses?",
+                "What challenges might companies face when promoting diversity?",
+                "How does diversity influence creativity and problem-solving at work?",
+                "In what ways can organizations create an inclusive work environment?"
+            ]
+        },
+        {
+            "Topic": "Food Waste and Solutions",
+            "Questions": [
+                "What are the main reasons for food waste in households?",
+                "How can governments and businesses work together to reduce food waste?",
+                "What role do consumers play in addressing food waste issues?",
+                "Do you think education can effectively change attitudes towards food waste?"
+            ]
+        },
+        {
+            "Topic": "Tourism and Cultural Exchange",
+            "Questions": [
+                "How does tourism promote cultural understanding between countries?",
+                "What are the potential negative effects of tourism on local cultures?",
+                "How can tourists act responsibly to respect host communities?",
+                "In what ways can governments balance tourism growth with cultural preservation?"
+            ]
+        },
+        {
+            "Topic": "Influence of Literature on Society",
+            "Questions": [
+                "How can literature reflect social issues and change perspectives?",
+                "Why is reading literature important for personal development?",
+                "Do you think digital media is replacing traditional reading habits? Why or why not?",
+                "How can schools encourage students to appreciate literature more?"
+            ]
+        },
+        {
+            "Topic": "Role of Museums in Education",
+            "Questions": [
+                "How do museums contribute to informal learning outside schools?",
+                "What challenges do museums face in attracting younger audiences?",
+                "In what ways can museums engage communities through exhibitions and events?",
+                "Do you think virtual museum tours can replace physical visits? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Animal Rights and Welfare",
+            "Questions": [
+                "What are the main issues concerning animal rights today?",
+                "How can governments improve animal welfare?",
+                "Do you think animals should have the same rights as humans? Why or why not?",
+                "How does public awareness affect the treatment of animals?"
+            ]
+        },
+        {
+            "Topic": "Space Exploration Ethics",
+            "Questions": [
+                "What ethical considerations arise in space exploration?",
+                "Should resources be spent on space travel when there are problems on Earth?",
+                "How can international cooperation be encouraged in space missions?",
+                "What impact does space exploration have on future generations?"
+            ]
+        },
+        {
+            "Topic": "Effects of Globalization",
+            "Questions": [
+                "How has globalization influenced local cultures?",
+                "What are the economic benefits and drawbacks of globalization?",
+                "Can globalization lead to social inequality?",
+                "How do governments manage the challenges brought by globalization?"
+            ]
+        },
+        {
+            "Topic": "Youth and Social Responsibility",
+            "Questions": [
+                "What social responsibilities do young people have today?",
+                "How can young people contribute to community development?",
+                "What role does education play in fostering social responsibility among youth?",
+                "Are there challenges that prevent young people from engaging in social causes?"
+            ]
+        },
+        {
+            "Topic": "Role of Libraries in Modern Society",
+            "Questions": [
+                "What is the importance of libraries in the digital age?",
+                "How have libraries adapted to changes in technology?",
+                "Do you think physical libraries will remain relevant in the future? Why or why not?",
+                "How can libraries support lifelong learning and community engagement?"
+            ]
+        },
+        {
+            "Topic": "Urban Noise Pollution",
+            "Questions": [
+                "What are the main sources of noise pollution in cities?",
+                "How does noise pollution affect people's health and well-being?",
+                "What measures can be taken to reduce noise pollution?",
+                "Is noise pollution regulation effective in your country? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Impact of Celebrity Culture",
+            "Questions": [
+                "How does celebrity culture influence society's values?",
+                "What are some positive and negative effects of idolizing celebrities?",
+                "In what ways do celebrities contribute to social change?",
+                "Should the media be more responsible in covering celebrities' private lives?"
+            ]
+        },
+        {
+            "Topic": "Traditional Festivals and Modern Life",
+            "Questions": [
+                "How have traditional festivals changed in modern times?",
+                "What role do festivals play in cultural identity today?",
+                "Can modern lifestyles threaten the survival of traditional celebrations?",
+                "How can communities keep traditional festivals relevant for younger generations?"
+            ]
+        },
+        {
+            "Topic": "Consumer Debt and Financial Literacy",
+            "Questions": [
+                "What factors contribute to high levels of consumer debt?",
+                "How can financial literacy education benefit individuals and society?",
+                "Do governments have a role in regulating consumer debt?",
+                "What challenges exist in improving financial literacy among different age groups?"
+            ]
+        },
+        {
+            "Topic": "Impact of Automation on Employment",
+            "Questions": [
+                "How is automation changing job opportunities globally?",
+                "Which sectors are most affected by automation, and why?",
+                "What strategies can workers use to adapt to increased automation?",
+                "Should governments intervene to protect jobs affected by automation?"
+            ]
+        },
+        {
+            "Topic": "Education and Motivation",
+            "Questions": [
+                "What factors influence students’ motivation to learn?",
+                "How can schools encourage students to be more motivated?",
+                "Do you think motivation is more important than ability for success in education? Why or why not?",
+                "How has motivation in education changed compared to the past?"
+            ]
+        },
+        {
+            "Topic": "Workplace Technology Adoption",
+            "Questions": [
+                "What challenges do employees face when new technologies are introduced at work?",
+                "How does workplace technology impact employee productivity?",
+                "In what ways can companies support employees in adapting to new technology?",
+                "Do you think technology will completely replace some jobs in the future? Why?"
+            ]
+        },
+        {
+            "Topic": "Urban Green Initiatives",
+            "Questions": [
+                "Why are urban green spaces important for cities?",
+                "What challenges do cities face when trying to implement green initiatives?",
+                "How can citizens contribute to maintaining urban green areas?",
+                "Do you think green initiatives can improve people’s quality of life? In what ways?"
+            ]
+        },
+        {
+            "Topic": "Public Health Policies",
+            "Questions": [
+                "How important are government policies in managing public health issues?",
+                "What role does public education play in improving health outcomes?",
+                "How should governments balance individual freedom with public health regulations?",
+                "What are some examples of effective public health campaigns you know about?"
+            ]
+        },
+        {
+            "Topic": "Cultural Exchange Programs",
+            "Questions": [
+                "How do cultural exchange programs benefit participants personally and professionally?",
+                "What challenges might participants face during cultural exchange experiences?",
+                "In what ways can cultural exchange promote global understanding?",
+                "Should governments invest more in cultural exchange opportunities? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Digital Privacy and Security",
+            "Questions": [
+                "How have concerns about digital privacy changed in recent years?",
+                "What measures can individuals take to protect their online privacy?",
+                "Do you think governments should regulate data collection by companies more strictly?",
+                "How does digital security impact everyday life and business operations?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Social Impact",
+            "Questions": [
+                "Why do some people choose to volunteer while others don’t?",
+                "How can volunteering influence community development?",
+                "What skills can volunteers gain from their experiences?",
+                "Should volunteering be encouraged more in schools and workplaces? How?"
+            ]
+        },
+        {
+            "Topic": "Global Trade and Economy",
+            "Questions": [
+                "What are the advantages and disadvantages of globalization in trade?",
+                "How does international trade affect local businesses and employment?",
+                "In what ways do trade agreements impact the economy of developing countries?",
+                "Should governments protect certain industries through tariffs or allow free trade?"
+            ]
+        },
+        {
+            "Topic": "Mental Health Awareness",
+            "Questions": [
+                "Why is mental health awareness important in society today?",
+                "How can schools and workplaces better support mental health needs?",
+                "What role do social attitudes play in shaping mental health policies?",
+                "How has the perception of mental health changed over the last decade?"
+            ]
+        },
+        {
+            "Topic": "Urban Transportation Challenges",
+            "Questions": [
+                "What are common problems faced by urban transportation systems?",
+                "How can cities improve public transportation to reduce traffic congestion?",
+                "What impact does transportation have on environmental quality in cities?",
+                "Do you think technological advances will solve urban transportation issues? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Child Development and Parenting",
+            "Questions": [
+                "How do parenting styles influence a child's development?",
+                "What role do grandparents play in modern families?",
+                "How important is early childhood education for later success?",
+                "What challenges do parents face with the rise of digital technology?"
+            ]
+        },
+        {
+            "Topic": "Human Rights and Equality",
+            "Questions": [
+                "What are the main challenges in achieving gender equality today?",
+                "How can societies ensure the protection of minority rights?",
+                "What role do international organizations play in human rights advocacy?",
+                "How does inequality impact social cohesion in communities?"
+            ]
+        },
+        {
+            "Topic": "Workplace Ethics and Morality",
+            "Questions": [
+                "Why is ethical behavior important in the workplace?",
+                "How can companies promote ethical decision-making among employees?",
+                "What are the consequences of unethical practices in business?",
+                "To what extent should personal morals influence professional conduct?"
+            ]
+        },
+        {
+            "Topic": "Urban Agriculture and Food Security",
+            "Questions": [
+                "What benefits does urban agriculture bring to cities?",
+                "How can urban farming contribute to food security?",
+                "What challenges do urban farmers face compared to rural farmers?",
+                "In what ways can local governments support urban agriculture initiatives?"
+            ]
+        },
+        {
+            "Topic": "Space and Astronomy Education",
+            "Questions": [
+                "Why is it important to include space science in school curricula?",
+                "How can astronomy education inspire technological innovation?",
+                "What are the challenges in teaching complex scientific concepts to students?",
+                "How does public interest in space exploration impact education funding?"
+            ]
+        },
+        {
+            "Topic": "Public Safety and Disaster Preparedness",
+            "Questions": [
+                "How can communities better prepare for natural disasters?",
+                "What role does government play in ensuring public safety during emergencies?",
+                "How important is public awareness and education for disaster preparedness?",
+                "What technological advances have improved disaster response?"
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Change",
+            "Questions": [
+                "What motivates individuals to engage in philanthropic activities?",
+                "How effective is philanthropy in addressing social issues?",
+                "What challenges do charitable organizations face in ensuring transparency?",
+                "How can philanthropy influence government policies?"
+            ]
+        },
+        {
+            "Topic": "Cinema and Society",
+            "Questions": [
+                "In what ways does cinema reflect cultural values?",
+                "How has the film industry adapted to digital streaming platforms?",
+                "What impact do movies have on public opinion and social change?",
+                "Should films be used as educational tools in schools?"
+            ]
+        },
+        {
+            "Topic": "Renewable Energy Adoption",
+            "Questions": [
+                "What are the barriers to adopting renewable energy on a large scale?",
+                "How can governments encourage citizens to use renewable energy sources?",
+                "What economic impacts does renewable energy have on local communities?",
+                "To what extent can renewable energy replace fossil fuels in the near future?"
+            ]
+        },
+        {
+            "Topic": "Mental Health Stigma",
+            "Questions": [
+                "Why does stigma around mental health persist in many societies?",
+                "How can public campaigns reduce negative perceptions of mental illness?",
+                "What role do workplaces have in supporting mental health awareness?",
+                "How does stigma affect the willingness of individuals to seek help?"
+            ]
+        },
+        {
+            "Topic": "Education Policies",
+            "Questions": [
+                "How can education policies adapt to meet the needs of diverse learners?",
+                "What role should government play in improving education quality?",
+                "How does access to education impact social equality?",
+                "In what ways can schools prepare students for future societal challenges?"
+            ]
+        },
+        {
+            "Topic": "Cultural Identity",
+            "Questions": [
+                "How important is cultural identity in a globalized world?",
+                "What are the challenges of maintaining cultural traditions among younger generations?",
+                "How can cultural exchange promote understanding?",
+                "In what ways do cultural identities influence personal values?"
+            ]
+        },
+        {
+            "Topic": "Environmental Conservation",
+            "Questions": [
+                "What are the most effective ways to encourage environmental conservation?",
+                "How can communities contribute to protecting local ecosystems?",
+                "What role do individuals play in combating environmental degradation?",
+                "How should governments balance development with environmental protection?"
+            ]
+        },
+        {
+            "Topic": "Urban Infrastructure",
+            "Questions": [
+                "How does urban infrastructure affect quality of life in cities?",
+                "What are the challenges of maintaining infrastructure in rapidly growing cities?",
+                "How can technology improve urban services and facilities?",
+                "In what ways can urban planning address environmental concerns?"
+            ]
+        },
+        {
+            "Topic": "Workplace Motivation",
+            "Questions": [
+                "What factors most influence employee motivation at work?",
+                "How can leaders create a motivating work environment?",
+                "What role does recognition play in employee performance?",
+                "How can motivation strategies differ across cultures?"
+            ]
+        },
+        {
+            "Topic": "Global Health Issues",
+            "Questions": [
+                "What are the main challenges in addressing global health problems?",
+                "How does international cooperation benefit public health initiatives?",
+                "What impact does socioeconomic status have on health outcomes worldwide?",
+                "How can education improve global health awareness and practices?"
+            ]
+        },
+        {
+            "Topic": "Digital Education",
+            "Questions": [
+                "What are the advantages and disadvantages of digital learning platforms?",
+                "How can digital tools support students with different learning styles?",
+                "What challenges do teachers face when integrating technology in classrooms?",
+                "How might digital education change traditional teaching methods in the future?"
+            ]
+        },
+        {
+            "Topic": "Urban Safety and Security",
+            "Questions": [
+                "What measures can cities take to improve public safety?",
+                "How does community involvement contribute to urban security?",
+                "What technologies are effective in preventing crime in urban areas?",
+                "How do social factors influence perceptions of safety in cities?"
+            ]
+        },
+        {
+            "Topic": "Tourism Economics",
+            "Questions": [
+                "How does tourism contribute to a country's economic development?",
+                "What are some negative economic impacts of tourism on local communities?",
+                "In what ways can sustainable tourism benefit both travelers and residents?",
+                "How can governments regulate tourism to maximize economic benefits while minimizing harm?"
+            ]
+        },
+        {
+            "Topic": "Civic Engagement",
+            "Questions": [
+                "Why is civic engagement important in democratic societies?",
+                "What barriers prevent people from participating in civic activities?",
+                "How can education encourage greater involvement in community affairs?",
+                "What role do social media and technology play in modern civic participation?"
+            ]
+        },
+        {
+            "Topic": "Social Changes",
+            "Questions": [
+                "How do social changes affect traditional values in a society?",
+                "In what ways can social media accelerate social changes?",
+                "What role do young people play in driving social changes?",
+                "How important is government support in managing social changes?"
+            ]
+        },
+        {
+            "Topic": "Urban Wildlife",
+            "Questions": [
+                "What challenges do urban wildlife face in cities?",
+                "How can cities balance development with wildlife conservation?",
+                "What are the benefits of having wildlife in urban areas?",
+                "How can local communities contribute to protecting urban wildlife?"
+            ]
+        },
+        {
+            "Topic": "Public Libraries",
+            "Questions": [
+                "How have public libraries adapted to digital technologies?",
+                "Why are public libraries still important in the digital age?",
+                "What services beyond lending books can public libraries offer?",
+                "How can libraries encourage more people to use their facilities?"
+            ]
+        },
+        {
+            "Topic": "Crisis Management",
+            "Questions": [
+                "What skills are essential for effective crisis management?",
+                "How can organizations prepare for unexpected crises?",
+                "What is the role of communication during a crisis?",
+                "Can crises sometimes bring positive changes? Explain with examples."
+            ]
+        },
+        {
+            "Topic": "Workplace Learning",
+            "Questions": [
+                "Why is continuous learning important in the workplace?",
+                "How can employers encourage employees to engage in workplace learning?",
+                "What challenges might employees face in balancing work and learning?",
+                "How does workplace learning contribute to a company's success?"
+            ]
+        },
+        {
+            "Topic": "Public Art",
+            "Questions": [
+                "What is the significance of public art in communities?",
+                "How can public art influence people's perceptions of a place?",
+                "Should governments invest more in public art projects? Why or why not?",
+                "What types of public art are most effective in engaging the public?"
+            ]
+        },
+        {
+            "Topic": "Rural Development",
+            "Questions": [
+                "What are the main challenges of rural development?",
+                "How does rural development impact urban migration?",
+                "What role do government policies play in rural development?",
+                "How can technology contribute to improving rural areas?"
+            ]
+        },
+        {
+            "Topic": "Climate Adaptation Strategies",
+            "Questions": [
+                "What are some effective climate adaptation strategies communities can use?",
+                "How does climate adaptation differ from climate mitigation?",
+                "Why is community involvement important in climate adaptation?",
+                "What challenges might governments face when implementing adaptation strategies?"
+            ]
+        },
+        {
+            "Topic": "Volunteering Abroad",
+            "Questions": [
+                "What motivates people to volunteer abroad?",
+                "What are the potential benefits and drawbacks of volunteering in foreign countries?",
+                "How can volunteering abroad impact local communities positively or negatively?",
+                "What skills do volunteers gain from working abroad?"
+            ]
+        },
+        {
+            "Topic": "Cultural Heritage Preservation",
+            "Questions": [
+                "Why is preserving cultural heritage important for societies?",
+                "How can modernization threaten cultural heritage preservation?",
+                "What roles do governments and communities play in protecting cultural heritage?",
+                "How can technology aid in preserving cultural heritage?"
+            ]
+        },
+        {
+            "Topic": "Space Technology and Society",
+            "Questions": [
+                "How has space technology influenced everyday life?",
+                "What are the potential risks of expanding space exploration?",
+                "How can governments collaborate on space research?",
+                "Do you think private companies should lead space missions?"
+            ]
+        },
+        {
+            "Topic": "Workplace Automation",
+            "Questions": [
+                "How is automation changing job opportunities?",
+                "What skills will be most important in an automated workplace?",
+                "How should employees adapt to automation?",
+                "What are the social implications of replacing workers with machines?"
+            ]
+        },
+        {
+            "Topic": "Public Health Challenges",
+            "Questions": [
+                "What are the biggest public health challenges in your country?",
+                "How can governments improve healthcare access?",
+                "What role does education play in public health?",
+                "How can communities contribute to better health outcomes?"
+            ]
+        },
+        {
+            "Topic": "Cultural Influence of Cinema",
+            "Questions": [
+                "How does cinema reflect cultural values?",
+                "Can films influence social change?",
+                "What challenges do filmmakers face in representing diverse cultures?",
+                "How has streaming affected the film industry culturally?"
+            ]
+        },
+        {
+            "Topic": "Urban Wildlife Conservation",
+            "Questions": [
+                "Why is preserving urban wildlife important?",
+                "What challenges exist in protecting animals in cities?",
+                "How can city planning incorporate wildlife conservation?",
+                "What benefits do urban animals provide to residents?"
+            ]
+        },
+        {
+            "Topic": "Rural Development and Migration",
+            "Questions": [
+                "What attracts people to urban areas from rural regions?",
+                "How can rural areas be developed to prevent migration?",
+                "What role does infrastructure play in rural development?",
+                "How does migration impact rural communities culturally?"
+            ]
+        },
+        {
+            "Topic": "Climate Adaptation Strategies",
+            "Questions": [
+                "Why is adapting to climate change necessary?",
+                "What strategies can cities implement to adapt to climate risks?",
+                "How can individuals contribute to climate adaptation efforts?",
+                "What challenges do governments face in implementing adaptation policies?"
+            ]
+        },
+        {
+            "Topic": "Role of Libraries in the Digital Age",
+            "Questions": [
+                "How have libraries adapted to modern technologies?",
+                "What value do physical libraries still offer today?",
+                "How do libraries contribute to lifelong learning?",
+                "Should governments invest more in library services?"
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Impact",
+            "Questions": [
+                "What motivates individuals or companies to give charitably?",
+                "How can philanthropy address social inequalities?",
+                "Are there risks associated with relying on philanthropy for social programs?",
+                "How can the impact of philanthropic efforts be measured effectively?"
+            ]
+        },
+        {
+            "Topic": "Mental Health in the Workplace",
+            "Questions": [
+                "Why is mental health awareness important at work?",
+                "What steps can employers take to support employee well-being?",
+                "How can stigma around mental illness be reduced in workplaces?",
+                "What role do colleagues have in promoting mental health?"
+            ]
+        },
+        {
+            "Topic": "Renewable Energy Technologies",
+            "Questions": [
+                "How do you think renewable energy can influence a country’s economy?",
+                "What are the challenges in adopting renewable energy on a large scale?",
+                "In what ways can governments encourage the use of renewable energy among citizens?",
+                "Can renewable energy completely replace fossil fuels in the near future?"
+            ]
+        },
+        {
+            "Topic": "Urban Poverty and Solutions",
+            "Questions": [
+                "What are the main causes of urban poverty in many cities?",
+                "How can local communities help in reducing poverty?",
+                "What role should the government play in addressing urban poverty?",
+                "Do you think education can help break the cycle of poverty?"
+            ]
+        },
+        {
+            "Topic": "Influence of Social Movements",
+            "Questions": [
+                "How do social movements impact public opinion and policy changes?",
+                "What are the risks and benefits of participating in social movements?",
+                "To what extent can social media influence the success of a social movement?",
+                "Can social movements lead to long-lasting societal changes?"
+            ]
+        },
+        {
+            "Topic": "Impact of Globalization on Local Cultures",
+            "Questions": [
+                "How does globalization threaten local cultural traditions?",
+                "In what ways can local cultures benefit from globalization?",
+                "Do you think younger generations are losing interest in their cultural heritage due to globalization?",
+                "What measures can preserve cultural identity in a globalized world?"
+            ]
+        },
+        {
+            "Topic": "Role of Volunteer Organizations",
+            "Questions": [
+                "Why are volunteer organizations important for communities?",
+                "How do volunteer groups differ from government agencies in providing services?",
+                "What challenges do volunteer organizations face today?",
+                "Can volunteering help develop personal skills and career prospects?"
+            ]
+        },
+        {
+            "Topic": "Challenges in Higher Education Accessibility",
+            "Questions": [
+                "What are the main barriers to accessing higher education in many countries?",
+                "How can governments improve higher education inclusiveness?",
+                "In what ways does unequal access to education affect society as a whole?",
+                "Should universities offer more financial support to students from disadvantaged backgrounds?"
+            ]
+        },
+        {
+            "Topic": "Future of Public Libraries",
+            "Questions": [
+                "How have public libraries changed with technological advancements?",
+                "What new services can libraries offer to attract more visitors?",
+                "Do you think physical libraries will become obsolete in the future?",
+                "How important are libraries for lifelong learning and community engagement?"
+            ]
+        },
+        {
+            "Topic": "Ethics in Advertising",
+            "Questions": [
+                "What ethical concerns arise in modern advertising?",
+                "How can advertisements influence consumer behavior positively or negatively?",
+                "Should governments regulate advertising content more strictly?",
+                "What responsibility do companies have to be truthful and transparent in their ads?"
+            ]
+        },
+        {
+            "Topic": "Effects of Aging Populations on Society",
+            "Questions": [
+                "What challenges do aging populations pose for healthcare systems?",
+                "How can societies support older adults to remain active and involved?",
+                "Do you think younger generations face disadvantages because of aging populations?",
+                "What policies can address the economic impact of an aging population?"
+            ]
+        },
+        {
+            "Topic": "Importance of Early Childhood Education",
+            "Questions": [
+                "Why is early childhood education considered crucial for development?",
+                "How does early education affect future academic performance?",
+                "What qualities should a good early childhood education program have?",
+                "Should governments invest more resources in early childhood education?"
+            ]
+        },
+        {
+            "Topic": "Space and Astronomy",
+            "Questions": [
+                "How do you think space exploration benefits society?",
+                "What are the challenges faced by astronauts during long space missions?",
+                "How has our understanding of the universe changed in recent years?",
+                "What role should governments play in funding space research?"
+            ]
+        },
+        {
+            "Topic": "Rural Development",
+            "Questions": [
+                "What are the main issues affecting rural areas today?",
+                "How can rural development contribute to the national economy?",
+                "What infrastructure improvements are most needed in rural communities?",
+                "How can education be improved in rural regions?"
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Change",
+            "Questions": [
+                "In what ways can philanthropy influence social change?",
+                "What motivates people to engage in philanthropic activities?",
+                "Are there any risks associated with relying on philanthropy for social improvements?",
+                "How can governments collaborate with philanthropic organizations effectively?"
+            ]
+        },
+        {
+            "Topic": "Mental Health Stigma",
+            "Questions": [
+                "Why does stigma around mental health still exist?",
+                "How can society work towards reducing mental health stigma?",
+                "What impact does stigma have on individuals seeking help?",
+                "What role do schools and workplaces play in addressing mental health stigma?"
+            ]
+        },
+        {
+            "Topic": "Urban Agriculture and Food Security",
+            "Questions": [
+                "How can urban agriculture contribute to food security?",
+                "What challenges do city farmers face compared to rural farmers?",
+                "Do you think urban agriculture will become more important in the future? Why?",
+                "How can local governments support urban farming initiatives?"
+            ]
+        },
+        {
+            "Topic": "Crisis Management",
+            "Questions": [
+                "What are some essential qualities of an effective crisis manager?",
+                "How does crisis management differ between natural disasters and human-made crises?",
+                "What role does communication play in managing a crisis?",
+                "Can you give examples of successful crisis management strategies?"
+            ]
+        },
+        {
+            "Topic": "Cultural Heritage Preservation",
+            "Questions": [
+                "Why is it important to preserve cultural heritage?",
+                "What challenges do countries face in protecting cultural heritage sites?",
+                "How can modern technology help in preserving cultural heritage?",
+                "Should there be international cooperation in safeguarding cultural heritage?"
+            ]
+        },
+        {
+            "Topic": "Renewable Energy Adoption",
+            "Questions": [
+                "What are the main barriers to adopting renewable energy sources widely?",
+                "How can governments encourage individuals and businesses to use renewable energy?",
+                "What impact does renewable energy have on the economy?",
+                "Do you think renewable energy will replace fossil fuels completely? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Human Rights and Equality",
+            "Questions": [
+                "How have human rights evolved over the last century?",
+                "What obstacles prevent equality from being achieved globally?",
+                "What role do international organizations play in protecting human rights?",
+                "How can education promote greater equality in societies?"
+            ]
+        },
+        {
+            "Topic": "Social Changes",
+            "Questions": [
+                "What are some significant social changes that have occurred in your country recently?",
+                "How do social changes influence traditional values and customs?",
+                "Can technology accelerate social change? In what ways?",
+                "How should governments respond to rapid social changes to maintain stability?"
+            ]
+        },
+        {
+            "Topic": "Education and Childhood Development",
+            "Questions": [
+                "How important is play in a child's education?",
+                "What role do parents have in a child's learning process?",
+                "How can schools better support individual student needs?",
+                "Do you think early education affects future success?"
+            ]
+        },
+        {
+            "Topic": "Globalization and Culture",
+            "Questions": [
+                "How does globalization impact traditional cultures?",
+                "Can global cultural exchange be harmful?",
+                "Should countries protect their own cultural heritage?",
+                "What role do international organizations play in cultural preservation?"
+            ]
+        },
+        {
+            "Topic": "Workplace Stress and Mental Health",
+            "Questions": [
+                "What are common causes of stress at work?",
+                "How can employers help reduce workplace stress?",
+                "Is it important to discuss mental health openly at work?",
+                "What impact does workplace stress have on productivity?"
+            ]
+        },
+        {
+            "Topic": "Urban vs Rural Living",
+            "Questions": [
+                "What are the main differences between urban and rural lifestyles?",
+                "Do people in cities have better access to services than those in rural areas?",
+                "Which environment is better for raising children and why?",
+                "How does living in rural areas affect employment opportunities?"
+            ]
+        },
+        {
+            "Topic": "Social Inequality and Education",
+            "Questions": [
+                "How does social inequality affect access to education?",
+                "What measures can reduce educational disparities?",
+                "Is education an effective way to overcome social inequality?",
+                "How do government policies influence equal education opportunities?"
+            ]
+        },
+        {
+            "Topic": "Climate Change and Agriculture",
+            "Questions": [
+                "How is climate change impacting agriculture globally?",
+                "What changes should farmers make to adapt to climate change?",
+                "Can technology help solve issues caused by climate change in farming?",
+                "What role should governments play in supporting sustainable agriculture?"
+            ]
+        },
+        {
+            "Topic": "Digital Entertainment and Social Interaction",
+            "Questions": [
+                "How has digital entertainment changed the way people socialize?",
+                "Does online entertainment reduce face-to-face communication?",
+                "Can digital media help people build new friendships?",
+                "What are the advantages and disadvantages of digital entertainment for young people?"
+            ]
+        },
+        {
+            "Topic": "Global Health Challenges",
+            "Questions": [
+                "What are some current global health challenges facing the world?",
+                "How can international cooperation improve health outcomes worldwide?",
+                "What role do preventive measures play in managing global diseases?",
+                "How has technology contributed to addressing global health issues?"
+            ]
+        },
+        {
+            "Topic": "Transportation and Urban Development",
+            "Questions": [
+                "How does transportation influence urban planning decisions?",
+                "What are the benefits of improving public transportation systems in cities?",
+                "Can better transport reduce environmental problems in urban areas?",
+                "How are cities adapting to increased traffic congestion challenges?"
+            ]
+        },
+        {
+            "Topic": "Art Education and Society",
+            "Questions": [
+                "Why is art education important for students?",
+                "Can learning art improve other academic skills?",
+                "How does art contribute to cultural understanding in society?",
+                "Should governments allocate more funding to art programs in schools?"
+            ]
+        },
+        {
+            "Topic": "Urban Waste Management",
+            "Questions": [
+                "What are the main challenges cities face with urban waste management?",
+                "How can governments encourage citizens to participate in recycling programs?",
+                "What impact does improper waste disposal have on urban environments?",
+                "How might technology improve waste management in cities?"
+            ]
+        },
+        {
+            "Topic": "Impact of Migration on Society",
+            "Questions": [
+                "In what ways does migration influence the culture of a host country?",
+                "What economic effects can result from large-scale migration?",
+                "How do social services adjust to increased migrant populations?",
+                "What challenges do migrants often face when integrating into new communities?"
+            ]
+        },
+        {
+            "Topic": "Role of Libraries in Modern Communities",
+            "Questions": [
+                "How have libraries adapted to changes in technology over recent years?",
+                "What value do physical library spaces offer in the digital age?",
+                "How can libraries support lifelong learning for diverse populations?",
+                "What challenges do public libraries face in maintaining relevance today?"
+            ]
+        },
+        {
+            "Topic": "Urban Noise Pollution",
+            "Questions": [
+                "What are the main sources of noise pollution in urban areas?",
+                "How can excessive noise affect the health of city residents?",
+                "What strategies might cities employ to reduce noise pollution?",
+                "Is there a balance between urban development and controlling noise levels?"
+            ]
+        },
+        {
+            "Topic": "Cultural Impact of Sports Events",
+            "Questions": [
+                "How do major sports events influence the host city's culture and economy?",
+                "In what ways can international sports events promote cultural exchange?",
+                "What are some negative effects that large sports competitions might have on local communities?",
+                "Can hosting sport events foster national pride and unity? How?"
+            ]
+        },
+        {
+            "Topic": "Future of Work and Automation",
+            "Questions": [
+                "How is automation expected to change the nature of employment in the next decade?",
+                "What kinds of jobs are most vulnerable to being replaced by machines?",
+                "How can workers prepare for a future with increased automation?",
+                "What role should governments play in managing the transition to automated workplaces?"
+            ]
+        },
+        {
+            "Topic": "Water Conservation in Urban Areas",
+            "Questions": [
+                "Why is water conservation particularly important in cities?",
+                "What practical measures can urban households take to reduce water usage?",
+                "How do urban infrastructure and planning affect water consumption?",
+                "What challenges exist in promoting water conservation among city residents?"
+            ]
+        },
+        {
+            "Topic": "Role of Museums in Education",
+            "Questions": [
+                "How can museums enhance formal education outside the classroom?",
+                "What are some methods museums use to engage diverse audiences effectively?",
+                "Why might hands-on exhibits be beneficial for learning in museums?",
+                "In what ways do museums contribute to preserving cultural heritage for future generations?"
+            ]
+        },
+        {
+            "Topic": "Challenges of Aging Populations in Cities",
+            "Questions": [
+                "What social services are increasingly important as urban populations age?",
+                "How might cities need to adapt their infrastructure for older residents?",
+                "What economic impacts can arise due to a growing elderly population in urban settings?",
+                "How can communities support active aging and social inclusion for seniors?"
+            ]
+        },
+        {
+            "Topic": "Effects of Global Pop Culture on Local Traditions",
+            "Questions": [
+                "How does exposure to global pop culture influence traditional customs in different countries?",
+                "Is it possible for global and local cultures to coexist harmoniously? Why or why not?",
+                "What role does media play in spreading popular culture worldwide?",
+                "How might younger generations' attitudes toward tradition change due to pop culture influences?"
+            ]
+        },
+        {
+            "Topic": "Space Tourism and Its Impact",
+            "Questions": [
+                "What are the potential benefits of space tourism for society?",
+                "How might space tourism affect the environment in the future?",
+                "Do you think space tourism should be accessible to everyone? Why or why not?",
+                "What challenges can space tourism present to the existing space exploration programs?"
+            ]
+        },
+        {
+            "Topic": "Entrepreneurship and Economic Growth",
+            "Questions": [
+                "In what ways can entrepreneurship drive economic development?",
+                "What are common challenges faced by new entrepreneurs?",
+                "How can governments support small businesses and startups effectively?",
+                "Do you think entrepreneurship encourages innovation? Explain your answer."
+            ]
+        },
+        {
+            "Topic": "Urban Wildlife Conservation",
+            "Questions": [
+                "Why is it important to protect wildlife living in urban areas?",
+                "What challenges do wildlife face in cities?",
+                "How can city residents contribute to urban wildlife conservation?",
+                "Do you think urban development and wildlife conservation can coexist? Why?"
+            ]
+        },
+        {
+            "Topic": "Impact of Volunteering on Personal Growth",
+            "Questions": [
+                "How can volunteering benefit an individual's personal development?",
+                "What motivates people to volunteer their time and effort?",
+                "Can volunteering influence one's career opportunities? How?",
+                "In what ways does volunteering strengthen community bonds?"
+            ]
+        },
+        {
+            "Topic": "Public Art and Community Identity",
+            "Questions": [
+                "What role does public art play in shaping community identity?",
+                "How can public art contribute to social cohesion in urban areas?",
+                "Should public funds be spent on art projects in cities? Why or why not?",
+                "Do you think public art influences people's perception of a place? Explain."
+            ]
+        },
+        {
+            "Topic": "Ethics of Genetic Engineering",
+            "Questions": [
+                "What ethical issues arise from advances in genetic engineering?",
+                "How can society balance scientific progress with moral considerations in genetics?",
+                "Should there be limits on genetic modification for humans? Why or why not?",
+                "In what ways might genetic engineering impact future generations?"
+            ]
+        },
+        {
+            "Topic": "Influence of Cinema on Social Attitudes",
+            "Questions": [
+                "How does cinema reflect and shape societal values and beliefs?",
+                "Can films be effective tools for social change? Provide examples.",
+                "What responsibilities do filmmakers have regarding cultural representation?",
+                "Do you think cinema influences public opinion on political issues? Explain."
+            ]
+        },
+        {
+            "Topic": "Challenges in Higher Education Accessibility",
+            "Questions": [
+                "What barriers prevent some people from accessing higher education?",
+                "How can universities make education more inclusive for diverse populations?",
+                "Do you believe online learning improves accessibility to higher education? Why or why not?",
+                "What role should governments play in funding accessible higher education?"
+            ]
+        },
+        {
+            "Topic": "Role of Libraries in the Digital Age",
+            "Questions": [
+                "How have libraries adapted to changes brought by digital technology?",
+                "Are traditional libraries still relevant today? Explain your reasoning.",
+                "What services do modern libraries offer beyond lending books?",
+                "How can libraries contribute to reducing the digital divide in communities?"
+            ]
+        },
+        {
+            "Topic": "Effects of Aging Populations on Society",
+            "Questions": [
+                "What social and economic challenges does an aging population create?",
+                "How can governments support the needs of elderly citizens effectively?",
+                "Do you think younger generations should have roles in caring for older adults? Why or why not?",
+                "How might aging populations influence workforce dynamics in the future?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Communication",
+            "Questions": [
+                "How do social etiquette customs vary across cultures?",
+                "In what ways has modern technology changed the way people communicate?",
+                "Why is it important to understand non-verbal communication in social interactions?",
+                "What challenges do people face when communicating in a multicultural environment?"
+            ]
+        },
+        {
+            "Topic": "Workplace Leadership and Management",
+            "Questions": [
+                "What qualities make an effective leader in the workplace?",
+                "How can managers motivate employees to improve performance?",
+                "What are the advantages and disadvantages of a hierarchical management structure?",
+                "How does leadership style affect team collaboration and productivity?"
+            ]
+        },
+        {
+            "Topic": "Urban Transportation Challenges",
+            "Questions": [
+                "What are the main challenges cities face regarding public transportation?",
+                "How can urban areas improve traffic congestion problems?",
+                "What role does government policy play in shaping transportation infrastructure?",
+                "In what ways can promoting alternative transport methods benefit cities?"
+            ]
+        },
+        {
+            "Topic": "Emerging Trends in Education",
+            "Questions": [
+                "How are online learning platforms changing traditional education?",
+                "What impact do innovative teaching methods have on student engagement?",
+                "Should education systems focus more on practical skills or theoretical knowledge?",
+                "How can educators address diverse learning needs in the classroom?"
+            ]
+        },
+        {
+            "Topic": "Globalization and Cultural Identity",
+            "Questions": [
+                "How does globalization influence cultural traditions and identities?",
+                "In what ways can countries preserve their cultural heritage amid global changes?",
+                "What are the positive and negative effects of cultural exchange between nations?",
+                "How do individuals balance global influences with local cultural values?"
+            ]
+        },
+        {
+            "Topic": "Public Health and Community Well-being",
+            "Questions": [
+                "What are the key factors affecting public health in urban communities?",
+                "How can governments promote healthy lifestyles among citizens?",
+                "What challenges arise in managing pandemics on a community level?",
+                "What role do public health campaigns play in disease prevention?"
+            ]
+        },
+        {
+            "Topic": "Environmental Sustainability Practices",
+            "Questions": [
+                "What are effective ways individuals can contribute to environmental sustainability?",
+                "How do businesses impact sustainable development goals?",
+                "What challenges do governments face when implementing sustainability policies?",
+                "Why is education important for promoting environmental awareness?"
+            ]
+        },
+        {
+            "Topic": "Cultural Significance of Traditional Music",
+            "Questions": [
+                "How does traditional music reflect a society’s history and values?",
+                "In what ways has modern music influenced traditional musical styles?",
+                "Why is it important to preserve traditional music in today’s world?",
+                "How can cultural festivals help maintain musical heritage?"
+            ]
+        },
+        {
+            "Topic": "Challenges of Aging Societies",
+            "Questions": [
+                "What social issues arise from an increasing elderly population?",
+                "How can healthcare systems adapt to meet the needs of aging citizens?",
+                "What role do families and communities play in supporting older adults?",
+                "How might aging populations affect economic development?"
+            ]
+        },
+        {
+            "Topic": "Ethics in Scientific Research",
+            "Questions": [
+                "What ethical considerations must scientists keep in mind during research?",
+                "How should society balance scientific progress with potential risks?",
+                "In which areas of research are ethical issues most prominent?",
+                "What role do ethical review boards play in research projects?"
+            ]
+        },
+        {
+            "Topic": "Urban Agriculture and Community Gardening",
+            "Questions": [
+                "How can urban agriculture contribute to food security in cities?",
+                "What are the social benefits of community gardening in urban areas?",
+                "What challenges do urban farmers face compared to rural farmers?",
+                "How can local governments support urban agriculture initiatives?"
+            ]
+        },
+        {
+            "Topic": "The Role of Libraries in the Digital Age",
+            "Questions": [
+                "In what ways have libraries adapted to remain relevant in the digital era?",
+                "How do public libraries support lifelong learning in communities?",
+                "What impact does digital content have on traditional library usage?",
+                "Should libraries focus more on providing technology access rather than books?"
+            ]
+        },
+        {
+            "Topic": "Ethical Issues in Genetic Engineering",
+            "Questions": [
+                "What are the potential ethical concerns surrounding human genetic engineering?",
+                "How should society regulate genetic modification in plants and animals?",
+                "Can genetic engineering be justified if it prevents serious diseases?",
+                "What role should public opinion play in decisions about genetic technologies?"
+            ]
+        },
+        {
+            "Topic": "The Influence of Cinema on Social Attitudes",
+            "Questions": [
+                "How can movies shape people's perceptions of social issues?",
+                "Do films have a responsibility to portray accurate cultural representations?",
+                "What is the impact of international cinema on local cultures and values?",
+                "Can cinema be an effective tool for promoting social change?"
+            ]
+        },
+        {
+            "Topic": "Entrepreneurship and Economic Growth",
+            "Questions": [
+                "What role do small businesses play in national economic development?",
+                "How can entrepreneurship be encouraged among young people?",
+                "What challenges do entrepreneurs commonly face in today's economy?",
+                "How important is innovation for the success of new businesses?"
+            ]
+        },
+        {
+            "Topic": "Water Conservation in Urban Areas",
+            "Questions": [
+                "Why is water conservation critical in modern cities?",
+                "What measures can individuals take to reduce their water usage?",
+                "How can urban planners integrate water-saving technologies into infrastructure?",
+                "What are the consequences of poor water management in urban environments?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Communication",
+            "Questions": [
+                "How has digital communication affected traditional social etiquette?",
+                "Why is understanding cultural differences important in global communication?",
+                "What role does etiquette play in professional settings?",
+                "Can social etiquette evolve too quickly with societal changes?"
+            ]
+        },
+        {
+            "Topic": "Challenges in Higher Education Accessibility",
+            "Questions": [
+                "What barriers exist that limit access to higher education for some groups?",
+                "How can governments improve equal opportunities for university education?",
+                "What impact does high tuition have on student diversity and enrollment?",
+                "Should universities offer more flexible learning options for non-traditional students?"
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Change",
+            "Questions": [
+                "How can philanthropy influence government policies and social programs?",
+                "What motivates individuals and corporations to engage in charitable giving?",
+                "Are there drawbacks to relying on philanthropy for addressing social issues?",
+                "How does transparency affect public trust in philanthropic organizations?"
+            ]
+        },
+        {
+            "Topic": "Workplace Leadership and Management",
+            "Questions": [
+                "What qualities make an effective leader in the modern workplace?",
+                "How does leadership style impact employee motivation and productivity?",
+                "In what ways can managers promote diversity and inclusion at work?",
+                "Should leadership training be a priority for companies, and why?"
+            ]
+        },
+        {
+            "Topic": "Space and Astronomy Discoveries",
+            "Questions": [
+                "How have recent discoveries in space influenced our understanding of the universe?",
+                "What are the challenges scientists face when exploring deep space?",
+                "Do you think investment in space research is justified considering other global issues?",
+                "How might space exploration affect international cooperation and conflict?"
+            ]
+        },
+        {
+            "Topic": "Rural Lifestyle Changes",
+            "Questions": [
+                "What are the major differences between rural and urban lifestyles today?",
+                "How is technology impacting life in rural areas?",
+                "What challenges do people living in rural communities face?",
+                "Do you think rural life has advantages over city living? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Ethics in Genetic Engineering",
+            "Questions": [
+                "What ethical concerns are raised by advances in genetic engineering?",
+                "How should governments regulate genetic modification technologies?",
+                "What are the potential benefits and risks of genetically engineered organisms?",
+                "Do you believe there should be limits on human genetic manipulation?"
+            ]
+        },
+        {
+            "Topic": "Globalization and Cultural Identity",
+            "Questions": [
+                "How does globalization impact local cultures and traditions?",
+                "Can cultural identity be preserved in an increasingly globalized world?",
+                "What role do languages play in maintaining cultural diversity?",
+                "How do international exchanges influence people’s perceptions of their own culture?"
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Change",
+            "Questions": [
+                "In what ways can philanthropy contribute to social development?",
+                "What motivates individuals or organizations to engage in charitable activities?",
+                "Are there any drawbacks or criticisms associated with philanthropic efforts?",
+                "How effective is philanthropy compared to government programs in addressing social issues?"
+            ]
+        },
+        {
+            "Topic": "Public Health Policies During Pandemics",
+            "Questions": [
+                "What measures are most important for governments to take during a pandemic?",
+                "How does public trust affect the success of health policies?",
+                "Should there be a balance between individual rights and public health safety?",
+                "What lessons have been learned from recent global health crises?"
+            ]
+        },
+        {
+            "Topic": "Challenges of Aging Societies",
+            "Questions": [
+                "What social and economic challenges arise from an aging population?",
+                "How can healthcare systems adapt to better serve elderly citizens?",
+                "What role should older adults play in modern society?",
+                "How do different cultures perceive aging and elderly care?"
+            ]
+        },
+        {
+            "Topic": "Impact of Migration on Society",
+            "Questions": [
+                "How does migration influence the economy and job markets of host countries?",
+                "In what ways can immigration enrich cultural diversity?",
+                "What challenges do migrants face integrating into new communities?",
+                "How should governments address public concerns about migration?"
+            ]
+        },
+        {
+            "Topic": "Environmental Sustainability Practices in Business",
+            "Questions": [
+                "How can businesses incorporate sustainability into their operations?",
+                "What are the benefits of adopting environmentally friendly practices for companies?",
+                "What obstacles do businesses face when trying to become sustainable?",
+                "Do consumers influence companies’ decisions regarding sustainability?"
+            ]
+        },
+        {
+            "Topic": "The Future of Work and Automation",
+            "Questions": [
+                "How is automation changing the types of jobs available in the future?",
+                "What skills will workers need to remain relevant in an automated workplace?",
+                "How might automation impact economic inequality and employment rates?",
+                "What role should governments play in managing technological unemployment?"
+            ]
+        },
+        {
+            "Topic": "Urban Gardening and Community Health",
+            "Questions": [
+                "How can urban gardening contribute to improving community health?",
+                "What challenges might people face when starting a community garden in a city?",
+                "In what ways can local governments support urban gardening initiatives?",
+                "How does urban gardening influence social interactions among residents?"
+            ]
+        },
+        {
+            "Topic": "Space Colonization Perspectives",
+            "Questions": [
+                "What are the main ethical considerations of colonizing other planets?",
+                "How might space colonization impact Earth’s environment and resources?",
+                "Do you think space colonization could solve overpopulation issues on Earth? Why or why not?",
+                "How could international cooperation play a role in future space colonization projects?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts vs Modern Manufacturing",
+            "Questions": [
+                "Why is it important to preserve traditional crafts in today’s world?",
+                "How has modern manufacturing affected the demand for handmade products?",
+                "Can traditional craftsmanship coexist with modern technology in production? How?",
+                "What role do traditional crafts play in cultural identity and tourism?"
+            ]
+        },
+        {
+            "Topic": "Impact of Urban Noise on Mental Health",
+            "Questions": [
+                "What effects does noise pollution have on people living in cities?",
+                "How can urban planners design cities to reduce noise pollution?",
+                "Are there differences in noise tolerance between different age groups?",
+                "What measures can individuals take to protect themselves from harmful noise levels?"
+            ]
+        },
+        {
+            "Topic": "Food Security in Urban Areas",
+            "Questions": [
+                "What are the main challenges to ensuring food security in large cities?",
+                "How can urban agriculture contribute to food availability and quality?",
+                "What role do supermarkets and local markets play in urban food security?",
+                "How could government policies help improve food access in densely populated areas?"
+            ]
+        },
+        {
+            "Topic": "Volunteering and Skill Development",
+            "Questions": [
+                "How does volunteering help people develop new skills?",
+                "In what ways can volunteering benefit an individual’s career prospects?",
+                "Are there any challenges faced by people who want to volunteer but lack experience?",
+                "Should educational institutions encourage volunteering as part of their curriculum?"
+            ]
+        },
+        {
+            "Topic": "Impacts of Digital Detox Practices",
+            "Questions": [
+                "Why do some people choose to take digital detoxes from technology?",
+                "What benefits can individuals experience after disconnecting from digital devices?",
+                "Are digital detox programs effective for improving mental well-being? Why or why not?",
+                "How might workplaces support employees in managing digital overload?"
+            ]
+        },
+        {
+            "Topic": "Changing Trends in Family Structures",
+            "Questions": [
+                "How have family structures changed in recent decades?",
+                "What are the social implications of increasing single-parent households?",
+                "How do changing family dynamics affect children’s development?",
+                "In what ways do government policies reflect or influence family structures today?"
+            ]
+        },
+        {
+            "Topic": "Role of Public Parks in Urban Areas",
+            "Questions": [
+                "Why are public parks important for city residents?",
+                "How do public parks contribute to environmental sustainability in cities?",
+                "What factors should be considered when designing a public park to serve diverse communities?",
+                "Can public parks help reduce social inequalities? If so, how?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Global Impact",
+            "Questions": [
+                "What does ethical consumerism mean in the modern marketplace?",
+                "How can consumer choices influence global production and labor practices?",
+                "Are there barriers that prevent people from buying ethical products? What are they?",
+                "How should governments regulate industries to promote ethical consumption globally?"
+            ]
+        },
+        {
+            "Topic": "Fashion Industry and Society",
+            "Questions": [
+                "How has the fashion industry influenced social identities?",
+                "In what ways can fashion reflect cultural values?",
+                "What environmental issues are associated with the fast fashion industry?",
+                "How can consumers make more ethical choices when purchasing clothing?"
+            ]
+        },
+        {
+            "Topic": "Technology in Education Beyond Digital Learning",
+            "Questions": [
+                "How has technology changed the teacher’s role in the classroom?",
+                "What are the challenges of integrating new technologies in traditional schools?",
+                "Can technology widen educational inequalities? Why or why not?",
+                "How might future technological developments impact education delivery methods?"
+            ]
+        },
+        {
+            "Topic": "Urban Wildlife and Biodiversity",
+            "Questions": [
+                "What are some challenges faced by wildlife living in cities?",
+                "How can urban planning support biodiversity?",
+                "Why is it important to protect urban wildlife habitats?",
+                "What role can citizens play in conserving urban biodiversity?"
+            ]
+        },
+        {
+            "Topic": "Changes in Family Dynamics",
+            "Questions": [
+                "How have family roles evolved in recent decades?",
+                "What impact does urban living have on family relationships?",
+                "In what ways do economic pressures affect family cohesion?",
+                "How important is extended family support in today’s society?"
+            ]
+        },
+        {
+            "Topic": "Rural Community Development",
+            "Questions": [
+                "What are the main challenges of rural development today?",
+                "How can technology help improve rural livelihoods?",
+                "Why might young people be reluctant to live in rural areas?",
+                "What role do local traditions play in rural community identity?"
+            ]
+        },
+        {
+            "Topic": "Ethics of Genetic Engineering",
+            "Questions": [
+                "What are some ethical concerns related to genetic modification?",
+                "How can society balance scientific progress with moral considerations?",
+                "Should genetic engineering be allowed to prevent hereditary diseases? Why or why not?",
+                "What regulations could help ensure responsible use of genetic technologies?"
+            ]
+        },
+        {
+            "Topic": "Public Art and Urban Identity",
+            "Questions": [
+                "How does public art contribute to a city's cultural identity?",
+                "In what ways can public art engage the local community?",
+                "What challenges face artists creating urban public art projects?",
+                "Should government funding prioritize public art initiatives? Explain your view."
+            ]
+        },
+        {
+            "Topic": "Food Security and Urban Agriculture",
+            "Questions": [
+                "How can urban agriculture address food security issues?",
+                "What obstacles do urban farmers face in growing food sustainably?",
+                "Why is local food production important for communities?",
+                "How can policymakers support urban farming initiatives effectively?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Personal Development",
+            "Questions": [
+                "What personal skills can volunteers gain from their experiences?",
+                "How does volunteering benefit both individuals and communities?",
+                "What motivates people to volunteer their time and efforts?",
+                "In what ways can volunteering influence career prospects and social networks?"
+            ]
+        },
+        {
+            "Topic": "Environmental Policies and Business Practices",
+            "Questions": [
+                "How have environmental regulations affected business operations?",
+                "Can businesses achieve sustainability goals while remaining profitable?",
+                "What responsibility do companies have toward reducing environmental impact?",
+                "How can consumers influence businesses to adopt greener practices?"
+            ]
+        },
+        {
+            "Topic": "Urban Agriculture and Food Security",
+            "Questions": [
+                "How can urban agriculture contribute to food security in cities?",
+                "What are the challenges faced by urban farmers in producing enough food?",
+                "Do you think governments should support urban agriculture initiatives? Why or why not?",
+                "How does urban agriculture affect the local economy and community?"
+            ]
+        },
+        {
+            "Topic": "Ethics of Genetic Engineering",
+            "Questions": [
+                "What are the main ethical concerns surrounding genetic engineering?",
+                "How do you think genetic engineering might impact future generations?",
+                "Should there be limits on genetic engineering research? Why?",
+                "How can society balance scientific progress with ethical considerations in genetic engineering?"
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Change",
+            "Questions": [
+                "In what ways can philanthropy influence social change?",
+                "Do you believe individual philanthropy is more effective than government aid? Why?",
+                "What responsibilities do wealthy individuals have in supporting social causes?",
+                "How can philanthropic organizations ensure their efforts address the root causes of social problems?"
+            ]
+        },
+        {
+            "Topic": "Public Health Policies During Pandemics",
+            "Questions": [
+                "What are the key factors in designing effective public health policies during pandemics?",
+                "How can governments balance public health needs with individual freedoms during a pandemic?",
+                "What role does communication play in managing public health crises?",
+                "How can countries prepare better for future pandemics based on recent experiences?"
+            ]
+        },
+        {
+            "Topic": "Impact of Migration on Society",
+            "Questions": [
+                "How does migration affect the economy of a host country?",
+                "What social challenges might arise due to increased migration?",
+                "In what ways can migration benefit cultural diversity in societies?",
+                "How should governments address integration of migrants into communities?"
+            ]
+        },
+        {
+            "Topic": "Environmental Sustainability Practices in Business",
+            "Questions": [
+                "Why is it important for businesses to adopt sustainable practices?",
+                "What challenges do companies face when implementing environmental sustainability?",
+                "How can consumers influence businesses toward more sustainable actions?",
+                "Do you think environmental regulations should be stricter for businesses? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Role of Public Parks in Urban Areas",
+            "Questions": [
+                "How do public parks contribute to the quality of life in cities?",
+                "What are some challenges faced in maintaining public parks in urban environments?",
+                "Should cities invest more in developing green spaces like public parks? Why?",
+                "How do public parks support community interaction and social cohesion?"
+            ]
+        },
+        {
+            "Topic": "Changing Trends in Family Structures",
+            "Questions": [
+                "What are the recent changes observed in family structures globally?",
+                "How do these changing family trends affect child development and education?",
+                "In what ways do traditional and modern family roles differ today?",
+                "Do you think society is adapting well to diverse family structures? Explain your views."
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Global Impact",
+            "Questions": [
+                "What does ethical consumerism mean, and why is it important?",
+                "How can consumers make more ethical choices when buying products?",
+                "What impact does ethical consumerism have on global supply chains and labor conditions?",
+                "Can ethical consumerism drive companies to become more socially responsible? How?"
+            ]
+        },
+        {
+            "Topic": "Technology in Education Beyond Digital Learning",
+            "Questions": [
+                "Apart from digital tools, what other technological advancements influence education today?",
+                "How is technology changing the role of teachers in the classroom?",
+                "What are potential drawbacks of overreliance on technology in education?",
+                "How can technology help make education more inclusive and accessible for all students?"
+            ]
+        },
+        {
+            "Topic": "Space Tourism and Its Future",
+            "Questions": [
+                "What are the potential benefits of space tourism for society?",
+                "How might space tourism affect the environment on Earth and in space?",
+                "Do you think space tourism will become affordable for the general public in the future? Why or why not?",
+                "What ethical considerations should be taken into account when developing space tourism industries?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts and Modern Manufacturing",
+            "Questions": [
+                "How have modern manufacturing techniques impacted traditional crafts?",
+                "Why is it important to preserve traditional crafts in today's society?",
+                "Can traditional crafts compete with mass-produced goods in the market?",
+                "What role do traditional crafts play in cultural identity and heritage?"
+            ]
+        },
+        {
+            "Topic": "Food Security in Urban Areas",
+            "Questions": [
+                "What challenges do cities face in ensuring food security for their residents?",
+                "How can urban agriculture contribute to solving food security issues?",
+                "What role should governments play in improving food security in urban settings?",
+                "How might technology improve urban food distribution and reduce waste?"
+            ]
+        },
+        {
+            "Topic": "Changing Trends in Family Structures",
+            "Questions": [
+                "What are some common changes observed in family structures today compared to the past?",
+                "How do these changes in family structures affect children’s development?",
+                "What social factors contribute to changing family dynamics?",
+                "Do you think traditional family roles are becoming less relevant in modern society? Why?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Global Impact",
+            "Questions": [
+                "What does ethical consumerism mean to you?",
+                "How can individual choices influence global production practices?",
+                "What challenges do consumers face when trying to buy ethically?",
+                "Should governments impose regulations to promote ethical consumerism? Explain your opinion."
+            ]
+        },
+        {
+            "Topic": "Philanthropy and Social Change",
+            "Questions": [
+                "How can philanthropy contribute to social change?",
+                "What are some criticisms of philanthropy as a tool for development?",
+                "Should wealthy individuals have a social responsibility to donate to charitable causes? Why or why not?",
+                "How can philanthropy be made more effective in addressing long-term social issues?"
+            ]
+        },
+        {
+            "Topic": "Impact of Migration on Society",
+            "Questions": [
+                "In what ways does migration influence the culture of host communities?",
+                "What economic effects can result from immigration?",
+                "How can societies manage the challenges associated with increased migration?",
+                "Do you think migration contributes more benefits or problems overall? Explain your view."
+            ]
+        },
+        {
+            "Topic": "Environmental Sustainability Practices in Business",
+            "Questions": [
+                "Why is it important for businesses to adopt sustainable practices?",
+                "What challenges do companies face when implementing environmental initiatives?",
+                "How can consumers encourage businesses to be more environmentally responsible?",
+                "What role do government policies play in promoting sustainability among businesses?"
+            ]
+        },
+        {
+            "Topic": "Technology in Education Beyond Digital Learning",
+            "Questions": [
+                "How else can technology improve education besides digital learning tools?",
+                "What are the possible drawbacks of relying heavily on technology in education?",
+                "How can educators balance traditional teaching methods with new technologies?",
+                "In what ways might future technological innovations transform education further?"
+            ]
+        },
+        {
+            "Topic": "Urban Gardening and Community Health",
+            "Questions": [
+                "What are the benefits of urban gardening for community health?",
+                "How can urban gardening initiatives improve social cohesion within neighborhoods?",
+                "What obstacles might communities encounter when establishing urban gardens?",
+                "Should local governments support urban gardening projects? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Space Exploration and Its Challenges",
+            "Questions": [
+                "What do you think are the main challenges faced by space exploration today?",
+                "How can international cooperation improve space exploration efforts?",
+                "In your opinion, should governments invest more in space programs or focus on Earth-based problems?",
+                "What impact does space exploration have on scientific knowledge and technology?"
+            ]
+        },
+        {
+            "Topic": "Rural Areas and Their Development",
+            "Questions": [
+                "What are the main difficulties faced by rural communities in your country?",
+                "How can governments support sustainable development in rural areas?",
+                "What role do education and technology play in improving rural life?",
+                "Why do some people prefer living in rural areas rather than cities?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts and Modern Manufacturing",
+            "Questions": [
+                "How important is it to preserve traditional crafts in modern society?",
+                "What are the challenges faced by artisans competing with mass-produced goods?",
+                "Can traditional crafts contribute to local economic development?",
+                "How can modern technology be integrated with traditional manufacturing methods?"
+            ]
+        },
+        {
+            "Topic": "Public Parks and Urban Green Spaces",
+            "Questions": [
+                "Why are public parks important in urban environments?",
+                "How do green spaces affect the health and wellbeing of city residents?",
+                "What challenges do cities face in maintaining urban green spaces?",
+                "How can communities get involved in protecting and improving public parks?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Environmental Impact",
+            "Questions": [
+                "What does ethical consumerism mean to you?",
+                "How can consumers influence companies to adopt sustainable practices?",
+                "What are some challenges people face when trying to shop ethically?",
+                "Do you believe ethical consumerism can lead to significant environmental benefits?"
+            ]
+        },
+        {
+            "Topic": "Changing Family Structures and Social Impact",
+            "Questions": [
+                "How have family structures changed in recent decades in your country?",
+                "What social factors have contributed to these changes in families?",
+                "How might changes in family dynamics affect children's development?",
+                "Do you think society has adapted well to new family structures?"
+            ]
+        },
+        {
+            "Topic": "Food Security and Urban Agriculture",
+            "Questions": [
+                "What is the significance of urban agriculture for food security?",
+                "How can cities promote local food production effectively?",
+                "What challenges do urban farmers face compared to rural farmers?",
+                "In what ways does urban agriculture benefit local communities beyond food production?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Personal Growth",
+            "Questions": [
+                "How does volunteering contribute to personal development?",
+                "Why do you think some people choose to volunteer while others do not?",
+                "What kinds of skills can people gain through volunteer work?",
+                "How can volunteer programs be improved to attract more participants?"
+            ]
+        },
+        {
+            "Topic": "Impacts of Digital Detox Practices",
+            "Questions": [
+                "What are digital detox practices, and why are they becoming popular?",
+                "How can limiting screen time improve mental health and social relationships?",
+                "What challenges might someone face when trying to disconnect from digital devices?",
+                "Do you think schools or workplaces should encourage digital detox initiatives?"
+            ]
+        },
+        {
+            "Topic": "Traditional Festivals and Modern Society",
+            "Questions": [
+                "What role do traditional festivals play in modern communities?",
+                "How have traditional celebrations changed due to modernization or globalization?",
+                "Can traditional festivals help strengthen cultural identity among young people?",
+                "Should governments invest in preserving traditional festivals, and why?"
+            ]
+        },
+        {
+            "Topic": "Space Exploration and Its Challenges",
+            "Questions": [
+                "What are the main challenges faced in space exploration today?",
+                "How does international cooperation affect space missions?",
+                "What impact can space exploration have on education and technology development?",
+                "Do you think space exploration is worth the financial investment?"
+            ]
+        },
+        {
+            "Topic": "Rural Areas and Their Development",
+            "Questions": [
+                "What are the key factors that contribute to rural development?",
+                "How does migration to cities affect rural communities?",
+                "What role does technology play in improving rural life?",
+                "How can governments encourage young people to stay in rural areas?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts and Modern Manufacturing",
+            "Questions": [
+                "In what ways do traditional crafts contribute to culture and identity?",
+                "How has modern manufacturing affected traditional artisans?",
+                "Can traditional crafts coexist with industrial production?",
+                "What measures can be taken to preserve traditional craftsmanship?"
+            ]
+        },
+        {
+            "Topic": "Public Parks and Urban Green Spaces",
+            "Questions": [
+                "Why are public parks important in urban areas?",
+                "How can urban green spaces improve residents' quality of life?",
+                "What challenges do cities face when maintaining public parks?",
+                "How might public parks be designed to attract more visitors?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Environmental Impact",
+            "Questions": [
+                "What does ethical consumerism mean to you?",
+                "How can consumers influence companies' environmental practices?",
+                "Are there challenges in promoting ethical consumer habits widely?",
+                "What role should governments play in encouraging ethical consumption?"
+            ]
+        },
+        {
+            "Topic": "Changing Family Structures and Social Impact",
+            "Questions": [
+                "What changes have occurred in family structures over recent decades?",
+                "How do these changes affect children's upbringing and education?",
+                "What social challenges arise from diverse family types?",
+                "How can society adapt to support different family models?"
+            ]
+        },
+        {
+            "Topic": "Food Security and Urban Agriculture",
+            "Questions": [
+                "What are the main causes of food insecurity in urban areas?",
+                "How can urban agriculture help solve food security issues?",
+                "What challenges do urban farmers face compared to rural farmers?",
+                "Should cities invest more in supporting local food production?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Personal Growth",
+            "Questions": [
+                "How does volunteering contribute to personal development?",
+                "What motivates people to engage in volunteer activities?",
+                "Can volunteering have an impact on career prospects?",
+                "How might communities benefit from increased volunteer participation?"
+            ]
+        },
+        {
+            "Topic": "Impacts of Digital Detox Practices",
+            "Questions": [
+                "Why do some people choose to undertake a digital detox?",
+                "What benefits can digital detox bring to mental health and wellbeing?",
+                "Are there any potential drawbacks to prolonged disconnection from technology?",
+                "Should schools encourage students to practice digital detox regularly?"
+            ]
+        },
+        {
+            "Topic": "Traditional Festivals and Modern Society",
+            "Questions": [
+                "How have traditional festivals changed in modern times?",
+                "Why are traditional festivals still important despite societal changes?",
+                "In what ways do festivals strengthen community bonds?",
+                "Can modernization negatively affect the cultural value of festivals?"
+            ]
+        },
+        {
+            "Topic": "Space Exploration Benefits and Challenges",
+            "Questions": [
+                "How do space exploration programs benefit society as a whole?",
+                "What ethical considerations should be taken into account when exploring space?",
+                "In what ways can international cooperation improve space missions?",
+                "What are the challenges governments face in funding space exploration?"
+            ]
+        },
+        {
+            "Topic": "Rural Development and Community Life",
+            "Questions": [
+                "What are the main obstacles to rural development in many countries?",
+                "How can improving infrastructure impact rural communities?",
+                "In what ways do education and healthcare services affect rural populations?",
+                "What role do government policies play in supporting rural livelihoods?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts and Modern Industry",
+            "Questions": [
+                "How has mass production affected traditional craftsmanship?",
+                "What can be done to preserve traditional arts in modern society?",
+                "In what ways do traditional crafts contribute to cultural identity?",
+                "How can modern technologies be integrated into traditional manufacturing processes?"
+            ]
+        },
+        {
+            "Topic": "Public Parks and Urban Green Spaces",
+            "Questions": [
+                "What are the advantages of having accessible parks in urban areas?",
+                "How do green spaces influence mental health for city residents?",
+                "What challenges do city planners face in maintaining urban parks?",
+                "How can community involvement enhance the use of public parks?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Environmental Impact",
+            "Questions": [
+                "How do consumers influence businesses through ethical purchasing?",
+                "What challenges do consumers face in making environmentally responsible choices?",
+                "In what ways can education foster ethical consumer behavior?",
+                "How do companies respond to the growing demand for sustainable products?"
+            ]
+        },
+        {
+            "Topic": "Changing Family Structures and Social Implications",
+            "Questions": [
+                "How have family roles evolved in recent decades?",
+                "What social impacts arise from the increase of single-parent households?",
+                "In what ways does government policy affect family dynamics?",
+                "How do cultural differences influence family structures around the world?"
+            ]
+        },
+        {
+            "Topic": "Food Security and Urban Agriculture",
+            "Questions": [
+                "What are the main causes of food insecurity in urban areas?",
+                "How can urban agriculture contribute to reducing hunger?",
+                "What challenges might cities face when promoting urban farming initiatives?",
+                "How does community involvement affect the success of urban agriculture projects?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Personal Growth",
+            "Questions": [
+                "What motivates people to volunteer their time and skills?",
+                "How can volunteering impact an individual's personal development?",
+                "In what ways does volunteering benefit local communities?",
+                "What obstacles might prevent people from participating in volunteer activities?"
+            ]
+        },
+        {
+            "Topic": "Impacts of Digital Detox Practices",
+            "Questions": [
+                "Why are some people choosing to take breaks from digital devices?",
+                "What psychological benefits can result from digital detoxing?",
+                "How might reducing screen time affect social relationships?",
+                "Are there any disadvantages to limiting digital device usage extensively?"
+            ]
+        },
+        {
+            "Topic": "Traditional Festivals and Modern Society",
+            "Questions": [
+                "How do traditional festivals retain their significance in modern cultures?",
+                "What challenges exist in preserving cultural heritage through festivals?",
+                "In what ways can festivals promote social cohesion within communities?",
+                "How is modernization influencing the way festivals are celebrated today?"
+            ]
+        },
+        {
+            "Topic": "Cultural Festivals",
+            "Questions": [
+                "How do cultural festivals help preserve a community's identity?",
+                "What challenges do traditional festivals face in the modern world?",
+                "Should governments invest more in promoting cultural festivals? Why or why not?",
+                "How can younger generations be encouraged to participate in cultural celebrations?"
+            ]
+        },
+        {
+            "Topic": "Space Exploration Benefits and Challenges",
+            "Questions": [
+                "What are the main benefits of space exploration to society?",
+                "What ethical considerations arise from space colonization?",
+                "How should governments prioritize funding for space research compared to other sectors?",
+                "What challenges do scientists face in making space travel more accessible?"
+            ]
+        },
+        {
+            "Topic": "Rural Development and Community Life",
+            "Questions": [
+                "What are the key factors that influence rural development?",
+                "How does rural life differ from urban life in terms of social opportunities?",
+                "What role should the government play in improving rural infrastructure?",
+                "How can rural communities attract younger residents to prevent migration to cities?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts and Modern Industry",
+            "Questions": [
+                "How do traditional crafts contribute to cultural heritage?",
+                "What impact has modernization had on traditional craftsmanship?",
+                "Should traditional crafts be incorporated into modern industry practices?",
+                "What measures can be taken to protect disappearing traditional crafts?"
+            ]
+        },
+        {
+            "Topic": "Public Parks and Urban Green Spaces",
+            "Questions": [
+                "What benefits do public parks provide to city residents?",
+                "How can urban green spaces be better integrated into city planning?",
+                "What challenges exist in maintaining public parks in densely populated cities?",
+                "In what ways do green spaces affect mental health and community wellbeing?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Environmental Impact",
+            "Questions": [
+                "What is ethical consumerism and why is it important today?",
+                "How can consumers influence companies to adopt sustainable practices?",
+                "What challenges do consumers face when trying to make ethical purchases?",
+                "Should governments regulate industries to promote ethical consumerism?"
+            ]
+        },
+        {
+            "Topic": "Changing Family Structures and Social Impact",
+            "Questions": [
+                "How have family structures evolved in recent decades?",
+                "What effects do changing family dynamics have on society?",
+                "How do governments adapt social policies to reflect new family models?",
+                "In what ways do cultural factors influence family changes globally?"
+            ]
+        },
+        {
+            "Topic": "Food Security and Urban Agriculture",
+            "Questions": [
+                "What is the significance of urban agriculture for food security?",
+                "How can cities support sustainable food production locally?",
+                "What challenges hinder the expansion of urban farming initiatives?",
+                "How does urban agriculture affect community development and education?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Personal Growth",
+            "Questions": [
+                "How does volunteering contribute to an individual's personal development?",
+                "What motivates people to volunteer their time and effort?",
+                "Should volunteering be encouraged among young people at school or university levels?",
+                "Can volunteer work have an impact beyond the individual level? How?"
+            ]
+        },
+        {
+            "Topic": "Impacts of Digital Detox Practices",
+            "Questions": [
+                "Why are digital detoxes becoming more popular worldwide?",
+                "What are the potential benefits of reducing screen time regularly?",
+                "What challenges might people face when attempting a digital detox?",
+                "How can society support healthy digital habits among different age groups?"
+            ]
+        },
+        {
+            "Topic": "Globalization and Local Communities",
+            "Questions": [
+                "How does globalization affect the cultures of local communities?",
+                "What challenges do local businesses face in a globalized economy?",
+                "In what ways can local communities preserve their identity amid global influences?",
+                "Do you think globalization leads to more cooperation or conflict between countries?"
+            ]
+        },
+        {
+            "Topic": "Workplace Communication and Remote Work",
+            "Questions": [
+                "What are some advantages and disadvantages of remote work for employees?",
+                "How has technology changed communication in the workplace?",
+                "What skills are necessary for effective communication in a remote work environment?",
+                "Do you think remote work will become more common in the future? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Urban Transportation and Environmental Impact",
+            "Questions": [
+                "What are the main environmental problems caused by urban transportation?",
+                "How can cities improve public transportation to reduce pollution?",
+                "Do you think electric vehicles will significantly change urban transportation? Why or why not?",
+                "What role do governments have in managing urban traffic congestion?"
+            ]
+        },
+        {
+            "Topic": "Digital Entertainment and Social Interaction",
+            "Questions": [
+                "How has digital entertainment affected traditional social activities?",
+                "In what ways can online games influence social relationships?",
+                "Do you believe digital entertainment encourages or discourages face-to-face interaction?",
+                "What are the potential negative effects of spending too much time on digital entertainment?"
+            ]
+        },
+        {
+            "Topic": "Traditional Education vs. Online Learning",
+            "Questions": [
+                "What are some benefits of traditional classroom learning compared to online education?",
+                "How can online learning platforms improve student engagement?",
+                "Do you think online education can replace traditional schools in the future? Why or why not?",
+                "What challenges do students face when learning in an online environment?"
+            ]
+        },
+        {
+            "Topic": "Rural Development and Migration",
+            "Questions": [
+                "What factors encourage people to migrate from rural to urban areas?",
+                "How can rural areas be developed to reduce migration?",
+                "What impact does migration have on families and communities left behind?",
+                "Do you think government policies can effectively balance rural and urban development?"
+            ]
+        },
+        {
+            "Topic": "Cultural Heritage Preservation and Modernization",
+            "Questions": [
+                "Why is it important to preserve cultural heritage in modern societies?",
+                "How can traditional culture coexist with modern lifestyles?",
+                "What are some challenges faced when trying to protect historical monuments?",
+                "Do younger generations appreciate cultural heritage as much as older ones?"
+            ]
+        },
+        {
+            "Topic": "Food Security and Sustainable Agriculture",
+            "Questions": [
+                "What are the main causes of food insecurity worldwide?",
+                "How can sustainable agriculture practices help ensure food security?",
+                "What role do governments play in supporting food sustainability?",
+                "How can consumers contribute to promoting sustainable food production?"
+            ]
+        },
+        {
+            "Topic": "Public Health and Epidemic Preparedness",
+            "Questions": [
+                "What lessons have been learned from recent global health crises?",
+                "How should governments prepare for future epidemics or pandemics?",
+                "What role does public education play in managing public health emergencies?",
+                "Do you think international cooperation is important in addressing global health issues?"
+            ]
+        },
+        {
+            "Topic": "Ethics in Scientific Research and Innovation",
+            "Questions": [
+                "Why are ethical considerations important in scientific research?",
+                "Can you give examples of ethical dilemmas faced by scientists today?",
+                "How should society balance the benefits and risks of new scientific technologies?",
+                "What responsibility do scientists have towards the public when conducting research?"
+            ]
+        },
+        {
+            "Topic": "Space Tourism",
+            "Questions": [
+                "What are the potential benefits of developing space tourism for society?",
+                "How might space tourism affect our understanding of the Earth and space?",
+                "What challenges could arise from the commercialization of space travel?",
+                "Do you think space tourism will become affordable for most people in the future?"
+            ]
+        },
+        {
+            "Topic": "Modern Architecture and Urban Design",
+            "Questions": [
+                "How does modern architecture influence the lifestyle of city dwellers?",
+                "What role does urban design play in environmental sustainability?",
+                "In what ways can architecture reflect the cultural identity of a place?",
+                "How can cities balance historical preservation with modern architectural development?"
+            ]
+        },
+        {
+            "Topic": "Volunteerism and Social Impact",
+            "Questions": [
+                "What motivates people to volunteer in their communities?",
+                "How does volunteering contribute to personal development?",
+                "What are some important social impacts of volunteer work?",
+                "Should governments encourage volunteering among young people?"
+            ]
+        },
+        {
+            "Topic": "Digital Detox and Mental Health",
+            "Questions": [
+                "Why might people choose to take a digital detox?",
+                "How can constant use of technology affect mental health?",
+                "What strategies can individuals use to maintain a healthy balance with technology?",
+                "Do you think workplaces should support digital detox initiatives for employees?"
+            ]
+        },
+        {
+            "Topic": "Traditional Crafts and Modern Industry",
+            "Questions": [
+                "What is the importance of preserving traditional crafts today?",
+                "How can traditional crafts survive in the age of mass production?",
+                "What benefits do handcrafted goods offer compared to industrial products?",
+                "Should governments invest in supporting artisans and traditional industries?"
+            ]
+        },
+        {
+            "Topic": "Environmental Policies and Business Practices",
+            "Questions": [
+                "How can businesses contribute to environmental sustainability?",
+                "What challenges do companies face when implementing eco-friendly policies?",
+                "Do consumers influence companies’ environmental practices?",
+                "Should governments enforce stricter regulations on corporate environmental responsibility?"
+            ]
+        },
+        {
+            "Topic": "Public Parks and Urban Well-being",
+            "Questions": [
+                "What role do public parks play in the health of urban residents?",
+                "How can public green spaces improve community relationships?",
+                "What challenges exist in maintaining urban parks effectively?",
+                "Should cities prioritize creating new parks over other urban developments?"
+            ]
+        },
+        {
+            "Topic": "Changing Family Structures and Social Implications",
+            "Questions": [
+                "How have family structures changed in recent decades?",
+                "What social impacts can result from more diverse family arrangements?",
+                "Do these changes affect how communities function?",
+                "Should social policies adapt to changing family dynamics, and if so, how?"
+            ]
+        },
+        {
+            "Topic": "Ethical Consumerism and Global Impact",
+            "Questions": [
+                "What is ethical consumerism, and why is it important?",
+                "How can consumer choices influence global business practices?",
+                "Are ethical products accessible for all consumers? Why or why not?",
+                "How can education promote awareness of ethical consumerism among the public?"
+            ]
+        },
+        {
+            "Topic": "Rural Development and Migration Patterns",
+            "Questions": [
+                "What factors encourage people to move from rural to urban areas?",
+                "How does rural development impact migration trends?",
+                "What are the social and economic effects of population decline in rural communities?",
+                "What strategies can help make rural areas more attractive for residents and businesses?"
+            ]
+        }
+    ]
+}

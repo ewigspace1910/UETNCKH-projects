@@ -1,0 +1,3006 @@
+{
+    "topics": [
+        "Hobbies",
+        "Travel",
+        "Books",
+        "Food",
+        "Music",
+        "Sports",
+        "Technology",
+        "Education",
+        "Cinema and Films",
+        "Work and Career",
+        "Weather",
+        "Festivals",
+        "Pets",
+        "Shopping",
+        "Daily Routine",
+        "Transportation",
+        "Clothing",
+        "Markets and Shopping Centers",
+        "Health and Fitness",
+        "Art and Creativity",
+        "Family",
+        "Cities and Towns",
+        "Environment",
+        "Languages",
+        "Internet and Social Media",
+        "Houses and Accommodation",
+        "Transportation",
+        "Weather and Seasons",
+        "Shopping Habits",
+        "Celebrations and Traditions",
+        "Childhood",
+        "Gardening",
+        "Public Transport",
+        "Dreams and Aspirations",
+        "Gardens and Parks",
+        "Volunteering",
+        "Libraries",
+        "Weather Forecasting",
+        "Holidays at Home",
+        "Local History",
+        "Photography",
+        "Cooking",
+        "Weekend Activities",
+        "Public Holidays",
+        "Television",
+        "Shopping Online",
+        "Public Parks",
+        "Festive Decorations",
+        "Movies at Home vs Cinema",
+        "Learning New Skills",
+        "Personal Personality",
+        "Transportation Habits",
+        "Shopping Preferences",
+        "Weather Preferences",
+        "Learning Experiences",
+        "Weekend Activities",
+        "Transport and Traffic",
+        "Languages Spoken",
+        "Family Traditions",
+        "Technology Usage at Home",
+        "Hobbies and Interests",
+        "Communication",
+        "Shopping Habits",
+        "Music Preferences",
+        "Sports Participation",
+        "Festivals and Traditions",
+        "Travel Experiences",
+        "Work-Life Balance",
+        "Weather Preferences",
+        "Learning New Skills",
+        "Education Systems",
+        "Local Culture",
+        "Daily Habits",
+        "Holidays and Vacation",
+        "Communication Skills",
+        "Shopping Experiences",
+        "Pets and Animals",
+        "Festivals and Celebrations",
+        "Transport and Travel Habits",
+        "Leisure Activities",
+        "Childcare and Parenting",
+        "Money and Saving",
+        "Transport Infrastructure",
+        "Personal Appearance",
+        "Shopping for Gifts",
+        "Reading Habits",
+        "Holidays and Travel Planning",
+        "Weekend Activities",
+        "Learning New Languages",
+        "Social Celebrations and Events",
+        "Gardening",
+        "Personal Goals",
+        "Shopping for Clothes",
+        "Public Transport Experience",
+        "Healthy Eating",
+        "Sports Events",
+        "Movies and TV Shows",
+        "Learning New Skills",
+        "Local Attractions",
+        "Weather Preferences",
+        "Dreams and Ambitions",
+        "City Life",
+        "Animals",
+        "Transport",
+        "Clothes and Fashion",
+        "Social Media",
+        "Festivals and Celebrations",
+        "Sports and Exercise",
+        "Weather and Seasons",
+        "Food and Cooking",
+        "Holidays",
+        "Transport",
+        "Weather",
+        "Gardening",
+        "Festivals",
+        "Sports",
+        "Movies and TV Shows",
+        "Food and Cooking",
+        "Local Culture",
+        "Books and Reading",
+        "Shopping Preferences",
+        "Health and Fitness",
+        "Public Transport Experience",
+        "Personal Appearance",
+        "Money and Saving",
+        "Local Attractions",
+        "Weekend Activities",
+        "Learning Experiences",
+        "Social Celebrations and Events",
+        "Dreams and Ambitions",
+        "Childhood Memories",
+        "Transportation Modes",
+        "Favorite Seasons",
+        "Shopping Preferences",
+        "Learning Languages",
+        "Festivals and Celebrations",
+        "Personal Habits",
+        "Workdays and Weekends",
+        "Using Mobile Phones",
+        "Local Cuisine",
+        "Transportation Safety",
+        "Personal Celebrations",
+        "Weather Influence on Daily Life",
+        "Local Transportation Systems",
+        "Cultural Events",
+        "Shopping Centers vs Local Markets",
+        "Urban Green Spaces",
+        "Learning New Technologies",
+        "Workplace Environment",
+        "Local Cuisine and Food Culture",
+        "Travel Experiences Abroad",
+        "Movies and Cinema Preferences",
+        "Work Environment",
+        "Public Transport Usage",
+        "Favorite Festivals and Celebrations",
+        "Weather and Seasonal Changes",
+        "Learning New Skills",
+        "Use of Technology in Education",
+        "Cultural Traditions and Customs",
+        "Weekend Activities and Leisure",
+        "Hobbies and Interests that Are Uncommon",
+        "Childhood Games and Activities",
+        "Commuting and Daily Travel",
+        "Public Services in the Community",
+        "Festivals Unique to Your Country",
+        "Local Food Markets and Their Role",
+        "Use of Libraries Today",
+        "Importance of Sleep and Rest",
+        "Learning Styles and Preferences",
+        "Cultural Celebrations at School",
+        "Gardening and Plants",
+        "Hobbies Related to Collecting",
+        "Learning and Education Methods",
+        "Transportation Safety",
+        "Volunteering and Community Service",
+        "Public Libraries and Their Role",
+        "Childhood Activities and Games",
+        "Art and Craft Techniques",
+        "Social Etiquette and Manners",
+        "News and Media Consumption",
+        "Gardens and Parks",
+        "Local History",
+        "Personal Personality",
+        "Communication",
+        "Money and Saving",
+        "Healthy Eating",
+        "Workplace Environment",
+        "Public Services in the Community",
+        "Social Etiquette and Manners",
+        "News and Media Consumption",
+        "Gardening and Plants",
+        "Transportation Safety",
+        "Public Services in the Community",
+        "Social Etiquette and Manners",
+        "News and Media Consumption",
+        "Art and Craft Techniques",
+        "Childhood Activities and Games",
+        "Use of Libraries Today",
+        "Cultural Traditions and Customs",
+        "Importance of Sleep and Rest",
+        "Transportation Safety",
+        "Urban Green Spaces",
+        "News and Media Consumption",
+        "Social Etiquette and Manners",
+        "Public Services in the Community",
+        "Cultural Traditions and Customs",
+        "Importance of Sleep and Rest",
+        "Use of Libraries Today",
+        "Workplace Environment",
+        "Money and Saving",
+        "Hobbies and Interests in Nature",
+        "Cultural Activities",
+        "Shopping for Technology Gadgets",
+        "Personal Celebrations and Parties",
+        "Learning at Home",
+        "Using Public Services",
+        "Favorite Types of Weather",
+        "Local Cuisine and Traditional Dishes",
+        "Celebrating Achievements",
+        "Using Libraries and Reading Places",
+        "Transportation Safety",
+        "Cultural Activities",
+        "Workplace Environment",
+        "Personal Goals",
+        "Urban Green Spaces",
+        "News and Media Consumption",
+        "Social Etiquette and Manners",
+        "Importance of Sleep and Rest",
+        "Public Services in the Community",
+        "Using Mobile Phones",
+        "Leisure Activities",
+        "Childhood Memories",
+        "Relationships with Friends",
+        "Celebrations and Parties",
+        "Shopping Experiences",
+        "Neighborhood and Community",
+        "Public Services",
+        "Holidays and Festivals",
+        "Climate and Weather Effects",
+        "Personal Achievements",
+        "Gardening and Plants",
+        "Favorite Places in Your Country",
+        "Weekends and Leisure",
+        "Transportation Preferences",
+        "Weather Impact on Life",
+        "Festive Activities",
+        "Personal Technology Use",
+        "Learning New Skills",
+        "Local Food and Traditions",
+        "Public Spaces and Parks",
+        "Space and Astronomy",
+        "Dream Jobs",
+        "Superstitions and Beliefs",
+        "Shopping for Gifts",
+        "Public Parks and Recreation Areas",
+        "Learning Methods",
+        "Household Chores",
+        "Dream Holidays",
+        "Learning Foreign Languages",
+        "Urban Living vs. Rural Living",
+        "Space and Astronomy",
+        "Dream Jobs",
+        "Superstitions and Beliefs",
+        "Neighborhood and Community",
+        "Public Services",
+        "Household Chores",
+        "Dream Holidays",
+        "Favorite Places in Your Country",
+        "Personal Achievements",
+        "Relationships with Friends",
+        "Childhood Hobbies",
+        "Weather and Clothing",
+        "Local Transportation",
+        "Festivals in Your Country",
+        "Environmental Awareness",
+        "Food Markets",
+        "Family Relationships",
+        "Pets and Animals",
+        "Using Technology at Home",
+        "Learning Experiences",
+        "Shopping for Gifts",
+        "Dream Jobs",
+        "Space and Astronomy",
+        "Superstitions and Beliefs",
+        "Neighborhood and Community",
+        "Household Chores",
+        "Dream Holidays",
+        "Favorite Places in Your Country",
+        "Personal Achievements",
+        "Relationships with Friends",
+        "Public Speaking",
+        "Shopping for Electronics",
+        "Birthday Celebrations",
+        "Learning at University",
+        "Public Libraries",
+        "Social Media Use",
+        "Local Food Markets",
+        "Public Parks",
+        "Cooking at Home",
+        "Learning Musical Instruments"
+    ],
+    "questions": [
+        {
+            "Topic": "Hobbies",
+            "Questions": [
+                "What hobbies do you enjoy in your free time?",
+                "How did you become interested in your hobby?",
+                "Do you prefer indoor or outdoor hobbies? Why?",
+                "Have your hobbies changed since you were a child?"
+            ]
+        },
+        {
+            "Topic": "Travel",
+            "Questions": [
+                "Do you like to travel? Why or why not?",
+                "What is your favorite place that you have visited?",
+                "Do you prefer traveling alone or with others?",
+                "What kind of places do you like to visit when you travel?"
+            ]
+        },
+        {
+            "Topic": "Books",
+            "Questions": [
+                "Do you like reading books?",
+                "What kinds of books do you prefer to read?",
+                "How often do you read books?",
+                "Have your reading habits changed over time?"
+            ]
+        },
+        {
+            "Topic": "Food",
+            "Questions": [
+                "What is your favorite type of food?",
+                "Can you cook? What dishes do you like to prepare?",
+                "Do you prefer eating at home or eating out?",
+                "Is traditional food important in your culture?"
+            ]
+        },
+        {
+            "Topic": "Music",
+            "Questions": [
+                "What kind of music do you enjoy listening to?",
+                "Do you play any musical instruments?",
+                "Have your music tastes changed over time?",
+                "Do you like going to live music events?"
+            ]
+        },
+        {
+            "Topic": "Sports",
+            "Questions": [
+                "Are you interested in sports?",
+                "Do you play any sports regularly?",
+                "What is the most popular sport in your country?",
+                "Do you prefer watching sports or playing them?"
+            ]
+        },
+        {
+            "Topic": "Technology",
+            "Questions": [
+                "How often do you use new technology devices?",
+                "What technology do you find most useful in daily life?",
+                "Are there any technologies that you dislike? Why?",
+                "How has technology changed the way people communicate?"
+            ]
+        },
+        {
+            "Topic": "Education",
+            "Questions": [
+                "What is your favorite subject at school or university?",
+                "Do you prefer studying alone or in groups?",
+                "How important is education in your country?",
+                "Have the methods of education changed recently where you live?"
+            ]
+        },
+        {
+            "Topic": "Cinema and Films",
+            "Questions": [
+                "What kind of films do you enjoy watching?",
+                "Do you prefer watching films at home or in a cinema?",
+                "Who is your favorite actor or actress?",
+                "Have your film preferences changed over time?"
+            ]
+        },
+        {
+            "Topic": "Work and Career",
+            "Questions": [
+                "What kind of work do you do or want to do?",
+                "Do you enjoy working in a team or alone?",
+                "What is the most important quality for success at work?",
+                "Have your career goals changed recently?"
+            ]
+        },
+        {
+            "Topic": "Weather",
+            "Questions": [
+                "What kind of weather do you like the most?",
+                "How often does it rain in your hometown?",
+                "Do you prefer hot or cold weather?",
+                "How do you usually spend a rainy day?"
+            ]
+        },
+        {
+            "Topic": "Festivals",
+            "Questions": [
+                "What is your favorite festival?",
+                "How do people celebrate festivals in your country?",
+                "Have you ever participated in a traditional festival?",
+                "Do you think festivals are important for society?"
+            ]
+        },
+        {
+            "Topic": "Pets",
+            "Questions": [
+                "Do you have any pets?",
+                "What kind of animals make good pets?",
+                "Why do people like to keep pets?",
+                "Have pets become more popular recently in your country?"
+            ]
+        },
+        {
+            "Topic": "Shopping",
+            "Questions": [
+                "Do you enjoy shopping?",
+                "What places do you usually shop at?",
+                "Do you prefer shopping alone or with others?",
+                "Have your shopping habits changed over time?"
+            ]
+        },
+        {
+            "Topic": "Daily Routine",
+            "Questions": [
+                "What is your typical daily routine?",
+                "Do you have any special activities in the morning?",
+                "How do you relax after a busy day?",
+                "Has your daily routine changed recently?"
+            ]
+        },
+        {
+            "Topic": "Transportation",
+            "Questions": [
+                "What is the most popular mode of transport in your city?",
+                "Do you prefer public transport or private vehicles?",
+                "Have you ever used long-distance trains or buses?",
+                "What improvements would you like to see in your local transportation?"
+            ]
+        },
+        {
+            "Topic": "Clothing",
+            "Questions": [
+                "What type of clothes do you usually wear?",
+                "Do you follow fashion trends?",
+                "Is traditional clothing still popular where you live?",
+                "How important is comfortable clothing to you?"
+            ]
+        },
+        {
+            "Topic": "Markets and Shopping Centers",
+            "Questions": [
+                "Do you prefer shopping in markets or shopping centers?",
+                "What can people typically buy in local markets?",
+                "Are markets popular among young people in your area?",
+                "How has shopping changed with the development of malls?"
+            ]
+        },
+        {
+            "Topic": "Health and Fitness",
+            "Questions": [
+                "Do you do any exercise regularly?",
+                "Why is it important to stay healthy?",
+                "Have you ever tried any new fitness activities?",
+                "How do people in your country stay healthy?"
+            ]
+        },
+        {
+            "Topic": "Art and Creativity",
+            "Questions": [
+                "Do you enjoy any creative activities like drawing or painting?",
+                "Have you ever visited an art gallery or museum?",
+                "Why is art important to society?",
+                "Do schools encourage children to be creative?"
+            ]
+        },
+        {
+            "Topic": "Family",
+            "Questions": [
+                "Can you describe your family?",
+                "How often do you meet your relatives?",
+                "Do you get along well with your family members?",
+                "What activities do you enjoy doing with your family?"
+            ]
+        },
+        {
+            "Topic": "Cities and Towns",
+            "Questions": [
+                "Do you prefer living in a city or a town?",
+                "What is your hometown like?",
+                "Are there any interesting places to visit in your city?",
+                "Has your city changed much in recent years?"
+            ]
+        },
+        {
+            "Topic": "Environment",
+            "Questions": [
+                "What are some environmental problems in your country?",
+                "Do you try to protect the environment? How?",
+                "Is recycling common in your area?",
+                "What can individuals do to help the environment?"
+            ]
+        },
+        {
+            "Topic": "Languages",
+            "Questions": [
+                "How many languages can you speak?",
+                "Are there many foreign languages taught in your country?",
+                "Why do people learn other languages?",
+                "Which language would you like to learn in the future?"
+            ]
+        },
+        {
+            "Topic": "Internet and Social Media",
+            "Questions": [
+                "How often do you use the internet each day?",
+                "What do you usually do online?",
+                "Are social media popular in your country?",
+                "Do you think social media have a positive or negative effect on society?"
+            ]
+        },
+        {
+            "Topic": "Houses and Accommodation",
+            "Questions": [
+                "Can you describe your home?",
+                "Do you live in a house or an apartment?",
+                "What is your favorite room in your home? Why?",
+                "Would you like to live somewhere else in the future?"
+            ]
+        },
+        {
+            "Topic": "Transportation",
+            "Questions": [
+                "What is the most popular means of transport in your city?",
+                "Do you prefer public transport or driving a car? Why?",
+                "Have you ever used a bicycle to get around?",
+                "Is it easy to find transport late at night in your area?"
+            ]
+        },
+        {
+            "Topic": "Weather and Seasons",
+            "Questions": [
+                "What is the weather usually like in your hometown?",
+                "Do you have a favorite season? Why?",
+                "How does the weather affect your mood or activities?",
+                "Have you ever experienced extreme weather conditions?"
+            ]
+        },
+        {
+            "Topic": "Shopping Habits",
+            "Questions": [
+                "Do you enjoy shopping for clothes or other items?",
+                "Where do you usually shop for everyday needs?",
+                "Do you prefer shopping alone or with friends? Why?",
+                "Have you ever bought something online? Were you satisfied with it?"
+            ]
+        },
+        {
+            "Topic": "Celebrations and Traditions",
+            "Questions": [
+                "What is a popular celebration in your country?",
+                "How do people usually celebrate birthdays where you live?",
+                "Are traditional festivals important to your family? Why or why not?",
+                "Have you ever participated in an international festival or event?"
+            ]
+        },
+        {
+            "Topic": "Childhood",
+            "Questions": [
+                "What is your favorite childhood memory?",
+                "Did you have a best friend when you were a child?",
+                "What games did you enjoy playing as a child?",
+                "How was your childhood different from that of children today?"
+            ]
+        },
+        {
+            "Topic": "Gardening",
+            "Questions": [
+                "Do you like gardening?",
+                "Have you ever grown your own vegetables or flowers?",
+                "What kind of plants are popular in your country?",
+                "Is gardening a common hobby among people in your community?"
+            ]
+        },
+        {
+            "Topic": "Public Transport",
+            "Questions": [
+                "How often do you use public transport?",
+                "What are the advantages of using public transportation in your city?",
+                "Do you prefer buses or trains? Why?",
+                "Has public transport improved in your area over the years?"
+            ]
+        },
+        {
+            "Topic": "Dreams and Aspirations",
+            "Questions": [
+                "What did you want to be when you were a child?",
+                "Have your dreams changed as you grew older?",
+                "What is one goal you hope to achieve in the future?",
+                "Do you think it’s important to have dreams? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Gardens and Parks",
+            "Questions": [
+                "Are there many parks or gardens near where you live?",
+                "Do you like spending time in parks? Why or why not?",
+                "What facilities would you like to see in a public park?",
+                "Have you ever visited a famous garden or park?"
+            ]
+        },
+        {
+            "Topic": "Volunteering",
+            "Questions": [
+                "Have you ever done any volunteer work?",
+                "What kinds of volunteer activities are popular in your country?",
+                "Why do people volunteer their time without getting paid?",
+                "Do you think volunteering benefits society? How?"
+            ]
+        },
+        {
+            "Topic": "Libraries",
+            "Questions": [
+                "Do you often visit libraries?",
+                "What do you like to do when you go to a library?",
+                "Are libraries still important now that we have the internet?",
+                "How could libraries attract more visitors?"
+            ]
+        },
+        {
+            "Topic": "Weather Forecasting",
+            "Questions": [
+                "How do you usually find out about the weather forecast?",
+                "Do you think weather forecasts are usually accurate?",
+                "How does the weather affect your mood or daily plans?",
+                "Would you like to learn how to predict the weather yourself?"
+            ]
+        },
+        {
+            "Topic": "Holidays at Home",
+            "Questions": [
+                "Do you sometimes spend holidays at home instead of traveling?",
+                "What activities do you enjoy during holidays spent at home?",
+                "Is it common for people in your country to have staycations?",
+                "What are the benefits of spending holidays at home?"
+            ]
+        },
+        {
+            "Topic": "Local History",
+            "Questions": [
+                "Are you interested in the history of your local area?",
+                "Do people in your community preserve historical sites?",
+                "Have you visited any museums related to local history?",
+                "Why is it important to learn about local history?"
+            ]
+        },
+        {
+            "Topic": "Photography",
+            "Questions": [
+                "Do you enjoy taking photos?",
+                "What kind of photos do you like to take?",
+                "Do you prefer using a camera or a smartphone for photography?",
+                "Have you ever taken a photography course?"
+            ]
+        },
+        {
+            "Topic": "Cooking",
+            "Questions": [
+                "Do you like cooking?",
+                "What is your favorite dish to cook?",
+                "Who usually cooks in your family?",
+                "Have you ever tried cooking food from other countries?"
+            ]
+        },
+        {
+            "Topic": "Weekend Activities",
+            "Questions": [
+                "What do you usually do on weekends?",
+                "Do you prefer spending weekends indoors or outdoors?",
+                "Do you often meet friends during the weekend?",
+                "Has your weekend routine changed recently?"
+            ]
+        },
+        {
+            "Topic": "Public Holidays",
+            "Questions": [
+                "What public holidays are important in your country?",
+                "How do people usually celebrate public holidays where you live?",
+                "Do you prefer public holidays or regular weekends?",
+                "What is your favorite public holiday and why?"
+            ]
+        },
+        {
+            "Topic": "Television",
+            "Questions": [
+                "How often do you watch television?",
+                "What type of TV programs do you like?",
+                "Do you think watching TV is a good way to relax?",
+                "Has your TV watching habit changed in recent years?"
+            ]
+        },
+        {
+            "Topic": "Shopping Online",
+            "Questions": [
+                "Do you shop online often?",
+                "What kind of products do you buy online?",
+                "Do you think online shopping is better than shopping in stores?",
+                "Have you ever had any problems with online shopping?"
+            ]
+        },
+        {
+            "Topic": "Public Parks",
+            "Questions": [
+                "Are there parks near your home?",
+                "How often do you visit public parks?",
+                "What do you like to do when you go to a park?",
+                "Do you think parks are important for cities?"
+            ]
+        },
+        {
+            "Topic": "Festive Decorations",
+            "Questions": [
+                "Do people in your country decorate their homes for festivals?",
+                "Have you ever helped to put up decorations for a festival?",
+                "Which festival has the best decorations in your opinion?",
+                "Do you like festive lights and decorations?"
+            ]
+        },
+        {
+            "Topic": "Movies at Home vs Cinema",
+            "Questions": [
+                "Do you prefer watching movies at home or in the cinema?",
+                "How often do you go to the cinema?",
+                "What do you think are the advantages of watching movies at home?",
+                "Have cinemas changed much in your country recently?"
+            ]
+        },
+        {
+            "Topic": "Learning New Skills",
+            "Questions": [
+                "Are you interested in learning new skills?",
+                "What new skill would you like to learn?",
+                "How do people in your country usually learn new skills?",
+                "Have you recently learned a new skill?"
+            ]
+        },
+        {
+            "Topic": "Personal Personality",
+            "Questions": [
+                "How would you describe your personality?",
+                "Do you enjoy meeting new people?",
+                "Are you more of an introvert or extrovert?",
+                "What qualities do you value in a friend?"
+            ]
+        },
+        {
+            "Topic": "Transportation Habits",
+            "Questions": [
+                "How do you usually get to work or school?",
+                "Do you prefer driving or using public transport?",
+                "Have your travel habits changed in recent years?",
+                "What is your favorite mode of transportation?"
+            ]
+        },
+        {
+            "Topic": "Shopping Preferences",
+            "Questions": [
+                "Do you enjoy shopping?",
+                "Where do you usually shop for clothes?",
+                "Do you prefer shopping alone or with friends?",
+                "How has your shopping style changed over time?"
+            ]
+        },
+        {
+            "Topic": "Weather Preferences",
+            "Questions": [
+                "What kind of weather do you like the most?",
+                "How does the weather affect your mood?",
+                "Do you prefer hot or cold seasons?",
+                "Have you experienced extreme weather before?"
+            ]
+        },
+        {
+            "Topic": "Learning Experiences",
+            "Questions": [
+                "What was your favorite subject at school?",
+                "Do you enjoy learning new things outside of school?",
+                "How do you prefer to learn, in a group or alone?",
+                "Have you taken any courses recently?"
+            ]
+        },
+        {
+            "Topic": "Weekend Activities",
+            "Questions": [
+                "What do you usually do on weekends?",
+                "Do you prefer spending weekends indoors or outdoors?",
+                "Have your weekend habits changed recently?",
+                "What is your ideal way to spend a weekend?"
+            ]
+        },
+        {
+            "Topic": "Transport and Traffic",
+            "Questions": [
+                "Is traffic a problem in your city?",
+                "What measures do you take to avoid heavy traffic?",
+                "Do you think public transport is reliable where you live?",
+                "Have you ever experienced a traffic jam that made you late?"
+            ]
+        },
+        {
+            "Topic": "Languages Spoken",
+            "Questions": [
+                "How many languages can you speak?",
+                "Are you learning any new language at the moment?",
+                "Which language do you find the most difficult to learn?",
+                "Do you prefer learning languages through conversation or studying grammar?"
+            ]
+        },
+        {
+            "Topic": "Family Traditions",
+            "Questions": [
+                "Does your family have any special traditions?",
+                "How important are family gatherings to you?",
+                "Have family traditions changed over time?",
+                "Do you plan to continue any family traditions in the future?"
+            ]
+        },
+        {
+            "Topic": "Technology Usage at Home",
+            "Questions": [
+                "What kinds of technology do you use at home?",
+                "Do you think technology has made life easier or harder?",
+                "How often do you use a computer or smartphone daily?",
+                "Are there any disadvantages of using technology at home?"
+            ]
+        },
+        {
+            "Topic": "Hobbies and Interests",
+            "Questions": [
+                "What hobbies do you enjoy in your free time?",
+                "How did you become interested in your favorite hobby?",
+                "Do you prefer indoor or outdoor hobbies? Why?",
+                "Have your hobbies changed since you were a child?"
+            ]
+        },
+        {
+            "Topic": "Communication",
+            "Questions": [
+                "How do you usually communicate with your friends?",
+                "Do you prefer face-to-face conversation or using technology to communicate?",
+                "How important is communication in your daily life?",
+                "Have communication methods changed in your country recently?"
+            ]
+        },
+        {
+            "Topic": "Shopping Habits",
+            "Questions": [
+                "How often do you go shopping?",
+                "Do you enjoy shopping alone or with others?",
+                "What is your favorite type of store to shop in?",
+                "Have your shopping habits changed over time?"
+            ]
+        },
+        {
+            "Topic": "Music Preferences",
+            "Questions": [
+                "What kind of music do you like to listen to?",
+                "Do you play any musical instruments?",
+                "How often do you listen to music?",
+                "Have your music tastes changed as you have grown older?"
+            ]
+        },
+        {
+            "Topic": "Sports Participation",
+            "Questions": [
+                "Do you like watching sports on TV?",
+                "Have you ever played any sports competitively?",
+                "What sport would you like to learn in the future?",
+                "Why is sports important for people?"
+            ]
+        },
+        {
+            "Topic": "Festivals and Traditions",
+            "Questions": [
+                "What is your favorite festival in your country?",
+                "How do people usually celebrate this festival?",
+                "Have the ways of celebrating festivals changed in your hometown?",
+                "Do you prefer traditional festivals or modern celebrations?"
+            ]
+        },
+        {
+            "Topic": "Travel Experiences",
+            "Questions": [
+                "Have you ever traveled to a foreign country?",
+                "What is your favorite place that you have visited?",
+                "Do you prefer traveling alone or with others?",
+                "What do you usually prepare before traveling?"
+            ]
+        },
+        {
+            "Topic": "Work-Life Balance",
+            "Questions": [
+                "How do you balance work or study with your personal life?",
+                "Do you think it is easy to maintain a good work-life balance nowadays?",
+                "What activities do you enjoy after work or school?",
+                "Have your daily routines changed since starting work or school?"
+            ]
+        },
+        {
+            "Topic": "Weather Preferences",
+            "Questions": [
+                "What is your favorite season of the year and why?",
+                "How does the weather affect your mood or activities?",
+                "Is the weather changing in your town recently?",
+                "Do you enjoy outdoor activities regardless of weather conditions?"
+            ]
+        },
+        {
+            "Topic": "Learning New Skills",
+            "Questions": [
+                "Are you currently learning any new skill or hobby?",
+                "Why is it important to keep learning new things?",
+                "Do you prefer learning by yourself or with a teacher?",
+                "Have you ever learned something that was very challenging for you?"
+            ]
+        },
+        {
+            "Topic": "Education Systems",
+            "Questions": [
+                "How do you usually get to school or university?",
+                "What is your favorite subject and why?",
+                "What kind of teachers do you like best?",
+                "Do you prefer studying alone or with friends?"
+            ]
+        },
+        {
+            "Topic": "Local Culture",
+            "Questions": [
+                "Can you tell me about a popular tradition in your country?",
+                "What kind of cultural events do you enjoy?",
+                "Are there any traditional clothes people wear on special occasions?",
+                "Do you think it’s important to preserve local culture?"
+            ]
+        },
+        {
+            "Topic": "Daily Habits",
+            "Questions": [
+                "What time do you usually wake up on weekdays?",
+                "Do you prefer tea or coffee in the morning?",
+                "How often do you exercise during the week?",
+                "Do you have any habits to relax after a busy day?"
+            ]
+        },
+        {
+            "Topic": "Holidays and Vacation",
+            "Questions": [
+                "Where do you usually spend your holidays?",
+                "What do you like to do during your vacations?",
+                "Do you prefer traveling alone or with family/friends?",
+                "What was your best holiday experience?"
+            ]
+        },
+        {
+            "Topic": "Communication Skills",
+            "Questions": [
+                "How do you usually keep in touch with your friends?",
+                "Do you prefer face-to-face conversations or phone calls?",
+                "Have you ever taken a course to improve your communication skills?",
+                "How important is good communication in daily life?"
+            ]
+        },
+        {
+            "Topic": "Shopping Experiences",
+            "Questions": [
+                "Where do you usually go shopping for clothes?",
+                "Do you prefer shopping in big malls or small shops?",
+                "What factors influence your choice when buying something?",
+                "Have you ever bought something online? What was it?"
+            ]
+        },
+        {
+            "Topic": "Pets and Animals",
+            "Questions": [
+                "Do you have any pets? If yes, what kind?",
+                "Are pets popular in your country?",
+                "What do you think about keeping exotic animals as pets?",
+                "Have you ever visited a zoo or animal sanctuary?"
+            ]
+        },
+        {
+            "Topic": "Festivals and Celebrations",
+            "Questions": [
+                "What is your favorite festival and why?",
+                "How do people usually celebrate festivals in your country?",
+                "Have you ever participated in organizing a festival event?",
+                "Do you think traditional festivals are still important today?"
+            ]
+        },
+        {
+            "Topic": "Transport and Travel Habits",
+            "Questions": [
+                "Which type of public transport do you use most often?",
+                "Do you like to travel by train or by plane more?",
+                "How do you prepare for a long trip?",
+                "Have you ever had any interesting experiences while traveling?"
+            ]
+        },
+        {
+            "Topic": "Leisure Activities",
+            "Questions": [
+                "What do you usually do in your free time?",
+                "Do you prefer outdoor or indoor leisure activities?",
+                "Have you recently tried any new leisure activity?",
+                "Why is it important to have hobbies during free time?"
+            ]
+        },
+        {
+            "Topic": "Childcare and Parenting",
+            "Questions": [
+                "Do you think it is important for parents to spend a lot of time with their children?",
+                "What kinds of activities do parents usually do with their children in your country?",
+                "How has parenting changed compared to when your parents were young?",
+                "Do you think childcare facilities are important for working parents?"
+            ]
+        },
+        {
+            "Topic": "Money and Saving",
+            "Questions": [
+                "Do you like to save money or spend it?",
+                "What do people in your country usually save money for?",
+                "Is it better to save money or invest it? Why?",
+                "Have you ever saved money for something special?"
+            ]
+        },
+        {
+            "Topic": "Transport Infrastructure",
+            "Questions": [
+                "What is the most common way to travel in your city?",
+                "Do you think the public transport system in your area is good?",
+                "How could transport infrastructure be improved in your city?",
+                "Do you prefer traveling by car or by public transport?"
+            ]
+        },
+        {
+            "Topic": "Personal Appearance",
+            "Questions": [
+                "Is personal appearance important to you?",
+                "How do people usually dress in your country for formal occasions?",
+                "Do you think people care too much about their appearance nowadays?",
+                "Has your style of dressing changed since you were younger?"
+            ]
+        },
+        {
+            "Topic": "Shopping for Gifts",
+            "Questions": [
+                "How do people usually choose gifts in your country?",
+                "Do you enjoy shopping for gifts? Why or why not?",
+                "Have you ever given a gift that was very special to someone?",
+                "What is the most popular gift during festivals or celebrations in your culture?"
+            ]
+        },
+        {
+            "Topic": "Reading Habits",
+            "Questions": [
+                "Do you read books often?",
+                "What kind of books do you like to read?",
+                "Has your reading habit changed over the years?",
+                "Do you prefer reading physical books or e-books?"
+            ]
+        },
+        {
+            "Topic": "Holidays and Travel Planning",
+            "Questions": [
+                "How do people in your country usually plan their holidays?",
+                "Do you prefer to travel alone or with others? Why?",
+                "What is the most popular holiday destination for people in your area?",
+                "Have you ever had an unforgettable holiday experience?"
+            ]
+        },
+        {
+            "Topic": "Weekend Activities",
+            "Questions": [
+                "What do you usually do on weekends?",
+                "Do you prefer spending weekends at home or going out?",
+                "Are weekends different now compared to when you were a child?",
+                "Is it important to have free time on weekends?"
+            ]
+        },
+        {
+            "Topic": "Learning New Languages",
+            "Questions": [
+                "Are many people learning foreign languages in your country?",
+                "What is the easiest language for you to learn besides your own?",
+                "Do you think it is important to learn new languages nowadays?",
+                "Have you tried learning a new language recently?"
+            ]
+        },
+        {
+            "Topic": "Social Celebrations and Events",
+            "Questions": [
+                "What social events are commonly celebrated in your community?",
+                "Do you like attending social celebrations or prefer quiet time?",
+                "Are social celebrations important for bringing people together?",
+                "Have you ever organized a social event yourself?"
+            ]
+        },
+        {
+            "Topic": "Gardening",
+            "Questions": [
+                "Do you enjoy gardening?",
+                "What kind of plants do you like to grow?",
+                "Is gardening popular in your country?",
+                "How often do you spend time in the garden?"
+            ]
+        },
+        {
+            "Topic": "Personal Goals",
+            "Questions": [
+                "What are some of your personal goals?",
+                "How do you plan to achieve your goals?",
+                "Do you like setting short-term or long-term goals?",
+                "Have your goals changed over time?"
+            ]
+        },
+        {
+            "Topic": "Shopping for Clothes",
+            "Questions": [
+                "How often do you buy new clothes?",
+                "What type of clothes do you prefer to wear?",
+                "Do you prefer shopping in physical stores or online?",
+                "Is fashion important to you?"
+            ]
+        },
+        {
+            "Topic": "Public Transport Experience",
+            "Questions": [
+                "Do you use public transport regularly?",
+                "What is the public transport system like in your city?",
+                "Have you ever experienced any problems while using public transport?",
+                "Would you recommend using public transport instead of cars?"
+            ]
+        },
+        {
+            "Topic": "Healthy Eating",
+            "Questions": [
+                "What is your opinion on healthy eating?",
+                "Do you try to eat healthy food every day?",
+                "Are traditional foods considered healthy in your country?",
+                "How easy is it to find healthy food where you live?"
+            ]
+        },
+        {
+            "Topic": "Sports Events",
+            "Questions": [
+                "Have you ever attended a live sports event?",
+                "What is the most popular sport in your country?",
+                "Do you prefer watching or playing sports?",
+                "How do sports events influence local communities?"
+            ]
+        },
+        {
+            "Topic": "Movies and TV Shows",
+            "Questions": [
+                "What type of movies or TV shows do you like?",
+                "Do you prefer watching movies at home or in the cinema?",
+                "Who is your favorite actor or actress?",
+                "How do movies and TV shows affect society?"
+            ]
+        },
+        {
+            "Topic": "Learning New Skills",
+            "Questions": [
+                "Have you recently learned any new skills?",
+                "What skill would you like to learn in the future?",
+                "Is it easy for adults to learn new skills?",
+                "Do schools teach useful skills for daily life?"
+            ]
+        },
+        {
+            "Topic": "Local Attractions",
+            "Questions": [
+                "What are some popular tourist attractions in your city?",
+                "Have you ever taken a visitor to see local landmarks?",
+                "Do locals visit these attractions often?",
+                "How can local attractions impact the economy?"
+            ]
+        },
+        {
+            "Topic": "Weather Preferences",
+            "Questions": [
+                "What kind of weather do you enjoy most?",
+                "Does weather affect your mood or daily activities?",
+                "How do people in your country adapt to extreme weather?",
+                "Would you like to live somewhere with a different climate?"
+            ]
+        },
+        {
+            "Topic": "Dreams and Ambitions",
+            "Questions": [
+                "What was your childhood dream job?",
+                "Have your ambitions changed since then?",
+                "What steps are you taking to achieve your goals?",
+                "Do you think it's important to have big dreams?"
+            ]
+        },
+        {
+            "Topic": "City Life",
+            "Questions": [
+                "Do you enjoy living in a city? Why or why not?",
+                "What do you like most about your city?",
+                "Are there any problems associated with city living?",
+                "Would you prefer to live in the countryside?"
+            ]
+        },
+        {
+            "Topic": "Animals",
+            "Questions": [
+                "Do you like animals?",
+                "Have you ever had a pet?",
+                "Which animal do you find most interesting?",
+                "Is it important to protect endangered species?"
+            ]
+        },
+        {
+            "Topic": "Transport",
+            "Questions": [
+                "What is your usual way of traveling around the city?",
+                "Do you think public transport is efficient in your area?",
+                "Have you ever traveled by train or airplane?",
+                "Would you like to learn how to drive?"
+            ]
+        },
+        {
+            "Topic": "Clothes and Fashion",
+            "Questions": [
+                "How would you describe your style of clothing?",
+                "Do you follow fashion trends?",
+                "Where do you usually buy your clothes?",
+                "Is clothing important for making a good impression?"
+            ]
+        },
+        {
+            "Topic": "Social Media",
+            "Questions": [
+                "How often do you use social media?",
+                "What do you usually use social media for?",
+                "Do you think social media has more advantages or disadvantages?",
+                "Has social media changed how people communicate?"
+            ]
+        },
+        {
+            "Topic": "Festivals and Celebrations",
+            "Questions": [
+                "What is your favorite festival or celebration?",
+                "How do people in your country celebrate it?",
+                "Do you prefer traditional or modern celebrations?",
+                "Have you ever participated in an international festival?"
+            ]
+        },
+        {
+            "Topic": "Sports and Exercise",
+            "Questions": [
+                "Do you enjoy playing sports?",
+                "How often do you exercise?",
+                "What sports are popular in your country?",
+                "Have you ever been to a live sports event?"
+            ]
+        },
+        {
+            "Topic": "Weather and Seasons",
+            "Questions": [
+                "What is your favorite season and why?",
+                "How does the weather affect your mood or activities?",
+                "Do the seasons change much where you live?",
+                "Have you experienced extreme weather conditions?"
+            ]
+        },
+        {
+            "Topic": "Food and Cooking",
+            "Questions": [
+                "Do you enjoy cooking at home?",
+                "What is your favorite type of cuisine?",
+                "Have you ever tried cooking a foreign dish?",
+                "Is eating out popular in your country?"
+            ]
+        },
+        {
+            "Topic": "Holidays",
+            "Questions": [
+                "Where do you like to go for holidays?",
+                "How do you usually spend your holidays?",
+                "Do you prefer to travel alone or with others during holidays?",
+                "What is your favorite holiday destination?"
+            ]
+        },
+        {
+            "Topic": "Transport",
+            "Questions": [
+                "What is your primary mode of transport?",
+                "Do you like to travel by public transportation? Why or why not?",
+                "Have you ever used a taxi or ride-sharing service?",
+                "What improvements would you like to see in your city’s transportation system?"
+            ]
+        },
+        {
+            "Topic": "Weather",
+            "Questions": [
+                "What type of weather do you like the most?",
+                "How does the weather affect your daily activities?",
+                "Have you noticed any changes in the weather in your area recently?",
+                "Do you prefer cold or hot weather? Why?"
+            ]
+        },
+        {
+            "Topic": "Gardening",
+            "Questions": [
+                "Do you enjoy gardening?",
+                "What plants or flowers are common in your garden?",
+                "Have you ever grown your own vegetables?",
+                "What benefits do you think gardening offers?"
+            ]
+        },
+        {
+            "Topic": "Festivals",
+            "Questions": [
+                "What is your favorite festival?",
+                "How do people celebrate festivals in your country?",
+                "Do festivals bring people together in your community?",
+                "Have you attended any international festivals?"
+            ]
+        },
+        {
+            "Topic": "Sports",
+            "Questions": [
+                "Do you play any sports regularly?",
+                "What is the most popular sport in your country?",
+                "Have you ever attended a live sports event?",
+                "Do you prefer watching sports or playing them?"
+            ]
+        },
+        {
+            "Topic": "Movies and TV Shows",
+            "Questions": [
+                "What kind of movies do you enjoy watching?",
+                "Do you prefer watching movies at home or in a cinema?",
+                "Have you seen any interesting TV shows recently?",
+                "Who is your favorite actor or actress?"
+            ]
+        },
+        {
+            "Topic": "Food and Cooking",
+            "Questions": [
+                "Do you enjoy cooking at home?",
+                "What is your favorite dish to cook?",
+                "Are there popular traditional foods in your country?",
+                "Have you ever tried cooking a dish from another country?"
+            ]
+        },
+        {
+            "Topic": "Local Culture",
+            "Questions": [
+                "What unique customs does your culture have?",
+                "Are there traditional clothes worn during special occasions?",
+                "How is local culture promoted in your area?",
+                "Have you ever participated in a cultural event or festival?"
+            ]
+        },
+        {
+            "Topic": "Books and Reading",
+            "Questions": [
+                "Do you like reading books?",
+                "What is the last book you read?",
+                "Do you prefer physical books or e-books?",
+                "How often do you visit a library or bookstore?"
+            ]
+        },
+        {
+            "Topic": "Shopping Preferences",
+            "Questions": [
+                "Do you prefer shopping online or in physical stores? Why?",
+                "How often do you go shopping for clothes?",
+                "What kind of products do you usually buy when you go shopping?",
+                "Have your shopping habits changed in recent years?"
+            ]
+        },
+        {
+            "Topic": "Health and Fitness",
+            "Questions": [
+                "How often do you exercise each week?",
+                "Do you prefer exercising indoors or outdoors?",
+                "What kind of sports or physical activities do you enjoy?",
+                "Are health and fitness important to you? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Public Transport Experience",
+            "Questions": [
+                "What form of public transport do you use most often?",
+                "Is public transport reliable in your city?",
+                "What improvements would you like to see in public transport?",
+                "Do you think public transport is good for the environment?"
+            ]
+        },
+        {
+            "Topic": "Personal Appearance",
+            "Questions": [
+                "How important is personal appearance to you?",
+                "Do you follow any fashion trends?",
+                "Has your style changed over the years?",
+                "What influences your choice of clothes or accessories?"
+            ]
+        },
+        {
+            "Topic": "Money and Saving",
+            "Questions": [
+                "Do you like to save money or spend it easily?",
+                "What do you usually save money for?",
+                "Do you think it is important to learn about managing money?",
+                "Have your saving habits changed as you have grown older?"
+            ]
+        },
+        {
+            "Topic": "Local Attractions",
+            "Questions": [
+                "Are there any famous attractions in your hometown?",
+                "Which local attraction do you think visitors should see first?",
+                "Have you visited any new attractions recently?",
+                "What kind of places attract tourists in your area?"
+            ]
+        },
+        {
+            "Topic": "Weekend Activities",
+            "Questions": [
+                "What do you usually do on weekends?",
+                "Do you prefer relaxing or being active during weekends?",
+                "Have your weekend activities changed recently?",
+                "Do you usually spend weekends alone or with others?"
+            ]
+        },
+        {
+            "Topic": "Learning Experiences",
+            "Questions": [
+                "What was the most interesting thing you learned recently?",
+                "Do you enjoy learning new skills or knowledge?",
+                "Have you ever taken a course outside school or work?",
+                "How do you prefer to learn: by reading, watching, or doing?"
+            ]
+        },
+        {
+            "Topic": "Social Celebrations and Events",
+            "Questions": [
+                "What kinds of social events are common where you live?",
+                "Do you enjoy attending parties and celebrations?",
+                "Have you ever organized a social event? How was it?",
+                "What is your favorite type of celebration or event, and why?"
+            ]
+        },
+        {
+            "Topic": "Dreams and Ambitions",
+            "Questions": [
+                "What did you want to be when you were a child?",
+                "Have your goals or ambitions changed over time?",
+                "What are your current dreams for the future?",
+                "Do you think it is important to set goals in life?"
+            ]
+        },
+        {
+            "Topic": "Childhood Memories",
+            "Questions": [
+                "What is your happiest childhood memory?",
+                "Did you have a favorite game or activity when you were young?",
+                "How was your relationship with your classmates during childhood?",
+                "What kind of things did you enjoy doing with your family as a child?"
+            ]
+        },
+        {
+            "Topic": "Transportation Modes",
+            "Questions": [
+                "What type of transportation do you usually use to go to work or school?",
+                "Do you prefer traveling by bus or by car? Why?",
+                "Have you ever tried using a bike as a means of transportation?",
+                "What are the advantages of using public transportation in your city?"
+            ]
+        },
+        {
+            "Topic": "Favorite Seasons",
+            "Questions": [
+                "Which season do you enjoy the most and why?",
+                "How does the weather in your favorite season affect your mood or activities?",
+                "Are there any festivals or special events in your country during that season?",
+                "What clothes do you usually wear in your favorite season?"
+            ]
+        },
+        {
+            "Topic": "Shopping Preferences",
+            "Questions": [
+                "Do you like shopping alone or with friends? Why?",
+                "Do you prefer shopping in big malls or small local shops?",
+                "How often do you go shopping for clothes or accessories?",
+                "What factors influence your decision when buying something?"
+            ]
+        },
+        {
+            "Topic": "Learning Languages",
+            "Questions": [
+                "How many languages do you speak?",
+                "What is the easiest language for you to learn and why?",
+                "Have you ever taken a language course? How was your experience?",
+                "Why do you think learning foreign languages is important?"
+            ]
+        },
+        {
+            "Topic": "Festivals and Celebrations",
+            "Questions": [
+                "What is the most important festival or celebration in your country?",
+                "How do people usually celebrate this festival?",
+                "Have you ever organized or participated in any festival activities?",
+                "What do you like most about festivals and celebrations?"
+            ]
+        },
+        {
+            "Topic": "Personal Habits",
+            "Questions": [
+                "Do you have any habits that you consider good or bad?",
+                "How do you try to improve your habits?",
+                "Are there any routines you follow every day?",
+                "Do your habits change when you are on vacation or traveling?"
+            ]
+        },
+        {
+            "Topic": "Workdays and Weekends",
+            "Questions": [
+                "How do your weekdays usually differ from weekends?",
+                "What activities do you prefer doing on weekends?",
+                "Do you ever work on weekends? How does that make you feel?",
+                "How important is it for you to have free time during the week?"
+            ]
+        },
+        {
+            "Topic": "Using Mobile Phones",
+            "Questions": [
+                "How often do you use your mobile phone during the day?",
+                "What features of mobile phones do you use most frequently?",
+                "Have mobile phones changed how people communicate in your opinion?",
+                "Do you think using mobile phones has more advantages or disadvantages?"
+            ]
+        },
+        {
+            "Topic": "Local Cuisine",
+            "Questions": [
+                "What is a traditional dish from your area or country?",
+                "Do you enjoy cooking local food at home?",
+                "Have you ever tried dishes from other countries? Which do you like best?",
+                "How often do you eat out at local restaurants or food markets?"
+            ]
+        },
+        {
+            "Topic": "Transportation Safety",
+            "Questions": [
+                "How do you usually travel to work or school?",
+                "What safety measures do you think are important when using public transportation?",
+                "Have you noticed any changes in transportation safety in your city recently?",
+                "Do you prefer traveling by car or public transport? Why?"
+            ]
+        },
+        {
+            "Topic": "Personal Celebrations",
+            "Questions": [
+                "What kinds of personal celebrations do people have in your country?",
+                "How do you usually celebrate your birthday?",
+                "Is celebrating anniversaries important to you? Why or why not?",
+                "What is the most memorable celebration you have ever attended?"
+            ]
+        },
+        {
+            "Topic": "Weather Influence on Daily Life",
+            "Questions": [
+                "How does the weather affect your daily activities?",
+                "Which season do you like the most and why?",
+                "Have you ever experienced extreme weather conditions?",
+                "Do you think the weather affects people's mood? How?"
+            ]
+        },
+        {
+            "Topic": "Local Transportation Systems",
+            "Questions": [
+                "What types of transportation are common in your city?",
+                "Do you think the public transportation system in your area is efficient?",
+                "Would you recommend people use public transport over private cars? Why?",
+                "Have there been any recent improvements in local transportation?"
+            ]
+        },
+        {
+            "Topic": "Cultural Events",
+            "Questions": [
+                "What cultural events are popular in your country?",
+                "Have you ever participated in a cultural festival?",
+                "Why do you think cultural events are important for communities?",
+                "Are there any cultural events that you would like to attend in the future?"
+            ]
+        },
+        {
+            "Topic": "Shopping Centers vs Local Markets",
+            "Questions": [
+                "Do you prefer shopping in large malls or local markets? Why?",
+                "What are the advantages of shopping centers compared to other shopping places?",
+                "Are local markets still popular in your country? Why or why not?",
+                "What kind of shopping place do you usually go to with your family or friends?"
+            ]
+        },
+        {
+            "Topic": "Urban Green Spaces",
+            "Questions": [
+                "Are there many parks or green spaces in your city?",
+                "How often do you visit parks or gardens?",
+                "What benefits do green spaces bring to urban areas?",
+                "Would you like to see more green areas developed where you live?"
+            ]
+        },
+        {
+            "Topic": "Learning New Technologies",
+            "Questions": [
+                "How do you usually learn about new technology?",
+                "Have you recently tried any new gadgets or apps?",
+                "Do you find learning new technology easy or difficult? Why?",
+                "Are there any technologies you would like to learn about in the future?"
+            ]
+        },
+        {
+            "Topic": "Workplace Environment",
+            "Questions": [
+                "What kind of work environment do you prefer?",
+                "Have you ever worked in a team before? How was the experience?",
+                "Do you think the workplace environment affects productivity? How?",
+                "What are some ways companies can improve their workplace atmosphere?"
+            ]
+        },
+        {
+            "Topic": "Local Cuisine and Food Culture",
+            "Questions": [
+                "What kinds of traditional food are popular in your area?",
+                "Do you enjoy cooking local dishes yourself?",
+                "Have food habits changed in your country over time? How?",
+                "Are there any special occasions when certain foods are prepared in your culture?"
+            ]
+        },
+        {
+            "Topic": "Travel Experiences Abroad",
+            "Questions": [
+                "Have you ever traveled to another country?",
+                "What was your favorite destination and why?",
+                "How do you prepare for an overseas trip?",
+                "Do you prefer traveling alone or with others?"
+            ]
+        },
+        {
+            "Topic": "Movies and Cinema Preferences",
+            "Questions": [
+                "What kind of movies do you enjoy watching?",
+                "How often do you go to the cinema?",
+                "Do you prefer watching movies at home or in a theater?",
+                "Has your taste in movies changed over time?"
+            ]
+        },
+        {
+            "Topic": "Work Environment",
+            "Questions": [
+                "Can you describe your ideal workplace?",
+                "What do you like most about your current job environment?",
+                "Do you enjoy working in teams or independently?",
+                "How important is work-life balance to you?"
+            ]
+        },
+        {
+            "Topic": "Public Transport Usage",
+            "Questions": [
+                "Do you often use public transportation?",
+                "What is the public transport system like in your city?",
+                "Would you like to improve public transport facilities?",
+                "How does using public transport affect your daily routine?"
+            ]
+        },
+        {
+            "Topic": "Favorite Festivals and Celebrations",
+            "Questions": [
+                "What is your favorite festival and why?",
+                "How do people in your country usually celebrate festivals?",
+                "Have you ever participated in a festival abroad?",
+                "Do you think traditional festivals are important in modern society?"
+            ]
+        },
+        {
+            "Topic": "Weather and Seasonal Changes",
+            "Questions": [
+                "What is the weather like in your hometown throughout the year?",
+                "Which season do you like most and why?",
+                "How does the weather affect your daily activities?",
+                "Have you experienced extreme weather conditions before?"
+            ]
+        },
+        {
+            "Topic": "Learning New Skills",
+            "Questions": [
+                "What new skills would you like to learn?",
+                "Have you recently learned something new?",
+                "Do you prefer learning by yourself or with a teacher?",
+                "How do new skills help you in daily life or work?"
+            ]
+        },
+        {
+            "Topic": "Use of Technology in Education",
+            "Questions": [
+                "How has technology changed education in your country?",
+                "Do you use any educational apps or tools?",
+                "What are the advantages of online learning?",
+                "Are there any disadvantages of using technology in classrooms?"
+            ]
+        },
+        {
+            "Topic": "Cultural Traditions and Customs",
+            "Questions": [
+                "Can you describe a cultural tradition from your country?",
+                "How important are cultural customs to you personally?",
+                "Have customs changed in your country over recent years?",
+                "Do you like to learn about other cultures’ traditions?"
+            ]
+        },
+        {
+            "Topic": "Weekend Activities and Leisure",
+            "Questions": [
+                "What do you usually do on weekends?",
+                "Do you prefer relaxing at home or going out during weekends?",
+                "Have your weekend activities changed since you were younger?",
+                "How do weekends help you reduce stress?"
+            ]
+        },
+        {
+            "Topic": "Hobbies and Interests that Are Uncommon",
+            "Questions": [
+                "Do you think uncommon hobbies are becoming more popular?",
+                "What is the most interesting hobby you've heard about?",
+                "Would you like to try a hobby that is unusual? Why or why not?",
+                "How do people usually find new hobbies?"
+            ]
+        },
+        {
+            "Topic": "Childhood Games and Activities",
+            "Questions": [
+                "What games did you enjoy playing as a child?",
+                "Have children's games changed over the years? How?",
+                "Do children today spend more time playing indoors or outdoors?",
+                "What is the importance of playing games in childhood?"
+            ]
+        },
+        {
+            "Topic": "Commuting and Daily Travel",
+            "Questions": [
+                "How do you usually get to work or school?",
+                "What do you like or dislike about your daily commute?",
+                "Have the traveling conditions changed recently in your city?",
+                "Would you prefer to walk or use other transport for short distances? Why?"
+            ]
+        },
+        {
+            "Topic": "Public Services in the Community",
+            "Questions": [
+                "What public services are available in your community?",
+                "Do people use these services often in your area?",
+                "How can public services be improved in your town?",
+                "Have you ever had a memorable experience with a public service?"
+            ]
+        },
+        {
+            "Topic": "Festivals Unique to Your Country",
+            "Questions": [
+                "Can you describe a festival that is unique to your country?",
+                "How do people prepare for this festival?",
+                "Do young people in your country enjoy traditional festivals? Why or why not?",
+                "Have festivals changed over time in your country?"
+            ]
+        },
+        {
+            "Topic": "Local Food Markets and Their Role",
+            "Questions": [
+                "Are local food markets popular where you live?",
+                "What kinds of food can you find at these markets?",
+                "Do you prefer buying food at markets or supermarkets? Why?",
+                "How do local markets help the community?"
+            ]
+        },
+        {
+            "Topic": "Use of Libraries Today",
+            "Questions": [
+                "Do you visit libraries often?",
+                "What kinds of books or resources do libraries offer nowadays?",
+                "Have libraries changed with the availability of the internet?",
+                "Would you recommend visiting a library to other people? Why?"
+            ]
+        },
+        {
+            "Topic": "Importance of Sleep and Rest",
+            "Questions": [
+                "How many hours of sleep do you usually get each night?",
+                "Do you think people in your country get enough rest?",
+                "How does lack of sleep affect daily life?",
+                "What habits help improve sleep quality?"
+            ]
+        },
+        {
+            "Topic": "Learning Styles and Preferences",
+            "Questions": [
+                "Do you prefer learning alone or with others?",
+                "What study methods work best for you?",
+                "Has your preferred learning style changed recently?",
+                "Why is it important to understand how you learn best?"
+            ]
+        },
+        {
+            "Topic": "Cultural Celebrations at School",
+            "Questions": [
+                "Does your school celebrate cultural events?",
+                "How do students participate in such celebrations?",
+                "Why are cultural celebrations important in education?",
+                "Have you ever learned something new through a school cultural event?"
+            ]
+        },
+        {
+            "Topic": "Gardening and Plants",
+            "Questions": [
+                "Do you enjoy growing plants or gardening?",
+                "What kind of plants are popular in your country?",
+                "Have you ever had a garden of your own?",
+                "Why do some people like to keep indoor plants?"
+            ]
+        },
+        {
+            "Topic": "Hobbies Related to Collecting",
+            "Questions": [
+                "Have you ever collected anything as a hobby?",
+                "Why do people collect items like stamps or coins?",
+                "Is collecting hobbies popular in your country?",
+                "What are the benefits of having a collecting hobby?"
+            ]
+        },
+        {
+            "Topic": "Learning and Education Methods",
+            "Questions": [
+                "What is your favorite way to learn new things?",
+                "Have teaching methods changed recently in your country?",
+                "Do you prefer learning alone or in a group?",
+                "How important is technology in education today?"
+            ]
+        },
+        {
+            "Topic": "Transportation Safety",
+            "Questions": [
+                "How safe is transportation in your hometown?",
+                "Do people in your country usually follow traffic rules?",
+                "What measures can improve road safety?",
+                "Have you ever experienced an accident or witnessed one?"
+            ]
+        },
+        {
+            "Topic": "Volunteering and Community Service",
+            "Questions": [
+                "Have you ever done any volunteer work?",
+                "Why do some people choose to volunteer their time?",
+                "Is volunteering common among young people in your country?",
+                "What kind of volunteer activities do you think are important?"
+            ]
+        },
+        {
+            "Topic": "Public Libraries and Their Role",
+            "Questions": [
+                "Do people in your country often visit public libraries?",
+                "What are the advantages of having a library in a community?",
+                "How has the role of libraries changed with digital technology?",
+                "Would you prefer to borrow books from a library or buy them?"
+            ]
+        },
+        {
+            "Topic": "Childhood Activities and Games",
+            "Questions": [
+                "What games did you play when you were a child?",
+                "Are traditional games still popular among children today?",
+                "How do childhood activities help in development?",
+                "Did you prefer indoor or outdoor games as a child?"
+            ]
+        },
+        {
+            "Topic": "Art and Craft Techniques",
+            "Questions": [
+                "Do you enjoy making art or crafts?",
+                "What kinds of crafts are popular in your culture?",
+                "Have you ever taken an art class or workshop?",
+                "How can art skills benefit people in everyday life?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Manners",
+            "Questions": [
+                "What are some important social manners in your country?",
+                "Have manners changed among younger generations?",
+                "How do people usually greet each other socially?",
+                "Why is etiquette important in society?"
+            ]
+        },
+        {
+            "Topic": "News and Media Consumption",
+            "Questions": [
+                "Do you often watch, read, or listen to the news?",
+                "Which form of media do you trust the most for news?",
+                "How has the way people get news changed recently?",
+                "Is it important to stay updated with current events?"
+            ]
+        },
+        {
+            "Topic": "Gardens and Parks",
+            "Questions": [
+                "Do you often visit gardens or parks?",
+                "What activities do you like to do in a park?",
+                "Is it important to have green spaces in cities? Why or why not?",
+                "What kind of plants or flowers do you like to see in a garden?"
+            ]
+        },
+        {
+            "Topic": "Local History",
+            "Questions": [
+                "Are you interested in the history of your town or city?",
+                "Have you visited any historical sites nearby?",
+                "Do you think learning local history is important? Why?",
+                "How do people in your area usually celebrate historical events?"
+            ]
+        },
+        {
+            "Topic": "Personal Personality",
+            "Questions": [
+                "How would you describe your personality?",
+                "Do you think personality can change over time?",
+                "Is it easy to make friends with someone new? Why or why not?",
+                "What qualities do you admire in other people?"
+            ]
+        },
+        {
+            "Topic": "Communication",
+            "Questions": [
+                "How do you usually communicate with your family and friends?",
+                "Do you prefer face-to-face conversations or texting? Why?",
+                "Have communication methods changed in your lifetime? How?",
+                "What is the most important aspect of good communication?"
+            ]
+        },
+        {
+            "Topic": "Money and Saving",
+            "Questions": [
+                "Do you like to save money or spend it right away?",
+                "What are some common ways people save money in your country?",
+                "Is it important to have a budget? Why or why not?",
+                "What would you usually buy with your first salary?"
+            ]
+        },
+        {
+            "Topic": "Healthy Eating",
+            "Questions": [
+                "Are you conscious about what you eat?",
+                "What kind of food do you usually include in a healthy diet?",
+                "Has your eating habit changed recently? How?",
+                "Do people in your country care about healthy eating? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Workplace Environment",
+            "Questions": [
+                "What is the work environment like in your job or study place?",
+                "Do you prefer working alone or with others? Why?",
+                "How important is a friendly workplace atmosphere?",
+                "Have you ever experienced a difficult situation at work? How did you handle it?"
+            ]
+        },
+        {
+            "Topic": "Public Services in the Community",
+            "Questions": [
+                "What kinds of public services are available in your community?",
+                "Are these public services efficient and helpful?",
+                "Is it common to use public services in daily life where you live?",
+                "What improvements would you suggest for public services in your area?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Manners",
+            "Questions": [
+                "How important are social manners in your culture?",
+                "Can you give examples of good manners commonly followed?",
+                "Have you ever experienced misunderstanding due to cultural differences in etiquette?",
+                "Do young people know and respect traditional manners today?"
+            ]
+        },
+        {
+            "Topic": "News and Media Consumption",
+            "Questions": [
+                "How often do you follow the news?",
+                "What type of news do you find most interesting or important?",
+                "Do you prefer reading news online or watching it on TV? Why?",
+                "Has your way of accessing news changed over the years?"
+            ]
+        },
+        {
+            "Topic": "Gardening and Plants",
+            "Questions": [
+                "Do you enjoy gardening?",
+                "What kinds of plants are popular in your country?",
+                "Have you ever planted a garden?",
+                "What are the benefits of having plants at home?"
+            ]
+        },
+        {
+            "Topic": "Transportation Safety",
+            "Questions": [
+                "How do you stay safe while traveling?",
+                "Are there any common traffic rules in your country?",
+                "Have you ever experienced a transportation accident?",
+                "What improvements could be made to transport safety?"
+            ]
+        },
+        {
+            "Topic": "Public Services in the Community",
+            "Questions": [
+                "What public services are available in your community?",
+                "How often do you use public services?",
+                "Are public services in your area efficient?",
+                "Which public service do you think needs the most improvement?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Manners",
+            "Questions": [
+                "What are some important manners in your culture?",
+                "How do people greet each other in your country?",
+                "Have you learned any social etiquette from other cultures?",
+                "Why are manners important in society?"
+            ]
+        },
+        {
+            "Topic": "News and Media Consumption",
+            "Questions": [
+                "How do you usually get your news?",
+                "Do you trust the news sources you use?",
+                "Has your media consumption changed recently?",
+                "Why is it important to stay informed about current events?"
+            ]
+        },
+        {
+            "Topic": "Art and Craft Techniques",
+            "Questions": [
+                "Have you ever tried any art or craft activities?",
+                "What traditional crafts are popular in your country?",
+                "Do you think learning art techniques is important for children?",
+                "Which art form do you enjoy the most?"
+            ]
+        },
+        {
+            "Topic": "Childhood Activities and Games",
+            "Questions": [
+                "What games did you play as a child?",
+                "Are traditional games still popular with children today?",
+                "Did you prefer indoor or outdoor activities in your childhood?",
+                "How have children's activities changed over time?"
+            ]
+        },
+        {
+            "Topic": "Use of Libraries Today",
+            "Questions": [
+                "Do you visit libraries often?",
+                "What do you think about digital libraries?",
+                "Are libraries important in modern society?",
+                "What services do libraries offer besides books?"
+            ]
+        },
+        {
+            "Topic": "Cultural Traditions and Customs",
+            "Questions": [
+                "Can you describe a cultural tradition from your country?",
+                "Do people in your country follow many customs during festivals?",
+                "Have traditions changed in recent years?",
+                "Why is it important to preserve cultural customs?"
+            ]
+        },
+        {
+            "Topic": "Importance of Sleep and Rest",
+            "Questions": [
+                "How many hours do you usually sleep each night?",
+                "Do you think people get enough sleep today?",
+                "What effects does lack of rest have on health?",
+                "How do you relax after a busy day?"
+            ]
+        },
+        {
+            "Topic": "Transportation Safety",
+            "Questions": [
+                "How do you usually travel to work or school?",
+                "What safety measures do you think are important when using public transport?",
+                "Have you ever been in a vehicle accident? How did you feel about it?",
+                "Do you think drivers in your country follow traffic rules?"
+            ]
+        },
+        {
+            "Topic": "Urban Green Spaces",
+            "Questions": [
+                "Are there many parks or green areas in your city?",
+                "How often do you visit parks or gardens?",
+                "Why do you think urban green spaces are important for cities?",
+                "What activities do people usually do in green spaces?"
+            ]
+        },
+        {
+            "Topic": "News and Media Consumption",
+            "Questions": [
+                "Where do you usually get your news from?",
+                "How often do you read newspapers or watch news broadcasts?",
+                "Do you trust the information from social media news sources?",
+                "How important is it to stay updated with current events?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Manners",
+            "Questions": [
+                "Can you describe some common social manners in your country?",
+                "Why are good manners important in daily life?",
+                "Have you ever experienced a situation with bad manners? How did you react?",
+                "Do you think manners have changed over the years?"
+            ]
+        },
+        {
+            "Topic": "Public Services in the Community",
+            "Questions": [
+                "What public services are available in your community?",
+                "Are the public services in your area efficient and helpful?",
+                "What improvements would you like to see in public services?",
+                "How do public services impact the quality of life in your city?"
+            ]
+        },
+        {
+            "Topic": "Cultural Traditions and Customs",
+            "Questions": [
+                "Can you tell me about a cultural tradition in your country?",
+                "How are traditions passed down through generations?",
+                "Have you ever participated in a cultural festival or ceremony?",
+                "Do you think traditions are important for society?"
+            ]
+        },
+        {
+            "Topic": "Importance of Sleep and Rest",
+            "Questions": [
+                "How many hours of sleep do you usually get each night?",
+                "Do you think getting enough sleep affects your mood?",
+                "What do you usually do to relax before going to bed?",
+                "Have you ever suffered from lack of sleep? How did it affect you?"
+            ]
+        },
+        {
+            "Topic": "Use of Libraries Today",
+            "Questions": [
+                "Do you often use public libraries? Why or why not?",
+                "What facilities does your local library offer besides books?",
+                "How can libraries attract more young people?",
+                "Do you think libraries will still be important in the future?"
+            ]
+        },
+        {
+            "Topic": "Workplace Environment",
+            "Questions": [
+                "What makes a good working environment for you?",
+                "Have you ever worked in an office or from home? Which do you prefer?",
+                "How does the workplace environment affect employee productivity?",
+                "What changes would improve workplaces in your country?"
+            ]
+        },
+        {
+            "Topic": "Money and Saving",
+            "Questions": [
+                "Do you prefer saving money or spending it right away?",
+                "What is the main purpose of saving money for people in your country?",
+                "Have you ever saved money for a special purchase or event?",
+                "What advice would you give to someone who wants to save money better?"
+            ]
+        },
+        {
+            "Topic": "Hobbies and Interests in Nature",
+            "Questions": [
+                "Do you enjoy spending time outdoors?",
+                "What natural places do you like to visit?",
+                "How often do you go hiking or camping?",
+                "Have you ever tried bird watching or fishing?"
+            ]
+        },
+        {
+            "Topic": "Cultural Activities",
+            "Questions": [
+                "Are you interested in learning about other cultures?",
+                "Have you ever attended a cultural festival?",
+                "What traditional events are popular in your hometown?",
+                "Do you like visiting museums or art galleries?"
+            ]
+        },
+        {
+            "Topic": "Shopping for Technology Gadgets",
+            "Questions": [
+                "Do you often buy new gadgets?",
+                "What type of electronic devices do you use daily?",
+                "How do you decide which gadgets to purchase?",
+                "Have you ever bought technology gifts for someone?"
+            ]
+        },
+        {
+            "Topic": "Personal Celebrations and Parties",
+            "Questions": [
+                "What kinds of celebrations do you enjoy?",
+                "How do people in your country celebrate birthdays?",
+                "Have you ever organized a party for a special occasion?",
+                "Do you prefer small gatherings or large parties?"
+            ]
+        },
+        {
+            "Topic": "Learning at Home",
+            "Questions": [
+                "Do you like studying or learning at home?",
+                "What subjects do you find easiest to learn on your own?",
+                "Have you used online courses for learning?",
+                "How do you stay motivated when studying independently?"
+            ]
+        },
+        {
+            "Topic": "Using Public Services",
+            "Questions": [
+                "What public services are available in your community?",
+                "Have you ever used the local post office?",
+                "Do you think public transport is well-organized in your area?",
+                "How important are public parks and libraries for your town?"
+            ]
+        },
+        {
+            "Topic": "Favorite Types of Weather",
+            "Questions": [
+                "What kind of weather do you prefer?",
+                "Does the weather affect your mood or activities?",
+                "How do you dress when the weather is very hot or cold?",
+                "Have you ever experienced extreme weather conditions?"
+            ]
+        },
+        {
+            "Topic": "Local Cuisine and Traditional Dishes",
+            "Questions": [
+                "What are some famous dishes from your country?",
+                "Do you enjoy cooking traditional meals?",
+                "Have you tried food from other countries?",
+                "Is there any special food you eat during festivals?"
+            ]
+        },
+        {
+            "Topic": "Celebrating Achievements",
+            "Questions": [
+                "How do people celebrate achievements in your culture?",
+                "Have you ever been rewarded for something important?",
+                "What kind of achievements are most respected by your family?",
+                "Do you think it's important to celebrate small successes?"
+            ]
+        },
+        {
+            "Topic": "Using Libraries and Reading Places",
+            "Questions": [
+                "Do you often visit libraries or reading rooms?",
+                "What do you like to read when you go to a library?",
+                "Is the library in your area well-equipped?",
+                "Have libraries changed with the introduction of digital books?"
+            ]
+        },
+        {
+            "Topic": "Transportation Safety",
+            "Questions": [
+                "Do you think public transportation is safe in your country?",
+                "Have you ever had a dangerous experience on public transport?",
+                "How can transportation safety be improved in urban areas?",
+                "Do you prefer traveling by car or public transport for safety reasons?"
+            ]
+        },
+        {
+            "Topic": "Cultural Activities",
+            "Questions": [
+                "What cultural activities are popular in your hometown?",
+                "Have you ever participated in a traditional cultural event?",
+                "Why do you think cultural activities are important?",
+                "How do cultural activities help people understand each other?"
+            ]
+        },
+        {
+            "Topic": "Workplace Environment",
+            "Questions": [
+                "What kind of workplace environment do you prefer?",
+                "How does the office layout affect employees’ productivity?",
+                "Have you ever worked in a noisy workplace? How did it affect your work?",
+                "What changes would you suggest to improve your workplace environment?"
+            ]
+        },
+        {
+            "Topic": "Personal Goals",
+            "Questions": [
+                "What are some personal goals you are currently working on?",
+                "How do you plan to achieve your goals?",
+                "Do you think it’s important to set goals for the future? Why or why not?",
+                "Have your personal goals changed over the past few years?"
+            ]
+        },
+        {
+            "Topic": "Urban Green Spaces",
+            "Questions": [
+                "Are there many green spaces in your city or town?",
+                "How often do you visit parks or gardens in your area?",
+                "What benefits do urban green spaces provide to residents?",
+                "Would you like to see more green areas in your city? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "News and Media Consumption",
+            "Questions": [
+                "How do you usually get your news?",
+                "Do you trust the news sources in your country? Why or why not?",
+                "How has the way people consume news changed in recent years?",
+                "Do you prefer reading news online or watching it on TV?"
+            ]
+        },
+        {
+            "Topic": "Social Etiquette and Manners",
+            "Questions": [
+                "What social etiquette is important in your culture?",
+                "Have you ever experienced a situation where someone was rude to you? How did you react?",
+                "How do manners differ between formal and informal settings?",
+                "Do you think social etiquette has changed over time?"
+            ]
+        },
+        {
+            "Topic": "Importance of Sleep and Rest",
+            "Questions": [
+                "How many hours of sleep do you usually get each night?",
+                "Why is sleep important for good health?",
+                "Do people in your country take enough rest during holidays or weekends?",
+                "What do you usually do to help yourself relax and get better sleep?"
+            ]
+        },
+        {
+            "Topic": "Public Services in the Community",
+            "Questions": [
+                "What public services are available in your local community?",
+                "How satisfied are you with these public services?",
+                "Have you ever needed help from a public service like healthcare or police? How was your experience?",
+                "What improvements would you like to see in public services nearby?"
+            ]
+        },
+        {
+            "Topic": "Using Mobile Phones",
+            "Questions": [
+                "How often do you use your mobile phone in a day?",
+                "What are the main uses of mobile phones for you?",
+                "Do you think people rely too much on mobile phones nowadays? Why or why not?",
+                "Have mobile phones changed the way people communicate in your country?"
+            ]
+        },
+        {
+            "Topic": "Leisure Activities",
+            "Questions": [
+                "What do you usually do in your free time?",
+                "Do you prefer spending your leisure time indoors or outdoors?",
+                "How often do you engage in leisure activities?",
+                "Have your leisure activities changed over the years?"
+            ]
+        },
+        {
+            "Topic": "Childhood Memories",
+            "Questions": [
+                "What is your favorite memory from childhood?",
+                "Did you have a favorite game as a child?",
+                "Who did you spend most of your time with during your childhood?",
+                "How has your childhood influenced the person you are today?"
+            ]
+        },
+        {
+            "Topic": "Relationships with Friends",
+            "Questions": [
+                "How do you usually make new friends?",
+                "What qualities do you look for in a friend?",
+                "Do you think friendships change as people grow older?",
+                "How do you keep in touch with your friends?"
+            ]
+        },
+        {
+            "Topic": "Celebrations and Parties",
+            "Questions": [
+                "What kinds of celebrations are important in your culture?",
+                "How often do you attend parties or social gatherings?",
+                "Do you prefer big parties or small gatherings?",
+                "What role do celebrations play in people’s lives?"
+            ]
+        },
+        {
+            "Topic": "Shopping Experiences",
+            "Questions": [
+                "Do you enjoy shopping? Why or why not?",
+                "Where do you usually go shopping?",
+                "Have your shopping habits changed recently?",
+                "Do you prefer shopping alone or with others?"
+            ]
+        },
+        {
+            "Topic": "Neighborhood and Community",
+            "Questions": [
+                "Can you describe the area where you live?",
+                "What do you like most about your neighborhood?",
+                "Are there any community events that you participate in?",
+                "How safe do you feel in your community?"
+            ]
+        },
+        {
+            "Topic": "Public Services",
+            "Questions": [
+                "What public services are available in your area?",
+                "Have you ever used any public services recently?",
+                "Are public services important for a community’s development?",
+                "How could public services be improved where you live?"
+            ]
+        },
+        {
+            "Topic": "Holidays and Festivals",
+            "Questions": [
+                "Which holiday is your favorite and why?",
+                "How do people in your country usually celebrate festivals?",
+                "Do holidays have special meaning for you personally?",
+                "Have you ever celebrated a festival abroad?"
+            ]
+        },
+        {
+            "Topic": "Climate and Weather Effects",
+            "Questions": [
+                "How does the weather affect your daily activities?",
+                "What type of weather do you enjoy the most?",
+                "Have there been any recent changes in the weather in your area?",
+                "How do people prepare for extreme weather conditions where you live?"
+            ]
+        },
+        {
+            "Topic": "Personal Achievements",
+            "Questions": [
+                "What is an achievement you are proud of?",
+                "Do you prefer setting short-term or long-term goals?",
+                "How do you celebrate your achievements?",
+                "Who has influenced your achievements the most?"
+            ]
+        },
+        {
+            "Topic": "Gardening and Plants",
+            "Questions": [
+                "Do you enjoy gardening?",
+                "What kinds of plants are popular in your country?",
+                "Have you ever grown your own vegetables or flowers?",
+                "How does gardening benefit people?"
+            ]
+        },
+        {
+            "Topic": "Favorite Places in Your Country",
+            "Questions": [
+                "What is your favorite place to visit in your country?",
+                "Why do you like going there?",
+                "Is it popular with tourists?",
+                "How often do you visit that place?"
+            ]
+        },
+        {
+            "Topic": "Weekends and Leisure",
+            "Questions": [
+                "What do you usually do on weekends?",
+                "Do you prefer spending weekends indoors or outdoors?",
+                "Have your weekend activities changed recently?",
+                "What is an ideal weekend for you?"
+            ]
+        },
+        {
+            "Topic": "Transportation Preferences",
+            "Questions": [
+                "What is your usual way to travel in your city?",
+                "Do you prefer public transport or private vehicles?",
+                "Have transport options improved where you live?",
+                "Would you like to have a driving license?"
+            ]
+        },
+        {
+            "Topic": "Weather Impact on Life",
+            "Questions": [
+                "How does the weather affect your daily activities?",
+                "What is your favorite season and why?",
+                "Has the climate changed in your hometown?",
+                "Do you think weather influences people's moods?"
+            ]
+        },
+        {
+            "Topic": "Festive Activities",
+            "Questions": [
+                "What festivals do people celebrate in your country?",
+                "Which festival is your favorite and why?",
+                "Do you take part in any special activities during festivals?",
+                "How do festivals bring people together?"
+            ]
+        },
+        {
+            "Topic": "Personal Technology Use",
+            "Questions": [
+                "How often do you use a smartphone?",
+                "What apps do you use most on your phone?",
+                "Do you think technology makes life easier?",
+                "Are there any disadvantages of using technology daily?"
+            ]
+        },
+        {
+            "Topic": "Learning New Skills",
+            "Questions": [
+                "Have you learned any new skills recently?",
+                "What skill would you like to learn next?",
+                "Is it better to learn skills from books or from experience?",
+                "Why are new skills important for young people?"
+            ]
+        },
+        {
+            "Topic": "Local Food and Traditions",
+            "Questions": [
+                "What is a traditional dish from your region?",
+                "Do you enjoy cooking traditional food at home?",
+                "Have food habits changed in your country over time?",
+                "Do younger generations appreciate traditional food?"
+            ]
+        },
+        {
+            "Topic": "Public Spaces and Parks",
+            "Questions": [
+                "Do you have parks or public spaces in your neighborhood?",
+                "How often do you visit public parks?",
+                "What activities do people usually do in parks?",
+                "Why are public spaces important in cities?"
+            ]
+        },
+        {
+            "Topic": "Space and Astronomy",
+            "Questions": [
+                "Have you ever been interested in space?",
+                "What do you think about space exploration?",
+                "Would you like to visit space one day?",
+                "How do people learn about space in your country?"
+            ]
+        },
+        {
+            "Topic": "Dream Jobs",
+            "Questions": [
+                "What was your dream job when you were a child?",
+                "Have your career aspirations changed over time?",
+                "What job do you think is the most interesting?",
+                "Are there any jobs you would never want to do?"
+            ]
+        },
+        {
+            "Topic": "Superstitions and Beliefs",
+            "Questions": [
+                "Are there any superstitions popular in your country?",
+                "Do you believe in luck or fate?",
+                "Have you ever avoided something because it was considered unlucky?",
+                "What role do traditions and beliefs play in daily life?"
+            ]
+        },
+        {
+            "Topic": "Shopping for Gifts",
+            "Questions": [
+                "How often do you buy gifts for others?",
+                "What kinds of gifts do people prefer in your culture?",
+                "Have you ever made a handmade gift?",
+                "What do you think makes a gift special?"
+            ]
+        },
+        {
+            "Topic": "Public Parks and Recreation Areas",
+            "Questions": [
+                "Do you have public parks near where you live?",
+                "How often do you visit parks or recreational spaces?",
+                "What activities do people usually do in parks in your city?",
+                "Why are public parks important for communities?"
+            ]
+        },
+        {
+            "Topic": "Learning Methods",
+            "Questions": [
+                "How do you prefer to learn new things?",
+                "Do you think learning habits change with age?",
+                "Have you tried any online courses recently?",
+                "What is the best way to improve a new skill quickly?"
+            ]
+        },
+        {
+            "Topic": "Household Chores",
+            "Questions": [
+                "Which household chores do you usually do?",
+                "Do you think children should help with chores?",
+                "Is it important to share housework equally in a family?",
+                "Which household chore do you dislike the most, and why?"
+            ]
+        },
+        {
+            "Topic": "Dream Holidays",
+            "Questions": [
+                "What would your ideal holiday be like?",
+                "Have you ever been on a holiday that was very special?",
+                "Do you prefer relaxing holidays or adventurous ones?",
+                "Where would you like to travel for a holiday in the future?"
+            ]
+        },
+        {
+            "Topic": "Learning Foreign Languages",
+            "Questions": [
+                "Have you ever learned a foreign language?",
+                "What is the best way to practice speaking a new language?",
+                "Do you think learning languages is important today?",
+                "Are there any languages you would like to learn in the future?"
+            ]
+        },
+        {
+            "Topic": "Urban Living vs. Rural Living",
+            "Questions": [
+                "Have you ever lived in both a city and the countryside?",
+                "What are the advantages of living in a city?",
+                "What are the benefits of living in rural areas?",
+                "Which would you prefer to live in, and why?"
+            ]
+        },
+        {
+            "Topic": "Space and Astronomy",
+            "Questions": [
+                "Are you interested in space exploration?",
+                "Have you ever visited a planetarium?",
+                "Do you think humans will live on other planets in the future?",
+                "What do you know about the solar system?"
+            ]
+        },
+        {
+            "Topic": "Dream Jobs",
+            "Questions": [
+                "What was your dream job as a child?",
+                "Do you think your dream job changed as you grew older?",
+                "What qualities do you think are important for your dream job?",
+                "Would you prefer to start your own business or work for a company?"
+            ]
+        },
+        {
+            "Topic": "Superstitions and Beliefs",
+            "Questions": [
+                "Are there any superstitions in your culture?",
+                "Do you believe in good luck or bad luck?",
+                "Have you ever done something because of a superstition?",
+                "What is the most common superstition people believe in your country?"
+            ]
+        },
+        {
+            "Topic": "Neighborhood and Community",
+            "Questions": [
+                "Can you describe your neighborhood?",
+                "What do you like about living in your community?",
+                "Are there any community activities you participate in?",
+                "How has your neighborhood changed over time?"
+            ]
+        },
+        {
+            "Topic": "Public Services",
+            "Questions": [
+                "What public services are available in your city?",
+                "Have you ever used public healthcare services?",
+                "How important are public libraries to the community?",
+                "Do you think public transport services should be improved?"
+            ]
+        },
+        {
+            "Topic": "Household Chores",
+            "Questions": [
+                "Which household chore do you dislike the most?",
+                "Do you help with chores at home?",
+                "Have your chores changed since you moved out of your parents’ house?",
+                "Do you prefer doing chores alone or with family members?"
+            ]
+        },
+        {
+            "Topic": "Dream Holidays",
+            "Questions": [
+                "What is your ideal holiday destination?",
+                "Have you ever planned a dream holiday?",
+                "Would you prefer a relaxing holiday or an adventurous one?",
+                "Do you like traveling alone or with others during holidays?"
+            ]
+        },
+        {
+            "Topic": "Favorite Places in Your Country",
+            "Questions": [
+                "What is your favorite place to visit in your country?",
+                "Why do you like this place?",
+                "Have you recommended this place to others?",
+                "Would you like to live there one day?"
+            ]
+        },
+        {
+            "Topic": "Personal Achievements",
+            "Questions": [
+                "What personal achievement are you proud of?",
+                "How did you celebrate your achievement?",
+                "Do you think achievements motivate people?",
+                "Which achievement would you like to accomplish next?"
+            ]
+        },
+        {
+            "Topic": "Relationships with Friends",
+            "Questions": [
+                "How did you meet your best friend?",
+                "What activities do you enjoy doing with friends?",
+                "Do you think it is important to have many friends or just a few close ones?",
+                "How do you keep in touch with your friends?"
+            ]
+        },
+        {
+            "Topic": "Childhood Hobbies",
+            "Questions": [
+                "What activities did you enjoy doing as a child?",
+                "Did you have any favorite games or toys during your childhood?",
+                "How did your childhood hobbies influence your life today?",
+                "Were your hobbies similar to those of your friends at that time?"
+            ]
+        },
+        {
+            "Topic": "Weather and Clothing",
+            "Questions": [
+                "How does the weather affect your choice of clothing?",
+                "What type of clothing do you prefer during cold weather?",
+                "Do you follow fashion trends when choosing clothes for different seasons?",
+                "Have you ever had to change your clothing style because of the climate where you live?"
+            ]
+        },
+        {
+            "Topic": "Local Transportation",
+            "Questions": [
+                "What types of local transportation are popular in your area?",
+                "Do you prefer to use public transport or private vehicles? Why?",
+                "How often do you use local buses or trains?",
+                "Have there been any recent improvements in public transportation where you live?"
+            ]
+        },
+        {
+            "Topic": "Festivals in Your Country",
+            "Questions": [
+                "Can you describe a festival that is important in your country?",
+                "How do people usually celebrate this festival?",
+                "What do you enjoy most about festivals in your culture?",
+                "Are there any changes in how festivals are celebrated compared to the past?"
+            ]
+        },
+        {
+            "Topic": "Environmental Awareness",
+            "Questions": [
+                "What steps do people in your area take to protect the environment?",
+                "Are there any environmental problems that concern you personally?",
+                "How do schools in your country teach about environmental protection?",
+                "Have you participated in any environmental activities or campaigns?"
+            ]
+        },
+        {
+            "Topic": "Food Markets",
+            "Questions": [
+                "What kinds of food markets are common in your city or town?",
+                "Do you enjoy shopping at local markets or supermarkets more?",
+                "What advantages do traditional food markets have compared to large stores?",
+                "Have food markets changed much over the last few years where you live?"
+            ]
+        },
+        {
+            "Topic": "Family Relationships",
+            "Questions": [
+                "How important is family in your culture?",
+                "Do you usually spend a lot of time with your family members?",
+                "How do family members support each other in your country?",
+                "Have family roles changed compared to previous generations?"
+            ]
+        },
+        {
+            "Topic": "Pets and Animals",
+            "Questions": [
+                "Are pets popular in your country?",
+                "What kinds of animals do people commonly keep as pets?",
+                "Have you ever had a pet yourself? Tell me about it.",
+                "What benefits do people get from having a pet at home?"
+            ]
+        },
+        {
+            "Topic": "Using Technology at Home",
+            "Questions": [
+                "What types of technology do you use most often at home?",
+                "How has technology changed daily life for your family?",
+                "Are there any disadvantages of using technology at home?",
+                "Do you think people rely too much on technology these days?"
+            ]
+        },
+        {
+            "Topic": "Learning Experiences",
+            "Questions": [
+                "Can you describe a memorable learning experience you've had?",
+                "What was different about learning at school compared to learning outside school?",
+                "Do you prefer to learn alone or with others? Why?",
+                "How do you feel about learning new skills or knowledge as an adult?"
+            ]
+        },
+        {
+            "Topic": "Shopping for Gifts",
+            "Questions": [
+                "How do you usually choose gifts for your friends or family?",
+                "What kind of gifts do you think are the best to give?",
+                "Have you ever received a memorable gift? What was it?",
+                "Do you prefer giving handmade gifts or store-bought gifts?"
+            ]
+        },
+        {
+            "Topic": "Dream Jobs",
+            "Questions": [
+                "What is your dream job and why?",
+                "Do you think your dream job will be easy to achieve?",
+                "How important is job satisfaction compared to salary for you?",
+                "Have your career goals changed over time?"
+            ]
+        },
+        {
+            "Topic": "Space and Astronomy",
+            "Questions": [
+                "Are you interested in space and astronomy? Why or why not?",
+                "Have you ever visited a planetarium or observatory?",
+                "Do you believe humans will live on other planets in the future?",
+                "What do you think is the most fascinating fact about space?"
+            ]
+        },
+        {
+            "Topic": "Superstitions and Beliefs",
+            "Questions": [
+                "Are there any superstitions that people in your country believe in?",
+                "Do you personally believe in any superstitions?",
+                "How do superstitions influence people's behavior in your culture?",
+                "Can superstitions be harmful or helpful? Explain."
+            ]
+        },
+        {
+            "Topic": "Neighborhood and Community",
+            "Questions": [
+                "How would you describe your neighborhood?",
+                "Do you think it is important to know your neighbors? Why?",
+                "What kind of community activities do people participate in your area?",
+                "Has your neighborhood changed much over recent years?"
+            ]
+        },
+        {
+            "Topic": "Household Chores",
+            "Questions": [
+                "What household chores do you usually do at home?",
+                "Do you enjoy doing household chores? Why or why not?",
+                "Who is responsible for most household tasks in your family?",
+                "Have your feelings about household chores changed as you've grown older?"
+            ]
+        },
+        {
+            "Topic": "Dream Holidays",
+            "Questions": [
+                "What would be your ideal holiday destination and why?",
+                "Do you prefer relaxing holidays or adventurous ones?",
+                "Are holidays important for people’s well-being? Explain.",
+                "Have you ever experienced a holiday that was different from what you expected?"
+            ]
+        },
+        {
+            "Topic": "Favorite Places in Your Country",
+            "Questions": [
+                "What is your favorite place in your country to visit?",
+                "Why do you like this place more than others?",
+                "Do you think this place is popular among tourists? Why or why not?",
+                "Would you recommend this place to visitors from other countries?"
+            ]
+        },
+        {
+            "Topic": "Personal Achievements",
+            "Questions": [
+                "What achievements are you most proud of in your life so far?",
+                "How do people in your culture celebrate their achievements?",
+                "Do personal achievements motivate you to work harder? Explain.",
+                "Is it more important to focus on personal achievements or team achievements? Why?"
+            ]
+        },
+        {
+            "Topic": "Relationships with Friends",
+            "Questions": [
+                "How did you meet your close friends?",
+                "What qualities do you value most in a friend?",
+                "How often do you spend time with your friends?",
+                "Do you think friendships change as people grow older? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Public Speaking",
+            "Questions": [
+                "Do you enjoy speaking in front of people?",
+                "Have you ever given a speech or presentation?",
+                "What do you think are important skills for public speaking?",
+                "How do people in your country feel about public speaking?"
+            ]
+        },
+        {
+            "Topic": "Shopping for Electronics",
+            "Questions": [
+                "How often do you buy electronic devices?",
+                "What electronic gadget do you use most frequently?",
+                "Do you prefer shopping for electronics online or in physical stores?",
+                "What factors influence your choice when buying electronics?"
+            ]
+        },
+        {
+            "Topic": "Birthday Celebrations",
+            "Questions": [
+                "How do you usually celebrate your birthday?",
+                "What is the most memorable birthday you've had?",
+                "Do people in your country have any special birthday traditions?",
+                "Would you prefer a big party or a small family gathering for your birthday?"
+            ]
+        },
+        {
+            "Topic": "Learning at University",
+            "Questions": [
+                "What is your favorite subject at university?",
+                "Do you study better alone or in groups?",
+                "How do you manage your study time effectively?",
+                "What do you think about online learning versus traditional classroom learning?"
+            ]
+        },
+        {
+            "Topic": "Public Libraries",
+            "Questions": [
+                "Do you visit public libraries often?",
+                "What do you usually do when you visit a library?",
+                "How important are libraries in your community?",
+                "Have libraries changed with the development of digital technology?"
+            ]
+        },
+        {
+            "Topic": "Social Media Use",
+            "Questions": [
+                "Which social media platforms do you use the most?",
+                "How does social media affect your daily life?",
+                "Do you think social media is useful for learning new things?",
+                "Have you ever taken a break from social media? Why or why not?"
+            ]
+        },
+        {
+            "Topic": "Local Food Markets",
+            "Questions": [
+                "Have you ever visited a local food market?",
+                "What kinds of food can you find there?",
+                "Do you think local markets are better than supermarkets? Why?",
+                "How often do you buy fresh food from markets?"
+            ]
+        },
+        {
+            "Topic": "Public Parks",
+            "Questions": [
+                "How often do you visit public parks?",
+                "What facilities do you like in parks?",
+                "Do you think parks are important for cities? Why?",
+                "Have parks changed in your area over time?"
+            ]
+        },
+        {
+            "Topic": "Cooking at Home",
+            "Questions": [
+                "Do you enjoy cooking at home?",
+                "What is your favorite dish to cook?",
+                "How often do you cook meals yourself?",
+                "Has your cooking improved over time?"
+            ]
+        },
+        {
+            "Topic": "Learning Musical Instruments",
+            "Questions": [
+                "Have you ever learned a musical instrument?",
+                "Which musical instrument would you like to learn and why?",
+                "Do many people in your country learn musical instruments?",
+                "What benefits do you think learning an instrument can have?"
+            ]
+        }
+    ]
+}
